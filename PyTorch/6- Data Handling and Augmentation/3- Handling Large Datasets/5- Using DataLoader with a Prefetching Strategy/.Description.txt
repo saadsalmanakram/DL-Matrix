@@ -1,0 +1,1 @@
+Enhance data loading efficiency by prefetching data into the GPU while the current batch is being processed.
