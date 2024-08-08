@@ -1,0 +1,1 @@
+Accuracy is a metric that measures the proportion of correct predictions out of the total predictions made. It is commonly used for classification tasks.
