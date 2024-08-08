@@ -1,0 +1,1 @@
+Batch normalization normalizes the input to each layer in a neural network, improving training speed and stability.
