@@ -1,0 +1,2 @@
+To save both the model architecture and its state dictionary to disk. This method is useful if you want to save the whole model, including its structure.
+
