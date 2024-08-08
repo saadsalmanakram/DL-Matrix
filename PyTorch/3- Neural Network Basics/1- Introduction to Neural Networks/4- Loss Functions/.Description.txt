@@ -1,0 +1,1 @@
+Loss functions measure how well the network's predictions match the true labels and guide the optimization process.
