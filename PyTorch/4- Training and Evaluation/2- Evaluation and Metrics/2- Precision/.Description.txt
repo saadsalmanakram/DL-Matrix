@@ -1,0 +1,1 @@
+Precision measures the proportion of true positive predictions among all positive predictions. It is useful in scenarios where the cost of false positives is high.
