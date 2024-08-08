@@ -1,0 +1,1 @@
+Converting images or data to PyTorch tensors is a common preprocessing step, enabling compatibility with PyTorch's neural network operations.
