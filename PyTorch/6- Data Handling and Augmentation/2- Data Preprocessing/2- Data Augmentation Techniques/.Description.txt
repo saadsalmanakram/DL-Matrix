@@ -1,0 +1,1 @@
+Data augmentation involves creating variations of data to improve model robustness and generalization. Common augmentations include rotation, flipping, and cropping.
