@@ -1,0 +1,1 @@
+To wrap the model and automatically split the input across multiple devices, then gather the results back onto a single device. It performs parallelism at the batch level.
