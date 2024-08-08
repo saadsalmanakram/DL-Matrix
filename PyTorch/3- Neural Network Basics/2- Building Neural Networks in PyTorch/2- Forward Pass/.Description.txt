@@ -1,0 +1,1 @@
+To define how the input data passes through the model layers during the forward propagation.
