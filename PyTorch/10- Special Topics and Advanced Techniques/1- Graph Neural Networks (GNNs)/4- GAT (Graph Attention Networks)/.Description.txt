@@ -1,0 +1,1 @@
+GAT introduces attention mechanisms to GNNs, allowing the model to weigh the importance of different neighbors.
