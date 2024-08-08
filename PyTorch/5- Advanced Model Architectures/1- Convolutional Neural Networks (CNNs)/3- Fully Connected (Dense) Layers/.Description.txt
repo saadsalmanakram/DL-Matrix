@@ -1,0 +1,1 @@
+Fully connected layers are used after convolutional and pooling layers to make decisions based on the features extracted by earlier layers. They are typically used at the end of the network to output class scores or regression predictions.
