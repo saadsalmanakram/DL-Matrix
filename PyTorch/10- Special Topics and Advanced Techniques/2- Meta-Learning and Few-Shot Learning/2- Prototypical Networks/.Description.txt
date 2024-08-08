@@ -1,0 +1,1 @@
+Prototypical Networks learn a metric space where classification can be done by computing distances to prototype representations of each class. This is effective for few-shot learning scenarios.

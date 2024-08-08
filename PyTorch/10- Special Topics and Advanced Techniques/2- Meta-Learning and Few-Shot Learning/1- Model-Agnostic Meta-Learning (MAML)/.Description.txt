@@ -1,0 +1,1 @@
+MAML is a meta-learning algorithm that aims to learn a model's initialization such that it can adapt quickly to new tasks with only a few gradient steps. It's model-agnostic, meaning it can be applied to a variety of model architectures.
