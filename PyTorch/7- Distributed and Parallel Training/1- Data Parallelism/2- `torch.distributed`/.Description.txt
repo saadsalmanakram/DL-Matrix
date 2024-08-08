@@ -1,0 +1,1 @@
+The torch.distributed package provides distributed training support in PyTorch, allowing you to parallelize computations across multiple nodes and GPUs. It supports different backends like NCCL, MPI, and Gloo. Common use cases include distributed data parallelism, model parallelism, and more.
