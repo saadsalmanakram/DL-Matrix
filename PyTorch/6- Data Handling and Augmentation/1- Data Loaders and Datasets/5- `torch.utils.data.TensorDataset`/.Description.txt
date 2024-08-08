@@ -1,0 +1,1 @@
+TensorDataset is a simple dataset class that takes tensors as input and returns a dataset where each sample is a tuple of tensors. It’s useful for handling data and labels as tensors.
