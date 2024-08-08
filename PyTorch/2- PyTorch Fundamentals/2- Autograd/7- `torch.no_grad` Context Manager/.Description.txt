@@ -1,0 +1,1 @@
+torch.no_grad is a context manager that temporarily sets all the requires_grad flags to False.
