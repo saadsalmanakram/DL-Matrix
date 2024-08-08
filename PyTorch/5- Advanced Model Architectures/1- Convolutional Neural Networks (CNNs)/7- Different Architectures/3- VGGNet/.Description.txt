@@ -1,0 +1,1 @@
+VGGNet is known for its simplicity, using small (3x3) convolution filters but a large number of layers. VGG16 and VGG19 are common variants.
