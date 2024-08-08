@@ -1,0 +1,1 @@
+Neurons are the basic units of a neural network that perform computations. Activation functions introduce non-linearity, allowing the network to learn complex patterns.
