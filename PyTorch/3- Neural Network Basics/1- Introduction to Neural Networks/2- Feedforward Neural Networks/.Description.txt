@@ -1,0 +1,1 @@
+Feedforward Neural Networks (FNNs) consist of input, hidden, and output layers where data moves in one direction from input to output.
