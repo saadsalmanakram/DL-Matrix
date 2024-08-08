@@ -1,3 +1,0 @@
-Efficiently load and preprocess data in batches during training and evaluation.
-
-Allows for easy integration with various data sources and formats.

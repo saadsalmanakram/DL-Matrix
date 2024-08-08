@@ -1,3 +1,0 @@
-Define custom batch processing logic when data is retrieved from a DataLoader.
-
-Useful for handling variable-sized inputs or combining different data formats.

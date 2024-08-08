@@ -1,3 +1,0 @@
-Efficiently manage and process large datasets that might not fit into memory.
-
-Utilize techniques like lazy loading, chunking, and caching.
