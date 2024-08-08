@@ -1,0 +1,1 @@
+MSE Loss is commonly used for regression problems. It calculates the average of the squared differences between predicted and actual values.
