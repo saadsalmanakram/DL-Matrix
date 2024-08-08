@@ -1,0 +1,1 @@
+BCE Loss is used for binary classification tasks. It measures the loss between binary predicted outputs and actual binary targets.
