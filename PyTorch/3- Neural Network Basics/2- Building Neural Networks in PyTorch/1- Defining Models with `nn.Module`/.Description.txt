@@ -1,0 +1,1 @@
+To create a custom neural network model by subclassing torch.nn.Module and defining the layers and the forward pass.
