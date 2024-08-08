@@ -1,0 +1,1 @@
+torch.distributed.all_reduce is a collective operation used to sum up tensors across all processes. The result is then shared among all processes, which is useful for aggregating gradients during distributed training.
