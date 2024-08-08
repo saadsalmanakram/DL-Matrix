@@ -1,0 +1,10 @@
+To understand the differences between Keras and other deep learning frameworks like TensorFlow, PyTorch, and Theano.
+
+Keras is built on top of TensorFlow, providing a more user-friendly API for model creation. In contrast, TensorFlow offers more control and flexibility for low-level operations. Here's a brief comparison:
+
+1- Keras: Easier to use, great for beginners and rapid prototyping.
+2- TensorFlow: More complex, suitable for detailed model customization and production environments.
+3- PyTorch: Known for dynamic computation graphs and easier debugging.
+4- Theano: Older framework, less commonly used now.
+
+Keras is often used with TensorFlow, but you can also use it with other backends. The primary difference is in the level of control and ease of use.
