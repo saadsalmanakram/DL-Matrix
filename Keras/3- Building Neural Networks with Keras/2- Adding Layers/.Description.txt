@@ -1,0 +1,1 @@
+To build the model by adding layers like Dense, Activation, Dropout, etc.
