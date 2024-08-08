@@ -1,0 +1,1 @@
+torch.nn.DataParallel is used to parallelize your model by splitting the input data across multiple GPUs. It replicates the model on each GPU and splits the input data across the GPUs to perform computations in parallel. The outputs are then gathered and combined on the default GPU.
