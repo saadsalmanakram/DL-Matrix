@@ -1,0 +1,1 @@
+GraphSAGE extends GCN by sampling a fixed-size neighborhood of each node and aggregating information from these neighbors.
