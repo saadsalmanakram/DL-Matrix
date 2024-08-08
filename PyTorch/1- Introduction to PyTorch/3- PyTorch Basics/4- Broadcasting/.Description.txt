@@ -1,0 +1,1 @@
+Broadcasting allows operations on tensors of different shapes by automatically expanding the smaller tensor to match the larger one.
