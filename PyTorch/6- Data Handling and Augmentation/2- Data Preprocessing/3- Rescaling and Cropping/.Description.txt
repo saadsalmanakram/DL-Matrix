@@ -1,0 +1,1 @@
+Rescaling adjusts the size of images to fit the model input size, while cropping focuses on extracting relevant parts of the image.s
