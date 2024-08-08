@@ -1,0 +1,1 @@
+To prevent exploding gradients by clipping the gradients during backpropagation.
