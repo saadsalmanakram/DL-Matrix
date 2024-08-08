@@ -1,0 +1,1 @@
+You can define custom autograd functions to extend PyTorch's autograd capabilities.
