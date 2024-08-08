@@ -1,0 +1,1 @@
+To distribute different parts of the model across multiple devices (e.g., different layers on different GPUs) to balance the memory and computational load.
