@@ -1,0 +1,1 @@
+To train a GNN, you'll need a loop that processes data, applies the model, computes loss, and updates weights.
