@@ -1,0 +1,1 @@
+To create a linear stack of layers where each layer has weights that are connected to the previous layer.
