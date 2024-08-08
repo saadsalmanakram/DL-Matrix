@@ -1,0 +1,1 @@
+ResNet (Residual Network) introduced skip connections (residual connections) that allow the model to train very deep networks without the vanishing gradient problem. Common versions are ResNet-18, ResNet-34, ResNet-50, ResNet-101, and ResNet-152.
