@@ -1,0 +1,1 @@
+init_process_group initializes the default distributed process group, which is necessary for any distributed training in PyTorch. It sets up the communication between different processes/nodes.
