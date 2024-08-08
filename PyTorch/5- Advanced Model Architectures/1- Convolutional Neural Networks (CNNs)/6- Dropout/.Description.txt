@@ -1,0 +1,1 @@
+Dropout is a regularization technique that randomly zeroes some of the elements of the input tensor with a given probability during training to prevent overfitting.
