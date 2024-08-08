@@ -1,0 +1,1 @@
+Activation functions introduce non-linearity to the model, allowing it to learn complex patterns. Common activation functions in CNNs include ReLU and Softmax.
