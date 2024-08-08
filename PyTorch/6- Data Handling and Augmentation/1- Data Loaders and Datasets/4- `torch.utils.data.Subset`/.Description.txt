@@ -1,0 +1,1 @@
+Subset is used to create a subset of a dataset using indices. It’s useful when you want to work with only a part of the dataset.
