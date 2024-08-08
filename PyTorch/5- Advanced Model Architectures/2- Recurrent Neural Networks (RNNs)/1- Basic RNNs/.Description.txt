@@ -1,0 +1,1 @@
+Basic RNNs are used to model sequential data where each element in the sequence depends on the previous ones. They are useful for tasks like time series forecasting, natural language processing, and more.
