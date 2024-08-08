@@ -1,0 +1,1 @@
+BatchSampler is used to create batches of indices from a sampler. It provides more control over how batches are created compared to DataLoader's built-in batching.
