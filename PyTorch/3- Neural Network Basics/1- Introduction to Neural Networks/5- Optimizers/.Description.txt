@@ -1,0 +1,1 @@
+Optimizers update the network's weights based on gradients computed during training.
