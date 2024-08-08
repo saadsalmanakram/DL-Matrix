@@ -1,0 +1,1 @@
+To set initial values for weights and biases of layers.
