@@ -1,0 +1,1 @@
+To further split the model into stages, where each stage is placed on a different device, enabling large-scale models to be trained efficiently by processing multiple micro-batches concurrently.
