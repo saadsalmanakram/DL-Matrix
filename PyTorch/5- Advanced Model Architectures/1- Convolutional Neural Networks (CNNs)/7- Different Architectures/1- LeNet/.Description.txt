@@ -1,0 +1,1 @@
+LeNet is one of the earliest convolutional neural networks, designed for digit recognition tasks (e.g., MNIST).
