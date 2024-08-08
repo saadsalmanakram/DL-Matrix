@@ -1,0 +1,1 @@
+To load a model's saved state dictionary into a new model instance, enabling the model to be used for inference or further training.
