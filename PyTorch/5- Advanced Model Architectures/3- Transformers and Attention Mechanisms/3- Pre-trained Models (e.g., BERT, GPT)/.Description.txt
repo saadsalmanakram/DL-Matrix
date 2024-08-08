@@ -1,0 +1,1 @@
+Pre-trained models like BERT and GPT provide powerful language representations that can be fine-tuned for various NLP tasks.
