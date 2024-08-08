@@ -1,1 +1,0 @@
-The attention mechanism allows the model to focus on different parts of the input sequence when producing each part of the output sequence, which can enhance the performance of RNNs, especially in sequence-to-sequence tasks.
