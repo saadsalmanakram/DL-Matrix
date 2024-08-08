@@ -1,0 +1,1 @@
+Tensors are the fundamental data structures in PyTorch, similar to arrays in NumPy. They are used for all operations and calculations.
