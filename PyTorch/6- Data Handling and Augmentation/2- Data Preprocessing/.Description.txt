@@ -1,0 +1,3 @@
+Prepare and transform raw data into a format suitable for model training.
+
+Common preprocessing steps include normalization, resizing, and augmentation.
