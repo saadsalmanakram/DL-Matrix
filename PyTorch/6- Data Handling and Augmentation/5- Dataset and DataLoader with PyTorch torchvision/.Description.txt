@@ -1,0 +1,3 @@
+Leverage built-in datasets and data augmentation tools provided by torchvision.
+
+Simplify dataset preparation for common tasks like image classification.
