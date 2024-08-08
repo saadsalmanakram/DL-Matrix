@@ -1,0 +1,1 @@
+For large-scale distributed training across multiple nodes and GPUs, combining model parallelism with data parallelism.
