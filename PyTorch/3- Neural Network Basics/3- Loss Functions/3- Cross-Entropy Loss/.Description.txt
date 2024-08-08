@@ -1,0 +1,1 @@
+Cross-Entropy Loss is commonly used for classification problems. It measures the difference between the predicted probability distribution and the true distribution, often used with softmax output.
