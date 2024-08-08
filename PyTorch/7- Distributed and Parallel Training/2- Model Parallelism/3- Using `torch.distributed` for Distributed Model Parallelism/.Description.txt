@@ -1,0 +1,1 @@
+To allow more fine-grained control over model parallelism and training across multiple machines or multiple GPUs in a single machine.
