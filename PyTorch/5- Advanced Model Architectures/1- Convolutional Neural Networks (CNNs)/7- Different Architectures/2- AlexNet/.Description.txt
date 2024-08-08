@@ -1,0 +1,1 @@
+AlexNet is a deeper CNN architecture that won the 2012 ImageNet competition, known for its use of ReLU and dropout layers.
