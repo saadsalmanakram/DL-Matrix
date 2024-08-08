@@ -1,0 +1,1 @@
+To create and manage a virtual environment for isolating dependencies.
