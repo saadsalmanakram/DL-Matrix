@@ -1,0 +1,1 @@
+A self-attention layer computes attention scores for each position in the input sequence with respect to all other positions, allowing the model to weigh different parts of the sequence differently.
