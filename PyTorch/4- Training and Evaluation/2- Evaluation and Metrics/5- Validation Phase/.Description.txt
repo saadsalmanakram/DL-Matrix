@@ -1,0 +1,1 @@
+The validation phase is used to evaluate the model on a separate dataset that is not used for training. This helps in tuning hyperparameters and prevents overfitting.
