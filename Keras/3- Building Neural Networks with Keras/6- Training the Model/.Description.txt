@@ -1,0 +1,1 @@
+To train the model using training data and specify parameters like the number of epochs and batch size.
