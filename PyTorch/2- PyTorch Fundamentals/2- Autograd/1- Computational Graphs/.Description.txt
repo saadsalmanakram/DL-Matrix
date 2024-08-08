@@ -1,0 +1,1 @@
+Computational graphs represent the sequence of operations in a neural network. PyTorch builds these graphs dynamically as operations are performed.
