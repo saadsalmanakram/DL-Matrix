@@ -1,0 +1,1 @@
+Adjust the learning rate according to a predefined schedule.
