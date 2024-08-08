@@ -1,0 +1,1 @@
+Training involves optimizing the network's weights to minimize the loss function using a dataset.
