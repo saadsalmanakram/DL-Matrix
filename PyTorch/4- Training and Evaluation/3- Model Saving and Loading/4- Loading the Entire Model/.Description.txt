@@ -1,0 +1,1 @@
+To load a model saved with torch.save(model), allowing the model and its parameters to be restored for use.
