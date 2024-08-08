@@ -1,0 +1,1 @@
+To train the model over multiple epochs, iterating through the dataset and updating weights.
