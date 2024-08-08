@@ -1,0 +1,1 @@
+PyTorch Geometric (PyG) provides tools to build and train GNNs efficiently with a focus on graph-based data.
