@@ -1,0 +1,1 @@
+Understanding the basic structure and usage of Keras API components.
