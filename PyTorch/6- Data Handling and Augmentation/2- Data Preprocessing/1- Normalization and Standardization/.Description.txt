@@ -1,0 +1,1 @@
+Normalization and standardization are techniques to scale input data so that it is suitable for training models. Normalization scales data to a specific range, while standardization transforms data to have a mean of 0 and a standard deviation of 1.
