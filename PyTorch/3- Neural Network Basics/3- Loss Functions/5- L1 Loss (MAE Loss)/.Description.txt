@@ -1,0 +1,1 @@
+L1 Loss, also known as Mean Absolute Error (MAE) Loss, is used in regression tasks. It calculates the average of absolute differences between predicted and actual values.
