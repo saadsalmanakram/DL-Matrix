@@ -1,0 +1,1 @@
+Attention mechanisms allow the model to focus on different parts of the input sequence when generating an output sequence, improving performance on tasks like translation.
