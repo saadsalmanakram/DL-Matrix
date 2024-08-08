@@ -1,0 +1,1 @@
+IterableDataset is used when the dataset is too large to fit into memory and needs to be loaded on-the-fly. It’s typically used for datasets where the data is read from disk or streamed.
