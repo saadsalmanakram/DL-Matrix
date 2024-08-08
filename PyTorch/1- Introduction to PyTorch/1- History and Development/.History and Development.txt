@@ -1,0 +1,1 @@
+PyTorch was developed by Facebook’s AI Research lab (FAIR) and released in 2016. It has gained popularity for its dynamic computation graph, ease of use, and Pythonic nature.
