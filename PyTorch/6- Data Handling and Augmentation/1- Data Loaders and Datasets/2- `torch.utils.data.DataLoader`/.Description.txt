@@ -1,0 +1,1 @@
+The DataLoader class is used to load data in batches, shuffle the data, and provide parallel data loading with multiple workers.
