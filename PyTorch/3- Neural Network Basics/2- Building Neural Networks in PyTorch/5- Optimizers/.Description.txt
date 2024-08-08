@@ -1,0 +1,1 @@
+To update the model parameters based on the gradients calculated during backpropagation.
