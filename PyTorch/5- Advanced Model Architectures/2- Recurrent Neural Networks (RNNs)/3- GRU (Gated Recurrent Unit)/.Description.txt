@@ -1,0 +1,1 @@
+GRUs are a variation of LSTMs that use a simplified gating mechanism. They are often faster to train than LSTMs while achieving similar performance.
