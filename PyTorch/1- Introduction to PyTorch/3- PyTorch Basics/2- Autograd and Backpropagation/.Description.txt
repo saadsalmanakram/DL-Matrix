@@ -1,0 +1,1 @@
+Autograd is PyTorch's automatic differentiation engine that powers neural network training by computing gradients. Backpropagation uses these gradients to update model weights.
