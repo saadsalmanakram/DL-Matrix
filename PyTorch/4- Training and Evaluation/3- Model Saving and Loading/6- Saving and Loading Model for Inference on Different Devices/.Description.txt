@@ -1,0 +1,1 @@
+To ensure that a model saved on one device (e.g., GPU) can be loaded and used on another device (e.g., CPU).
