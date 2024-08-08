@@ -1,0 +1,1 @@
+KL Divergence measures how one probability distribution diverges from a second, expected probability distribution. It's often used in variational autoencoders.
