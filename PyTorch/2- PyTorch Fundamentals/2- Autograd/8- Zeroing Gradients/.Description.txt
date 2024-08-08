@@ -1,0 +1,1 @@
+Gradients should be zeroed out before each backward pass to avoid accumulation from previous iterations.
