@@ -1,0 +1,1 @@
+The Dataset class is an abstract class that represents a dataset. It is intended to be subclassed to define your custom dataset. The subclass must override the __len__ and __getitem__ methods to provide access to the data.
