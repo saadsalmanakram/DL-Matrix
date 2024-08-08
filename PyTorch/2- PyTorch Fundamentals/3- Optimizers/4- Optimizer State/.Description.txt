@@ -1,0 +1,1 @@
+To save and load the state of an optimizer, allowing for checkpointing and resuming training.
