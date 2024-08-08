@@ -1,0 +1,1 @@
+To understand the role of optimizers in training neural networks and how they adjust model parameters to minimize the loss function.
