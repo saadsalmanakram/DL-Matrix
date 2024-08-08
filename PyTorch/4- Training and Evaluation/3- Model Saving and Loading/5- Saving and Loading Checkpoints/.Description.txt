@@ -1,0 +1,1 @@
+To periodically save and load model checkpoints, which include the model's state dictionary, optimizer state, and other training-related variables. This is particularly useful for resuming training from a specific point.
