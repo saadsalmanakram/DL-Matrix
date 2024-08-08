@@ -1,0 +1,1 @@
+Basic tensor operations include common operations like reshaping, indexing, and slicing.
