@@ -1,0 +1,1 @@
+Loss functions in PyTorch are used to measure the difference between the predicted output by the model and the actual target values. They play a crucial role in the training process by guiding the optimizer to adjust model weights in order to minimize this difference.
