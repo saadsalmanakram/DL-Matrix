@@ -1,0 +1,1 @@
+LSTM networks are a type of RNN that are capable of learning long-term dependencies in sequential data. They use gates to control the flow of information, which helps in mitigating the vanishing gradient problem.
