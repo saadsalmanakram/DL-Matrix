@@ -1,0 +1,1 @@
+Bidirectional RNNs process data in both forward and backward directions, capturing context from both past and future. This is useful in tasks where the context from both sides of a word or sequence is important.
