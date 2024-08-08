@@ -1,0 +1,1 @@
+Swap dimensions of a tensor.
