@@ -1,0 +1,1 @@
+Matching Networks are designed for few-shot learning by leveraging a learned similarity function to classify new examples based on their similarity to a small support set.
