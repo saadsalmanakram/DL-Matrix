@@ -1,0 +1,2 @@
+torch.distributed.barrier is used to synchronize all processes. It ensures that all processes wait until each has reached the barrier before proceeding, which is useful for coordination between different processes.
+
