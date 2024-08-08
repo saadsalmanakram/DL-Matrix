@@ -1,0 +1,1 @@
+Relation Networks are used to learn a relationship between a query image and support images by using a relation module to compute the similarity.
