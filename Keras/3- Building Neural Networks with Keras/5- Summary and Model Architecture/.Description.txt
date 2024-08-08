@@ -1,0 +1,1 @@
+To display a summary of the model’s architecture, including layer details, output shapes, and number of parameters.
