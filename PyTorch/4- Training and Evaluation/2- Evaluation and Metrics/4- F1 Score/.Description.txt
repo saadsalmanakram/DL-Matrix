@@ -1,0 +1,1 @@
+The F1 Score is the harmonic mean of precision and recall. It is a useful metric when you need to balance the trade-off between precision and recall.
