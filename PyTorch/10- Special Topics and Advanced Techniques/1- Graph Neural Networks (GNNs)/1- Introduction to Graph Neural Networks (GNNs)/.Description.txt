@@ -1,0 +1,1 @@
+GNNs are designed to handle data structured as graphs, where nodes represent entities, and edges represent relationships between these entities. They extend deep learning techniques to non-Euclidean data.
