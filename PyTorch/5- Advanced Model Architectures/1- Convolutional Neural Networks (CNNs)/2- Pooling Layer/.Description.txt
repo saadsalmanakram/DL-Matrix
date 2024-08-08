@@ -1,0 +1,1 @@
+Pooling layers are used to reduce the spatial dimensions of the feature maps, thereby decreasing the computational load and the number of parameters in the network. Max pooling is the most common type.
