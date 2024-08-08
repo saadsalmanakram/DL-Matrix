@@ -1,0 +1,1 @@
+Recall measures the proportion of true positive predictions among all actual positives. It is important in cases where missing a positive instance is costly.
