@@ -1,0 +1,7 @@
+Comparing the two approaches for building models.
+
+1- Sequential Model:
+   Purpose: The Sequential Model is designed for simple, linear stacks of  layers. It is ideal for straightforward models where each layer has a single input and a single output. This approach is best suited for most standard neural network architectures where you don't need to create complex layer interactions.
+
+2- Functional API:
+   Purpose: The Functional API provides more flexibility and is used for building more complex models. It allows for the creation of models with multiple inputs or outputs, shared layers, and non-linear topology, such as models with residual connections or multi-branch architectures.
