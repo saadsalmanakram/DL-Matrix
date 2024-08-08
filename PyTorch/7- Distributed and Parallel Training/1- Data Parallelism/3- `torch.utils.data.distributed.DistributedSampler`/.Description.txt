@@ -1,0 +1,1 @@
+DistributedSampler is used in conjunction with torch.distributed to ensure that each process in a distributed setting gets a unique subset of the dataset. This helps in synchronizing the training process across different GPUs or nodes.
