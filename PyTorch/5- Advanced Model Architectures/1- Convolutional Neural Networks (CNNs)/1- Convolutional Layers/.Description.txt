@@ -1,0 +1,1 @@
+Convolutional layers are used to automatically learn spatial hierarchies of features from input images. These layers apply convolution operations to extract features like edges, textures, and shapes.
