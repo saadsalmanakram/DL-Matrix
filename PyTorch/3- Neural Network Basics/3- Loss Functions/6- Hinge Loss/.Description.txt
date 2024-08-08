@@ -1,0 +1,1 @@
+Hinge Loss is used for maximum-margin classification, mainly for SVMs. It calculates the loss for binary classification tasks where the output is expected to be either +1 or -1.
