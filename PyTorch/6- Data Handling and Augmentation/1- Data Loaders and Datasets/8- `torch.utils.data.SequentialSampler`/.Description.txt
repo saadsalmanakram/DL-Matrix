@@ -1,0 +1,1 @@
+SequentialSampler samples elements sequentially from the dataset. It’s used when you want to iterate through the data in order.
