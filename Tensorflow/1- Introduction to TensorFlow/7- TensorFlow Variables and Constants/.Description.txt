@@ -1,0 +1,1 @@
+Variables and constants are essential components of TensorFlow. Variables are used for trainable parameters, and constants are immutable values used in computations.
