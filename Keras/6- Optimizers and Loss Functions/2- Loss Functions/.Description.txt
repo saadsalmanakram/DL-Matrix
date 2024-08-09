@@ -1,0 +1,1 @@
+Loss functions are used to measure how well the model's predictions match the true labels. Lower loss indicates better model performance.
