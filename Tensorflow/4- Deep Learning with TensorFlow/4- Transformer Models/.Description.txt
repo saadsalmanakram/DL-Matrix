@@ -1,0 +1,1 @@
+Transformers are used for handling sequential data with attention mechanisms, particularly effective in NLP tasks.
