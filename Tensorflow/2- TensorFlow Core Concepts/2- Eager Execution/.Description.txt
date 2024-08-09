@@ -1,0 +1,1 @@
+Eager Execution allows TensorFlow operations to be executed immediately as they are called from Python, which is more intuitive and easier to debug compared to the graph-based execution.
