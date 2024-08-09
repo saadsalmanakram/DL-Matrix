@@ -1,0 +1,1 @@
+TensorFlow Variables are used to represent shared, persistent state that is manipulated by TensorFlow operations. They are essential for representing parameters in machine learning models.
