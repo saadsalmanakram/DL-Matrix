@@ -1,0 +1,1 @@
+RNNs are used for sequential data where the order of inputs matters, such as time series and natural language processing.
