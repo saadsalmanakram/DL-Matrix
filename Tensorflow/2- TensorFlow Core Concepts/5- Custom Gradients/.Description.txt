@@ -1,0 +1,1 @@
+Custom Gradients allow defining how gradients should be computed for a specific operation, providing flexibility for custom training loops and optimization.
