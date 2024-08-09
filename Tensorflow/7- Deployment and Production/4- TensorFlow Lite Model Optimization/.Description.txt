@@ -1,1 +1,7 @@
 TensorFlow Lite allows deploying models on mobile and embedded devices. Model optimization techniques help in reducing the model size and improving its performance on limited-resource devices.
+
+Techniques:
+
+Quantization: Reduces the model size and increases performance.
+Pruning: Removes redundant weights to reduce model size.
+Weight Clustering: Groups weights to reduce the number of unique weights.
