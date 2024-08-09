@@ -1,0 +1,1 @@
+TensorFlow Graphs represent a computational graph where nodes represent operations, and edges represent data (tensors) flowing between them. Sessions are used to execute operations in the graph.
