@@ -1,0 +1,7 @@
+Model deployment involves setting up your model to serve predictions in a production environment. This can be done using different strategies like deploying on cloud services, edge devices, or using specialized serving platforms.
+
+Key Strategies:
+
+Using TensorFlow Serving for scalable and efficient deployment.
+Using TensorFlow Lite for deployment on mobile and IoT devices.
+Deploying on cloud platforms like Google Cloud AI Platform, AWS, or Azure.
