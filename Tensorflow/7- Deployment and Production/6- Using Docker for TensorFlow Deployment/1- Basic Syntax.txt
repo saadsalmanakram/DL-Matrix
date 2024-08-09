@@ -1,0 +1,14 @@
+# Use TensorFlow Serving image
+FROM tensorflow/serving
+
+# Copy your model to the container
+COPY saved_model_directory /models/my_model/1
+
+# Set the model name
+ENV MODEL_NAME=my_model
+
+# Expose the REST API port
+EXPOSE 8501
+
+# Start TensorFlow Serving
+CMD ["tensorflow_model_server", "--rest_api_port=8501", "--model_name=my_model", "--model_base_path=/models/my_model"]
