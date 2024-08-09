@@ -1,0 +1,1 @@
+Optimizers adjust the weights of the model to minimize the loss function. Common optimizers include SGD, Adam, and RMSprop.
