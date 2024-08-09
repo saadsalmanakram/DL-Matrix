@@ -1,0 +1,1 @@
+Tensors are the core data structure in TensorFlow, similar to multi-dimensional arrays. TensorFlow operations (ops) allow you to manipulate tensors.
