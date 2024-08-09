@@ -1,0 +1,1 @@
+Linear regression is used to model the relationship between a dependent variable and one or more independent variables. It's often used for predicting continuous values.
