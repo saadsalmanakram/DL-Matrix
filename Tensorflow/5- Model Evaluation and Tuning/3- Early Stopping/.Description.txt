@@ -1,0 +1,1 @@
+Stops training when the model’s performance stops improving on a validation set.
