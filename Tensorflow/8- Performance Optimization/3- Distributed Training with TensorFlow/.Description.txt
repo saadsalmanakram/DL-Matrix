@@ -1,0 +1,1 @@
+Distribute training across multiple devices or machines to accelerate the training process.
