@@ -1,0 +1,1 @@
+Docker allows you to package your TensorFlow model and its dependencies into a container, making it easy to deploy on any environment that supports Docker.
