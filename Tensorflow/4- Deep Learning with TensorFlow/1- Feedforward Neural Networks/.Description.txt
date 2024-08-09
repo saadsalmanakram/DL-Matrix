@@ -1,0 +1,1 @@
+Feedforward Neural Networks (FNNs) are used for simple classification and regression tasks. They consist of an input layer, one or more hidden layers, and an output layer.
