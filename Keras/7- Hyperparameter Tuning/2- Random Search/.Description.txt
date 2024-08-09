@@ -1,0 +1,1 @@
+Random Search selects random combinations of hyperparameters to find a model with optimal performance more efficiently than Grid Search.
