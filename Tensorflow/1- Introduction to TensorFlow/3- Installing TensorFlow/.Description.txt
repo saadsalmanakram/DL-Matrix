@@ -1,0 +1,1 @@
+Before using TensorFlow, you need to install it on your machine. TensorFlow can be installed using pip for different environments like CPU or GPU.
