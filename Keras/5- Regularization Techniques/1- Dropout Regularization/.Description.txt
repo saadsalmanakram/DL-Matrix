@@ -1,0 +1,1 @@
+Dropout is used to prevent overfitting by randomly setting a fraction of input units to 0 at each update during training time, which helps in preventing units from co-adapting too much.
