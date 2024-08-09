@@ -1,0 +1,1 @@
+TensorFlow Optimizers are used to minimize the loss function by updating the model parameters. They play a key role in the training process.
