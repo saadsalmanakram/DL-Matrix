@@ -1,0 +1,1 @@
+CNNs are designed for processing structured grid data like images. They use convolutional layers to automatically learn spatial hierarchies.
