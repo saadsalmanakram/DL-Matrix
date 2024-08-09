@@ -1,0 +1,1 @@
+Adjusting the learning rate during training can improve convergence and avoid local minima.
