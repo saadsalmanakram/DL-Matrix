@@ -1,0 +1,1 @@
+Optimizers are algorithms used to minimize the loss function by updating the model's parameters (weights) during training.
