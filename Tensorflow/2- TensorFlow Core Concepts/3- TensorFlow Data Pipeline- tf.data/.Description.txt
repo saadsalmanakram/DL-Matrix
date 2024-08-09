@@ -1,0 +1,1 @@
+tf.data API is used for building efficient input pipelines for training models. It helps in loading, preprocessing, and feeding data into models.
