@@ -1,0 +1,1 @@
+L1 and L2 regularization add penalties to the loss function to prevent overfitting by encouraging smaller weights. L1 regularization leads to sparse weights, while L2 regularization penalizes large weights.
