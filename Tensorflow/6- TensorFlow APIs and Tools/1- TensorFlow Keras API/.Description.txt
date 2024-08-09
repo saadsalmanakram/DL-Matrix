@@ -1,0 +1,1 @@
+High-level API for building and training neural networks. It provides an easier and more intuitive way to create deep learning models compared to the low-level TensorFlow API.
