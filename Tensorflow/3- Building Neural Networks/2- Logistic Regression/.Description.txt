@@ -1,0 +1,1 @@
+Logistic regression is used for binary classification tasks. It models the probability of a binary outcome based on input features.
