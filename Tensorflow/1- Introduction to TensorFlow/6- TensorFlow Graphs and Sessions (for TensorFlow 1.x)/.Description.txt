@@ -1,0 +1,1 @@
+In TensorFlow 1.x, computations are defined as a dataflow graph, and sessions are used to execute operations on the graph. This concept is simplified in TensorFlow 2.x, where eager execution is enabled by default.
