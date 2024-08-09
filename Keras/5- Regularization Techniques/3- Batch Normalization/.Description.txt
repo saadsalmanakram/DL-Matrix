@@ -1,0 +1,1 @@
+Batch Normalization normalizes the inputs to a layer for each mini-batch, stabilizing the learning process and improving the speed, performance, and stability of the model.
