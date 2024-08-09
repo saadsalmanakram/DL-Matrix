@@ -1,0 +1,1 @@
+Optimized version of TensorFlow for mobile and embedded devices. It enables deploying models on low-power devices.
