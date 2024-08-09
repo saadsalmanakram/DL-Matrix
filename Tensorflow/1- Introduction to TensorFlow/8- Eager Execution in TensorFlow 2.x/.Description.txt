@@ -1,0 +1,1 @@
+Eager execution is an imperative programming environment that evaluates operations immediately, without building graphs. This makes TensorFlow 2.x more intuitive and easier to debug.
