@@ -1,0 +1,1 @@
+TensorFlow Losses are used to calculate the difference between the predicted and actual values. They are essential in guiding the optimization process during training.
