@@ -1,0 +1,1 @@
+Basic neural networks consist of multiple layers of neurons and are used for various machine learning tasks. They can learn complex patterns from data.
