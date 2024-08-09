@@ -1,0 +1,1 @@
+Cross-Validation splits the data into training and validation sets multiple times to ensure the model's performance is consistent across different data subsets.
