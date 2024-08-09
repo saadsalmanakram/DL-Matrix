@@ -1,0 +1,1 @@
+Activation functions introduce non-linearity into the network, enabling it to learn complex patterns. Common functions include ReLU, Sigmoid, and Tanh.
