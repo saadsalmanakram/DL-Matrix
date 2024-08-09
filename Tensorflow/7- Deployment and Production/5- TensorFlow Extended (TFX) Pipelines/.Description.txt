@@ -1,0 +1,1 @@
+TFX pipelines allow automating and managing the workflow of a machine learning model in production. It covers components from data ingestion, model training, validation, deployment, and monitoring.
