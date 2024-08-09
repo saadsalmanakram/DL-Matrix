@@ -1,0 +1,1 @@
+Loss functions measure how well the model's predictions match the actual data. Common loss functions include Cross-Entropy for classification and Mean Squared Error for regression.
