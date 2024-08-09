@@ -1,0 +1,1 @@
+Data augmentation is a technique to artificially increase the diversity of the training dataset by applying random transformations (e.g., flips, rotations). It acts as a regularizer by creating different variants of the input data.
