@@ -1,0 +1,1 @@
+Exporting and saving a trained model is crucial for deploying it to a production environment. TensorFlow allows you to save a model in different formats, such as SavedModel or HDF5, to be reused later for inference or further training.
