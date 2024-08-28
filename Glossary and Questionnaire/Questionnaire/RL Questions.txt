@@ -1324,5 +1324,11 @@ Ans- It is measured using an objective function 𝐽(𝜃) that reflects the exp
 ​
 (------------------------------------------------------------------------)
 
+222- What is the expected return in policy-gradient methods?
+
+Ans- The expected return is the weighted average of all possible returns, with weights determined by the probability of each trajectory.
+
+(------------------------------------------------------------------------)
+
 
  
