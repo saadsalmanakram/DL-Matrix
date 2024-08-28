@@ -1132,3 +1132,9 @@ Ans- CartPole-v1 is a classic control environment used to benchmark and test rei
 
 (-------------------------------------------------------------------------)
 
+190- What is PixelCopter, and how is it relevant to testing reinforcement learning algorithms?
+
+Ans- PixelCopter is a more complex environment with continuous state spaces, used to test the robustness of reinforcement learning algorithms.
+
+(-------------------------------------------------------------------------)
+
