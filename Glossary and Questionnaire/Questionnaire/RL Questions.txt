@@ -892,4 +892,10 @@ Ans- The network can detect changes in motion and direction, which are crucial f
 
 (-------------------------------------------------------------------------)
 
+150- What is the role of fully connected layers in the DQN?
+
+Ans- Fully connected layers process the features extracted by convolutional layers to output Q-values for each action.
+
+(-------------------------------------------------------------------------)
+
 
