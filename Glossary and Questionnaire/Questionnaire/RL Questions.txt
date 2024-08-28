@@ -1264,6 +1264,12 @@ Ans- Policy-gradient methods output a probability distribution over actions, all
 
 (------------------------------------------------------------------------)
 
+212- What is perceptual aliasing, and how do policy-gradient methods address it?
+
+Ans- Perceptual aliasing occurs when different states appear similar but require different actions; policy-gradient methods mitigate this by learning stochastic policies.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
