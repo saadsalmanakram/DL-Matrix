@@ -1480,4 +1480,10 @@ Ans- An agent resets if it reaches the max step or completes its task.
 
 (------------------------------------------------------------------------)
 
+248- What is SnowballTarget?
+
+Ans- SnowballTarget is an environment created at Hugging Face using assets from Kay Lousberg where an agent (Julien the bear) is trained to hit targets with snowballs.
+
+(------------------------------------------------------------------------)
+
 
