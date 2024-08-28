@@ -262,4 +262,10 @@ Ans- It refers to the dilemma of choosing between exploring new actions to gathe
 
 (------------------------------------------------------------------------)
 
+45- Why is the exploration/exploitation trade-off important in Reinforcement Learning?
+
+Ans- Balancing exploration and exploitation is crucial for maximizing the expected cumulative reward of the RL agent.
+
+(------------------------------------------------------------------------)
+
 
