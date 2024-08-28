@@ -280,4 +280,10 @@ Ans- The agent might spend too much time exploring without ever fully exploiting
 
 (------------------------------------------------------------------------)
 
+48- How does the example of a mouse in a maze illustrate the exploration/exploitation trade-off?
 
+Ans- The mouse might continuously gather small rewards (exploitation) but miss out on a much larger reward unless it explores the maze (exploration).
+
+(------------------------------------------------------------------------)
+
+ 
