@@ -2050,3 +2050,10 @@ Ans- Because the environment is non-stationary as agents' policies evolve over t
 
 (------------------------------------------------------------------------)
 
+343- What distinguishes a centralized multi-agent system from a decentralized one?
+
+Ans- A centralized system uses a collective experience to train a single policy for all agents.
+
+(------------------------------------------------------------------------)
+
+
