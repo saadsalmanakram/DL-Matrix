@@ -1822,3 +1822,9 @@ Ans- "Making Sense of the Bias / Variance Trade-off in (Deep) Reinforcement Lear
 
 (------------------------------------------------------------------------)
 
+305- How can variance be reduced in policy gradient methods?
+
+Ans- By using techniques like Generalized Advantage Estimation (GAE) or incorporating baseline functions.
+
+(------------------------------------------------------------------------)
+
