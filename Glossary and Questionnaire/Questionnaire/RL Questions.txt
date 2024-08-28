@@ -2032,5 +2032,11 @@ Ans- It results in a non-stationary environment due to changing dynamics from ot
 
 (------------------------------------------------------------------------)
 
+340- What is a major drawback of decentralized learning in MARL?
+
+Ans- The environment becomes non-stationary, complicating convergence to a global optimum.
+
+(------------------------------------------------------------------------)
+
 
 
