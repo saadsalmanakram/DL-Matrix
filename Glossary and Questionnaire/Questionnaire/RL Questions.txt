@@ -2152,3 +2152,9 @@ Ans- The ELO score is a rating system that calculates the relative skill level b
 
 (------------------------------------------------------------------------)
 
+361- How does the ELO rating system work?
+
+Ans- It updates players' ratings based on game outcomes, with more points exchanged for unexpected results and fewer points for expected outcomes.
+
+(------------------------------------------------------------------------)
+
