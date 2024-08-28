@@ -1780,3 +1780,9 @@ Ans- High variance due to the stochastic nature of environments and policies, wh
 
 (------------------------------------------------------------------------)
 
+298- How does the stochasticity of the environment affect the Reinforce algorithm?
+
+Ans- It introduces variability in the returns, leading to high variance in the estimated returns.
+
+(------------------------------------------------------------------------)
+
