@@ -826,4 +826,10 @@ Ans- The DQN approximates Q-values for each possible action at a given state usi
 
 (-------------------------------------------------------------------------)
 
+139- Why do we use a stack of four frames as input to the DQN?
+
+Ans- Stacking frames helps capture temporal information, allowing the network to understand the motion within the environment.
+
+(-------------------------------------------------------------------------)
+
 
