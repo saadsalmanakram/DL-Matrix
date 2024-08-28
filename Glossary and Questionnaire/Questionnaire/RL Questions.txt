@@ -1186,3 +1186,9 @@ Ans- Policy-based methods directly learn the optimal policy without needing to l
 
 (------------------------------------------------------------------------)
 
+199- How is a policy parameterized in policy-based methods?
+
+Ans- Using a neural network that outputs a probability distribution over actions.
+
+(------------------------------------------------------------------------)
+
