@@ -220,4 +220,10 @@ Ans- An episode is a sequence of states, actions, rewards, and new states from t
 
 (------------------------------------------------------------------------)
 
+38- How does the concept of a terminal state relate to episodic tasks?
+
+Ans- A terminal state marks the end of an episode in an episodic task.
+
+(------------------------------------------------------------------------)
+
 
