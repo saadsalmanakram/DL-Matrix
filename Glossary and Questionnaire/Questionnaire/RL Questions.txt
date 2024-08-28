@@ -904,4 +904,10 @@ Ans- The Q-values represent the expected future rewards for each action, guiding
 
 (-------------------------------------------------------------------------)
 
+152- What is the key difference between Q-Learning and Deep Q-Learning?
+
+Ans- Deep Q-Learning uses a neural network to approximate Q-values, while Q-Learning typically relies on a table of values.
+
+(-------------------------------------------------------------------------)
+
 
