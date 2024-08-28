@@ -2074,4 +2074,10 @@ Ans- The coverage map and positions of all the agents.
 
 (------------------------------------------------------------------------)
 
+348- What is the reward structure like in a centralized multi-agent system?
+
+Ans- The reward is global, reflecting the collective performance of all agents.
+
+(------------------------------------------------------------------------)
+
 
