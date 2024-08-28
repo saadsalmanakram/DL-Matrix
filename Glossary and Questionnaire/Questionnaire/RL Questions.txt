@@ -1924,4 +1924,10 @@ Ans- It creates multiple parallel environments to speed up training by allowing 
 
 (------------------------------------------------------------------------)
 
+322- What role does the MultiInputPolicy play in the context of PandaReachDense-v3?
+
+Ans- MultiInputPolicy handles environments with multiple types of inputs (e.g., dictionaries) by processing each input type appropriately.
+
+(------------------------------------------------------------------------)
+
 
