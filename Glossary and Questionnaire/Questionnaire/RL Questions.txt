@@ -508,4 +508,10 @@ Ans- Deep Learning knowledge is crucial for understanding how neural networks ar
 
 (-------------------------------------------------------------------------)
 
+86- What is Huggy in the context of Deep Reinforcement Learning?
+
+Ans- Huggy is a Deep Reinforcement Learning environment by Hugging Face, based on Puppo the Corgi, created using Unity and MLAgents.
+
+(-------------------------------------------------------------------------)
+
 
