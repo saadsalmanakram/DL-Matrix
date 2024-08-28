@@ -586,3 +586,9 @@ Ans- The Bellman equation helps recursively compute the value function efficient
 
 (-------------------------------------------------------------------------)
 
+99- What does the Bellman equation calculate?
+
+Ans- It calculates the expected return for a state or state-action pair based on the immediate reward and the value of the next state.
+
+(-------------------------------------------------------------------------)
+
