@@ -832,4 +832,10 @@ Ans- Stacking frames helps capture temporal information, allowing the network to
 
 (-------------------------------------------------------------------------)
 
+140- What is the role of the epsilon-greedy policy in DQN?
+
+Ans- The epsilon-greedy policy balances exploration and exploitation during action selection.
+
+(-------------------------------------------------------------------------)
+
 
