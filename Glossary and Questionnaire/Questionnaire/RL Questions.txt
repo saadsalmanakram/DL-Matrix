@@ -1114,4 +1114,10 @@ Ans- By adjusting policy parameters in the direction that increases the probabil
 
 (-------------------------------------------------------------------------)
 
+187- What are the key challenges of the Reinforce algorithm?
+
+Ans- High variance in gradient estimates and slow convergence.
+
+(-------------------------------------------------------------------------)
+
 
