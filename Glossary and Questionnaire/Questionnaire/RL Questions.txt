@@ -250,4 +250,10 @@ Ans- The key challenge is to maintain performance over an indefinite period with
 
 (------------------------------------------------------------------------)
 
+43- How does the agent's goal differ between episodic and continuing tasks?
+
+Ans- In episodic tasks, the goal is to maximize rewards within each episode, while in continuing tasks, the goal is to maximize long-term rewards over an indefinite timeline.
+
+(------------------------------------------------------------------------)
+
 
