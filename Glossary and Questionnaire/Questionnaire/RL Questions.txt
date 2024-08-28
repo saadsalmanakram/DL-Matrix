@@ -808,4 +808,10 @@ Ans- A target network is used to stabilize training by providing a fixed Q-value
 
 (-------------------------------------------------------------------------)
 
+136- What is the key challenge in training Deep Q-Learning agents?
+
+Ans- The key challenge is avoiding instability and divergence during training, often addressed by techniques like experience replay and target networks.
+
+(-------------------------------------------------------------------------)
+
 
