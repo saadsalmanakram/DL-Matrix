@@ -922,4 +922,10 @@ Ans- The network updates its weights based on the difference between predicted a
 
 (-------------------------------------------------------------------------)
 
+155- How does DQN handle the exploration-exploitation trade-off?
+
+Ans- The epsilon-greedy strategy is employed, where epsilon controls the balance between random exploration and exploiting known Q-values.
+
+(-------------------------------------------------------------------------)
+
 
