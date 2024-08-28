@@ -946,4 +946,11 @@ Ans- Sampling (storing experience tuples) and Training (learning from a random b
 
 (-------------------------------------------------------------------------)
 
+159- Why is training in Deep Q-Learning more unstable than in traditional Q-Learning?
+
+Ans- The combination of a non-linear Q-value function (neural network) and bootstrapping can lead to instability.
+
+(-------------------------------------------------------------------------)
+
+
 
