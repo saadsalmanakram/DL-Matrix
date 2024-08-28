@@ -724,3 +724,9 @@ Ans- It is used to ensure the agent explores the environment sufficiently before
 
 (------------------------------------------------------------------------)
 
+122- How is the Q-value updated in Q-Learning?
+
+Ans- The Q-value is updated using the Bellman equation, which incorporates the immediate reward and the maximum Q-value of the next state-action pair.
+
+(------------------------------------------------------------------------)
+
