@@ -1732,4 +1732,9 @@ Ans- A2C is a specific Actor-Critic method that uses the advantage function to i
 
 (------------------------------------------------------------------------)
 
+290- How does A2C improve upon the basic Actor-Critic method?
+
+Ans- By using the advantage function, which measures the relative value of an action compared to the average, reducing variance and improving training efficiency.
+
+(------------------------------------------------------------------------)
 
