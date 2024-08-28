@@ -568,3 +568,9 @@ Ans- The state-value function gives the expected return starting from a specific
 
 (-------------------------------------------------------------------------)
 
+96- What is the action-value function?
+
+Ans- The action-value function provides the expected return for taking a specific action in a specific state and then following a policy.
+
+(-------------------------------------------------------------------------)
+
