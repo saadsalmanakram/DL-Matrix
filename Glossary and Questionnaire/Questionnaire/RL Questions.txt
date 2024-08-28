@@ -670,3 +670,15 @@ Ans- It updates the value function more frequently, after each step, rather than
 
 (------------------------------------------------------------------------)
 
+113- What is Q-Learning?
+
+Ans- Q-Learning is an off-policy, value-based reinforcement learning algorithm that uses temporal difference (TD) methods to learn the optimal action-value function.
+
+(------------------------------------------------------------------------)
+
+114- What does 'off-policy' mean in Q-Learning?
+
+Ans- Off-policy means that Q-Learning learns the value of the optimal policy independently of the agent's actions, allowing it to learn from an exploratory policy but optimize the greedy one.
+
+(------------------------------------------------------------------------)
+
