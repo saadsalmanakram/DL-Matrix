@@ -286,4 +286,10 @@ Ans- The mouse might continuously gather small rewards (exploitation) but miss o
 
 (------------------------------------------------------------------------)
 
- 
+49- How can the choice of picking a restaurant serve as a real-world analogy for the exploration/exploitation trade-off?
+
+Ans- You can either stick to a restaurant you know is good (exploitation) or try a new one with unknown quality (exploration), balancing the risk and potential reward.
+
+(------------------------------------------------------------------------)
+
+
