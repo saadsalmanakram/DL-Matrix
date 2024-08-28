@@ -1084,5 +1084,11 @@ Ans- Policy-based methods optimize the policy directly, while value-based method
 
 (-------------------------------------------------------------------------)
 
+182- What is the advantage of policy-based methods over value-based methods?
+
+Ans- They can better handle environments with large or continuous action spaces and avoid some limitations of value estimation.
+
+(-------------------------------------------------------------------------)
+
 
 
