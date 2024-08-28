@@ -2182,3 +2182,9 @@ Ans- It does not account for individual contributions in team games and can expe
 
 (------------------------------------------------------------------------)
 
+366- What is AI vs. AI?
+
+Ans- AI vs. AI is a tool for competing and ranking AI agents in multi-agent settings on a leaderboard.
+
+(------------------------------------------------------------------------)
+
