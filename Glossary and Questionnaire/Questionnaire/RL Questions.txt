@@ -1660,5 +1660,11 @@ Ans- Prediction error indicates the novelty of a state; higher errors lead to gr
 
 (------------------------------------------------------------------------)
 
+278- Can Curiosity be used in conjunction with extrinsic rewards?
+
+Ans- Yes, Curiosity can complement extrinsic rewards, helping agents explore more effectively even in sparse reward settings.
+
+(------------------------------------------------------------------------)
+
 
 
