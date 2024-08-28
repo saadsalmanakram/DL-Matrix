@@ -274,4 +274,10 @@ Ans- The agent may miss out on potentially larger rewards because it only focuse
 
 (------------------------------------------------------------------------)
 
+47- What is the risk of focusing solely on exploration in RL?
+
+Ans- The agent might spend too much time exploring without ever fully exploiting the known sources of rewards, leading to suboptimal performance.
+
+(------------------------------------------------------------------------)
+
 
