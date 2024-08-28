@@ -502,4 +502,10 @@ Ans- The "value" refers to the expected cumulative reward from taking a specific
 
 (-------------------------------------------------------------------------)
 
+85- Why is familiarity with Deep Learning important for understanding Deep Reinforcement Learning?
+
+Ans- Deep Learning knowledge is crucial for understanding how neural networks are used to approximate functions in Deep RL.
+
+(-------------------------------------------------------------------------)
+
 
