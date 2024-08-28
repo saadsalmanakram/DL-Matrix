@@ -652,3 +652,9 @@ Ans- The sum of the immediate reward and the discounted value of the next state.
 
 (------------------------------------------------------------------------)
 
+110- What is bootstrapping in Temporal Difference learning?
+
+Ans- Using an existing estimate rather than waiting for the full return.
+
+(------------------------------------------------------------------------)
+
