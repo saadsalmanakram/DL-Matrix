@@ -1942,4 +1942,10 @@ Ans- It assesses the performance of a trained model by computing the mean and st
 
 (------------------------------------------------------------------------)
 
+325- How do you interpret the mean_reward and std_reward values?
+
+Ans- Mean reward indicates the average performance of the agent, while std_reward shows the variability in the agent’s performance.
+
+(------------------------------------------------------------------------)
+
 
