@@ -634,3 +634,15 @@ Ans- A complete episode of interaction.
 
 (------------------------------------------------------------------------)
 
+107- What type of strategy does the agent use in Monte Carlo learning?
+
+Ans- An epsilon-greedy strategy, balancing exploration and exploitation.
+
+(------------------------------------------------------------------------)
+
+108- When does Temporal Difference (TD) update the value function?
+
+Ans- After each step of interaction with the environment.
+
+(------------------------------------------------------------------------)
+
