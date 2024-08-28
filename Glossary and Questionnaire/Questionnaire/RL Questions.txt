@@ -2212,3 +2212,9 @@ Ans- The action space has three discrete branches for movement and actions.
 
 (------------------------------------------------------------------------)
 
+371- Why is it advised to train agents on a local computer rather than Colab?
+
+Ans- Colab may face timeouts, so training on a local computer avoids interruptions.
+
+(------------------------------------------------------------------------)
+
