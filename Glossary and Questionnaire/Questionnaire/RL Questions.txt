@@ -1150,3 +1150,9 @@ Ans- To find the optimal policy π* that maximizes the expected cumulative rewar
 
 (-------------------------------------------------------------------------)
 
+193- What is the reward hypothesis in RL?
+
+Ans- It posits that all goals can be described as the maximization of expected cumulative rewards.
+
+(-------------------------------------------------------------------------)
+
