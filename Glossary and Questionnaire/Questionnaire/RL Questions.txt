@@ -1270,6 +1270,12 @@ Ans- Perceptual aliasing occurs when different states appear similar but require
 
 (------------------------------------------------------------------------)
 
+213- Why are policy-gradient methods more effective in high-dimensional action spaces?
+
+Ans- They output a probability distribution over actions, making them more scalable for environments with continuous or vast action spaces.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
