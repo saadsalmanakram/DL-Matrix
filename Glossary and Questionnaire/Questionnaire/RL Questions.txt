@@ -2128,4 +2128,9 @@ Ans- Arthur Samuel's checker player system from the 1950s is an early example of
 
 (------------------------------------------------------------------------)
 
+357- How does self-play relate to human learning in competitive environments?
+
+Ans- Like humans, agents start with opponents of similar skill and progress to stronger opponents as they improve.
+
+(------------------------------------------------------------------------)
 
