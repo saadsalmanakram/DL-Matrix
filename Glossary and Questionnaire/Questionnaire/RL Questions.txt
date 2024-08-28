@@ -322,4 +322,10 @@ Ans- Trying out a new restaurant that could either be a great find or a disappoi
 
 (------------------------------------------------------------------------)
 
+55- How can an RL agent fall into a trap without exploration?
+
+Ans- The agent might get stuck exploiting a suboptimal strategy, never discovering a better one due to a lack of exploration.
+
+(------------------------------------------------------------------------)
+
 
