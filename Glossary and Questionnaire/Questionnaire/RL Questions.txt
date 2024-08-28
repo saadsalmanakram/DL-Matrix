@@ -1360,5 +1360,11 @@ Ans- It is a Monte Carlo policy-gradient algorithm that uses the return from an 
 
 (------------------------------------------------------------------------)
 
+228- How does the Reinforce algorithm update policy parameters?
+
+Ans- By using the gradient estimate from collected episodes to adjust the weights in the direction of increased expected return.
+
+(------------------------------------------------------------------------)
+
 
  
