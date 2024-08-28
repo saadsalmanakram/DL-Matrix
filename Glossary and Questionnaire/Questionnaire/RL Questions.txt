@@ -1036,5 +1036,11 @@ Ans- The target network provides stable Q-targets by being updated less frequent
 
 (-------------------------------------------------------------------------)
 
+174- What is Prioritized Experience Replay?
+
+Ans- It’s an extension of Experience Replay where experiences with higher TD errors are sampled more frequently, improving learning.
+
+(-------------------------------------------------------------------------)
+
 
 
