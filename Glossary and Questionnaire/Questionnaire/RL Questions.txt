@@ -2062,4 +2062,10 @@ Ans- It collects experiences from all agents to learn a common policy.
 
 (------------------------------------------------------------------------)
 
+346- How does centralized learning handle the environment compared to decentralized learning?
+
+Ans- The environment is stationary since all agents follow a common policy.
+
+(------------------------------------------------------------------------)
+
 
