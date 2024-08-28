@@ -1768,3 +1768,9 @@ Ans- It increases the probabilities of actions in trajectories with high returns
 
 (------------------------------------------------------------------------)
 
+296- Why is the Reinforce method considered unbiased?
+
+Ans- It uses the actual return from trajectories rather than an estimate, ensuring unbiased updates.
+
+(------------------------------------------------------------------------)
+
