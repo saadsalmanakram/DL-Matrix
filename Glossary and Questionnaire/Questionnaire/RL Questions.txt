@@ -706,3 +706,9 @@ Ans- A Q-table is a data structure that stores the Q-values for each state-actio
 
 (------------------------------------------------------------------------)
 
+119- How is the Q-table initialized in Q-Learning?
+
+Ans- The Q-table is typically initialized with arbitrary values, often zeros, before training begins.
+
+(------------------------------------------------------------------------)
+
