@@ -478,4 +478,10 @@ Ans- Value-based algorithms, like Q-Learning, focus on estimating the value of a
 
 (-------------------------------------------------------------------------)
 
+81- How does the neural network in Deep Q-Learning improve over a Q table?
+
+Ans- The neural network can generalize across similar states, handling larger and more complex state spaces than a Q table.
+
+(-------------------------------------------------------------------------)
+
 
