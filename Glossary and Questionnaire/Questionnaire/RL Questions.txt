@@ -2026,5 +2026,11 @@ Ans- Agents are trained independently without sharing information.
 
 (------------------------------------------------------------------------)
 
+339- How does decentralized learning affect the environment in MARL?
+
+Ans- It results in a non-stationary environment due to changing dynamics from other agents.
+
+(------------------------------------------------------------------------)
+
 
 
