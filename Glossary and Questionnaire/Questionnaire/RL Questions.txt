@@ -2349,3 +2349,11 @@ Ans- It multiplies the probability ratio by the advantage to form part of the ob
 Ans- To prevent excessive policy updates by ensuring the policy change remains within a constrained range.
 
 (------------------------------------------------------------------------)
+
+394- What is the clipping range for the ratio in PPO, and how is it determined?
+
+Ans- The ratio is clipped between [1 - ϵ, 1 + ϵ], with ϵ typically set to 0.2.
+
+(------------------------------------------------------------------------)
+
+
