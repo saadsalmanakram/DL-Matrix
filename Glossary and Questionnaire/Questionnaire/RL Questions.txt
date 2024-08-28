@@ -1426,3 +1426,9 @@ Ans- The Gym wrapper encapsulates the reinforcement learning environment, making
 
 (------------------------------------------------------------------------)
 
+239- What is the PettingZoo wrapper in Unity ML-Agents?
+
+Ans- The PettingZoo wrapper is the multi-agent version of the Gym wrapper, used for environments with multiple agents.
+
+(------------------------------------------------------------------------)
+
