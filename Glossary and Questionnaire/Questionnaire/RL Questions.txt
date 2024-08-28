@@ -1726,4 +1726,10 @@ Ans- By using the Critic to reduce the variance of the policy gradient estimatio
 
 (------------------------------------------------------------------------)
 
+289- What is Advantage Actor-Critic (A2C)?
+
+Ans- A2C is a specific Actor-Critic method that uses the advantage function to improve policy gradient estimation and stabilize training.
+
+(------------------------------------------------------------------------)
+
 
