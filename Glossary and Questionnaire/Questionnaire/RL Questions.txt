@@ -1558,4 +1558,10 @@ Ans- It simplifies the agent’s decision-making process by directly informing i
 
 (------------------------------------------------------------------------)
 
+261- What kind of environment design problem does the SnowballTarget environment aim to avoid?
+
+Ans- It aims to avoid the reward engineering problem, where an overly complex reward structure could limit the agent's ability to find optimal strategies.
+
+(------------------------------------------------------------------------)
+
 
