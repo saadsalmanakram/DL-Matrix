@@ -916,4 +916,10 @@ Ans- The state-action space is too large to be represented in a table, so a neur
 
 (-------------------------------------------------------------------------)
 
+154- What happens during the training process of the DQN?
+
+Ans- The network updates its weights based on the difference between predicted and actual Q-values from experiences.
+
+(-------------------------------------------------------------------------)
+
 
