@@ -1834,3 +1834,9 @@ Ans- A baseline is a value subtracted from the return to reduce variance without
 
 (------------------------------------------------------------------------)
 
+307- Why is variance a concern in Reinforcement Learning algorithms?
+
+Ans- High variance can lead to unstable learning and slow convergence, making it difficult to learn effective policies.
+
+(------------------------------------------------------------------------)
+
