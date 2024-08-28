@@ -2200,3 +2200,9 @@ Ans- Agents receive rewards based on team performance, scoring a goal or prevent
 
 (------------------------------------------------------------------------)
 
+369- What are the primary components of the SoccerTwos observation space?
+
+Ans- It includes ray-casts detecting objects like the ball, goals, walls, and agents.
+
+(------------------------------------------------------------------------)
+
