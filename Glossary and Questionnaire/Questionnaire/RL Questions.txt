@@ -1240,6 +1240,12 @@ Ans- They often suffer from high variance in gradient estimates, making training
 
 (------------------------------------------------------------------------)
 
+208- What is gradient ascent used for in policy-gradient methods?
+
+Ans- To directly optimize the parameter 𝜃 to maximize the objective function 𝐽(𝜃).
+
+(------------------------------------------------------------------------)
+
 
 
 ​
