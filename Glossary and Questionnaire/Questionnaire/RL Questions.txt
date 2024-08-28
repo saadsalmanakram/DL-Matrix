@@ -1216,3 +1216,9 @@ Ans- By maximizing a local approximation of the objective function using techniq
 
 (------------------------------------------------------------------------)
 
+204- What is the objective function J(θ) in policy-gradient methods?
+
+Ans- The expected cumulative reward, which is maximized to find the optimal policy.
+
+(------------------------------------------------------------------------)
+
