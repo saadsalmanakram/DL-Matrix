@@ -982,4 +982,11 @@ Ans- It introduces correlation between the Q-value estimates and the targets, le
 
 (-------------------------------------------------------------------------)
 
+165- How does a Fixed Q-Target prevent instability?
+
+Ans- By maintaining a separate network for the target Q-values, which is updated less frequently, reducing the moving target effect.
+
+(-------------------------------------------------------------------------)
+
+
 
