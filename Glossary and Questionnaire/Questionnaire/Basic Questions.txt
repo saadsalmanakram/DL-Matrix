@@ -4,3 +4,9 @@ Ans- Reinforcement Learning is a framework where an agent learns to solve tasks 
 
 (-------------------------------------------------------------------------)
 
+2- How does an agent learn in Reinforcement Learning?
+
+Ans- An agent learns through trial and error by taking actions in an environment and receiving rewards, either positive or negative, based on the outcomes.
+
+(-------------------------------------------------------------------------)
+
