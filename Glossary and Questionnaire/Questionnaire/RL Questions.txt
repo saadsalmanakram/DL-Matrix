@@ -1018,5 +1018,11 @@ Ans- Because both the Q-values and targets are updated during training, causing 
 
 (-------------------------------------------------------------------------)
 
+171- What is the Bellman equation’s role in Deep Q-Learning?
+
+Ans- The Bellman equation is used to compute the Q-target by adding the reward to the discounted maximum Q-value for the next state.
+
+(-------------------------------------------------------------------------)
+
 
 
