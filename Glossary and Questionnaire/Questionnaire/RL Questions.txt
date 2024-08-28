@@ -1138,3 +1138,9 @@ Ans- PixelCopter is a more complex environment with continuous state spaces, use
 
 (-------------------------------------------------------------------------)
 
+191- How can the Monte Carlo Reinforce implementation be iterated and improved for advanced environments?
+
+Ans- By reducing gradient variance through techniques like baseline subtraction or using more sophisticated policy gradient methods like Actor-Critic.
+
+(-------------------------------------------------------------------------)
+
