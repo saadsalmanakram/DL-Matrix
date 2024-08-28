@@ -1162,3 +1162,9 @@ Ans- Methods where the optimal policy is derived from an optimal value function.
 
 (-------------------------------------------------------------------------)
 
+195- What is the role of the value function in value-based methods?
+
+Ans- It helps to approximate the true action-value function, leading to an optimal policy.
+
+(------------------------------------------------------------------------)
+
