@@ -976,5 +976,10 @@ Ans- A Fixed Q-Target stabilizes training by using a separate target network wit
 
 (-------------------------------------------------------------------------)
 
+164- Why does using the same network for Q-values and Q-targets cause instability?
+
+Ans- It introduces correlation between the Q-value estimates and the targets, leading to oscillations during training.
+
+(-------------------------------------------------------------------------)
 
 
