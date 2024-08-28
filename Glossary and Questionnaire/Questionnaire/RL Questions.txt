@@ -1222,3 +1222,12 @@ Ans- The expected cumulative reward, which is maximized to find the optimal poli
 
 (------------------------------------------------------------------------)
 
+205- Why are policy-gradient methods considered on-policy?
+
+Ans- Because they use data (trajectories) collected by the most recent version of the policy πθ for each update.
+
+(------------------------------------------------------------------------)
+
+
+​
+ 
