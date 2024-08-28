@@ -340,4 +340,10 @@ Ans- The balance between exploration and exploitation determines whether the age
 
 (------------------------------------------------------------------------)
 
+58- What are the two main approaches for solving RL problems?
+
+Ans- The two main approaches are Policy-Based Methods and Value-Based Methods.
+
+(------------------------------------------------------------------------)
+
 
