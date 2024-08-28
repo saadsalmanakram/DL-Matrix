@@ -382,4 +382,16 @@ Ans- The two types are Deterministic policies and Stochastic policies.
 
 (-------------------------------------------------------------------------)
 
+65- What is a Deterministic policy in RL?
+
+Ans- A Deterministic policy always returns the same action for a given state.
+
+(-------------------------------------------------------------------------)
+
+66- What is a Stochastic policy in RL?
+
+Ans- A Stochastic policy outputs a probability distribution over possible actions given the current state.
+
+(-------------------------------------------------------------------------)
+
 
