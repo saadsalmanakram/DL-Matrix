@@ -736,3 +736,9 @@ Ans- Bootstrapping in Q-Learning refers to updating the Q-value based on the cur
 
 (------------------------------------------------------------------------)
 
+124- How does Q-Learning handle the exploration-exploitation trade-off?
+
+Ans- Q-Learning handles this trade-off through the epsilon-greedy strategy, gradually reducing exploration as the Q-table improves.
+
+(------------------------------------------------------------------------)
+
