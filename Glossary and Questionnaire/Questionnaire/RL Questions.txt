@@ -2284,3 +2284,9 @@ Ans- The range is [1 - ϵ, 1 + ϵ]
 
 (------------------------------------------------------------------------)
 
+383- How does PPO measure policy change?
+
+Ans- By calculating a ratio between the current and former policy.
+
+(------------------------------------------------------------------------)
+
