@@ -1342,5 +1342,11 @@ Ans- Because it provides the direction for increasing the objective function J(Î
 
 (------------------------------------------------------------------------)
 
+225- What is the main challenge in calculating the true gradient of the objective function?
+
+Ans- It requires computing the probability of all possible trajectories, which is computationally expensive.
+
+(------------------------------------------------------------------------)
+
 
  
