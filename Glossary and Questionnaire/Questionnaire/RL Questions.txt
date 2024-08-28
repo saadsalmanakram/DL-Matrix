@@ -1576,4 +1576,10 @@ Ans- Julien could position itself optimally in relation to targets and time its 
 
 (------------------------------------------------------------------------)
 
+264- How might a more complex reward function negatively impact the SnowballTarget environment?
+
+Ans- It could introduce unintended biases or constraints, limiting the agent's ability to explore and develop effective strategies.
+
+(------------------------------------------------------------------------)
+
 
