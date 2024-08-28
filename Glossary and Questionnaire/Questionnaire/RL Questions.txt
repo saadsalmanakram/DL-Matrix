@@ -850,4 +850,10 @@ Ans- The DQN adjusts its weights through training, refining its Q-value estimati
 
 (-------------------------------------------------------------------------)
 
+143- Why is preprocessing an important step in Deep Q-Learning?
+
+Ans- Preprocessing reduces state complexity, which speeds up training and reduces computational requirements.
+
+(-------------------------------------------------------------------------)
+
 
