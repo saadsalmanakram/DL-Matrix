@@ -760,3 +760,9 @@ Ans- The discount factor in Q-Learning determines the importance of future rewar
 
 (------------------------------------------------------------------------)
 
+128- Why is Q-Learning considered an off-policy algorithm?
+
+Ans- Q-Learning is off-policy because it updates the Q-value using the best possible action (greedy policy) for the next state, regardless of the action actually taken by the agent (epsilon-greedy policy).
+
+(------------------------------------------------------------------------)
+
