@@ -1624,4 +1624,10 @@ Ans- It is calculated as the error in predicting the next state given the curren
 
 (------------------------------------------------------------------------)
 
+272- Why does Curiosity encourage exploration in RL agents?
+
+Ans- Curiosity drives agents to explore states with high prediction errors, often found in less explored or more complex areas of the environment.
+
+(------------------------------------------------------------------------)
+
 
