@@ -448,4 +448,10 @@ Ans- Q-Learning is a value-based RL algorithm that creates a Q table to map stat
 
 (-------------------------------------------------------------------------)
 
+76- What is Deep Q-Learning?
+
+Ans- Deep Q-Learning is an extension of Q-Learning that uses a neural network instead of a Q table to estimate action values.
+
+(-------------------------------------------------------------------------)
+
 
