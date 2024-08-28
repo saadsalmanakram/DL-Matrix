@@ -664,3 +664,9 @@ Ans- A method that updates the value function after any individual step.
 
 (------------------------------------------------------------------------)
 
+112- What is the primary advantage of Temporal Difference over Monte Carlo?
+
+Ans- It updates the value function more frequently, after each step, rather than waiting for a complete episode.
+
+(------------------------------------------------------------------------)
+
