@@ -130,3 +130,9 @@ Ans- A state is a complete description of the environment, while an observation 
 
 (------------------------------------------------------------------------)
 
+23- What is an action space in RL?
+
+Ans- The action space is the set of all possible actions the agent can take in the environment.
+
+(------------------------------------------------------------------------)
+
