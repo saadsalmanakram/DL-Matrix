@@ -1936,3 +1936,9 @@ Ans- Challenges include handling non-stationarity (since other agents’ policie
 
 (------------------------------------------------------------------------)
 
+324- Can you give an example of a MARL application?
+
+Ans- Applications include autonomous vehicle fleets coordinating on roads, robots collaborating in a warehouse, or agents in a competitive game like soccer.
+
+(------------------------------------------------------------------------)
+
