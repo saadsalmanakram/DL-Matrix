@@ -1528,4 +1528,16 @@ Ans- The action space is discrete, allowing the agent to choose between predefin
 
 (------------------------------------------------------------------------)
 
+256- Why might a simpler reward function be beneficial in reinforcement learning environments like SnowballTarget?
+
+Ans- A simpler reward function can lead to the discovery of more natural and effective strategies by the agent.
+
+(------------------------------------------------------------------------)
+
+257- What type of actions can Julien the bear take in the SnowballTarget environment?
+
+Ans- Julien can take discrete actions such as positioning and shooting snowballs at targets.
+
+(------------------------------------------------------------------------)
+
 
