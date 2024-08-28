@@ -2362,4 +2362,10 @@ Ans- PPO clips the probability ratio directly in the objective function, while T
 
 (------------------------------------------------------------------------)
 
+396- What does taking the minimum of the clipped and non-clipped objectives achieve in PPO?
+
+Ans- It ensures that the final objective function is a lower bound on the unclipped objective, making the policy update more stable.
+
+(------------------------------------------------------------------------)
+
 
