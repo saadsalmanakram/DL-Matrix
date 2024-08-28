@@ -1330,5 +1330,11 @@ Ans- The expected return is the weighted average of all possible returns, with w
 
 (------------------------------------------------------------------------)
 
+223- What is the objective in policy-gradient optimization?
+
+Ans- To maximize the expected cumulative reward by adjusting the policy parameters.
+
+(------------------------------------------------------------------------)
+
 
  
