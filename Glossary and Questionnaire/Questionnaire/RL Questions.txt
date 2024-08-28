@@ -2218,3 +2218,9 @@ Ans- Colab may face timeouts, so training on a local computer avoids interruptio
 
 (------------------------------------------------------------------------)
 
+372- What are the key hyperparameters in the provided config file for training agents?
+
+Ans- Key hyperparameters include batch size, buffer size, learning rate, and self-play settings.
+
+(------------------------------------------------------------------------)
+
