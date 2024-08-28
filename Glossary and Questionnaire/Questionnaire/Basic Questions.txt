@@ -28,3 +28,9 @@ Ans- Rewards guide the agent by indicating which actions are beneficial (+1) and
 
 (-------------------------------------------------------------------------)
 
+6- How is learning achieved without supervision in Reinforcement Learning?
+
+Ans- Learning is achieved through self-discovery, where the agent independently explores actions and their outcomes without any external guidance.
+
+(-------------------------------------------------------------------------)
+
