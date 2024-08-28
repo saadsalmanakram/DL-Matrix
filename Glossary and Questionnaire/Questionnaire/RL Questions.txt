@@ -574,3 +574,9 @@ Ans- The action-value function provides the expected return for taking a specifi
 
 (-------------------------------------------------------------------------)
 
+97- How does the action-value function differ from the state-value function?
+
+Ans- The state-value function evaluates the value of a state, while the action-value function evaluates the value of a state-action pair.
+
+(-------------------------------------------------------------------------)
+
