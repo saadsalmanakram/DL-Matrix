@@ -2194,3 +2194,9 @@ Ans- MA-POCA provides centralized learning and decentralized execution to train 
 
 (------------------------------------------------------------------------)
 
+368- How does the reward function work in the SoccerTwos environment?
+
+Ans- Agents receive rewards based on team performance, scoring a goal or preventing goals.
+
+(------------------------------------------------------------------------)
+
