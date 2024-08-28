@@ -1276,6 +1276,18 @@ Ans- They output a probability distribution over actions, making them more scala
 
 (------------------------------------------------------------------------)
 
+214- What are the convergence properties of policy-gradient methods?
+
+Ans- Policy-gradient methods exhibit smoother convergence, with action preferences changing gradually over time.
+
+(------------------------------------------------------------------------)
+
+215- What is a common drawback of policy-gradient methods concerning optimization?
+
+Ans- Policy-gradient methods often converge to a local maximum rather than finding the global optimum.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
