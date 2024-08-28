@@ -430,4 +430,10 @@ Ans- Classic RL uses algorithms to create Q tables for decision-making, while De
 
 (-------------------------------------------------------------------------)
 
+73- What role does a neural network play in Deep Q-Learning?
+
+Ans- In Deep Q-Learning, a neural network approximates the Q values, determining the best action for each state.
+
+(-------------------------------------------------------------------------)
+
 
