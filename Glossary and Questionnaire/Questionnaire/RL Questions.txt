@@ -1918,39 +1918,3 @@ Ans- VecNormalize normalizes observations and rewards to improve the training st
 
 (------------------------------------------------------------------------)
 
-321- How does the make_vec_env function benefit reinforcement learning training?
-
-Ans- It creates multiple parallel environments to speed up training by allowing simultaneous interaction with several instances of the environment.
-
-(------------------------------------------------------------------------)
-
-322- What role does the MultiInputPolicy play in the context of PandaReachDense-v3?
-
-Ans- MultiInputPolicy handles environments with multiple types of inputs (e.g., dictionaries) by processing each input type appropriately.
-
-(------------------------------------------------------------------------)
-
-323- Why is it important to normalize observations and rewards?
-
-Ans- Normalizing helps prevent the values from becoming too large or too small, which can lead to unstable training and slow convergence.
-
-(------------------------------------------------------------------------)
-
-324- What is the purpose of the evaluate_policy function in Stable-Baselines3?
-
-Ans- It assesses the performance of a trained model by computing the mean and standard deviation of rewards in the environment.
-
-(------------------------------------------------------------------------)
-
-325- How do you interpret the mean_reward and std_reward values?
-
-Ans- Mean reward indicates the average performance of the agent, while std_reward shows the variability in the agent’s performance.
-
-(------------------------------------------------------------------------)
-
-326- What is the significance of saving the VecNormalize statistics?
-
-Ans- Saving VecNormalize statistics ensures that normalization parameters are consistent during both training and evaluation phases.
-
-(------------------------------------------------------------------------)
-
