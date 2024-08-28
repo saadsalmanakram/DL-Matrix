@@ -2020,5 +2020,11 @@ Ans- Designing MARL systems involves selecting appropriate algorithms and strate
 
 (------------------------------------------------------------------------)
 
+338- What is the main characteristic of decentralized multi-agent systems?
+
+Ans- Agents are trained independently without sharing information.
+
+(------------------------------------------------------------------------)
+
 
 
