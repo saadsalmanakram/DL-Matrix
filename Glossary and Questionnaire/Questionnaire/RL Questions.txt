@@ -364,4 +364,10 @@ Ans- The policy is the function that dictates the agent's behavior at any given 
 
 (-------------------------------------------------------------------------)
 
+62- What is the goal of learning a policy in RL?
+
+Ans- The goal is to find the optimal policy π* that maximizes the expected return.
+
+(-------------------------------------------------------------------------)
+
 
