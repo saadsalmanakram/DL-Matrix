@@ -1612,4 +1612,10 @@ Ans- Curiosity is an intrinsic reward mechanism where the agent generates its ow
 
 (------------------------------------------------------------------------)
 
+270- How does Curiosity-driven learning help address the sparse rewards problem?
+
+Ans- By providing intrinsic rewards, Curiosity motivates the agent to explore and learn from novel states, reducing dependence on sparse extrinsic rewards.
+
+(------------------------------------------------------------------------)
+
 
