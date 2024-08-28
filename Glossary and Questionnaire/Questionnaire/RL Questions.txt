@@ -688,3 +688,9 @@ Ans- The primary goal of Q-Learning is to find the optimal policy by learning th
 
 (------------------------------------------------------------------------)
 
+116- What is a Q-function?
+
+Ans- The Q-function is an action-value function that outputs the expected cumulative reward of taking a specific action in a given state.
+
+(------------------------------------------------------------------------)
+
