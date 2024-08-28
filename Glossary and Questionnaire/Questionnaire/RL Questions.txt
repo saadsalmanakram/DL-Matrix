@@ -1882,4 +1882,9 @@ Ans- The Advantage function can be approximated using the Temporal Difference (T
 
 (------------------------------------------------------------------------)
 
+315- Describe the training steps involved in the Actor-Critic method.
+
+Ans- Obtain the state, select an action, compute the Q-value, receive a reward and new state, update the Actor’s policy with Q-value, and update the Critic’s value function.
+
+(------------------------------------------------------------------------)
 
