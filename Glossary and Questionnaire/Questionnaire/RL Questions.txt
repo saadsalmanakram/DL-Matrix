@@ -592,3 +592,9 @@ Ans- It calculates the expected return for a state or state-action pair based on
 
 (-------------------------------------------------------------------------)
 
+100- What is the Epsilon-Greedy Policy?
+
+Ans- The Epsilon-Greedy Policy balances exploration and exploitation by choosing a random action with probability ε and the best-known action with probability 1-ε.
+
+(-------------------------------------------------------------------------)
+
