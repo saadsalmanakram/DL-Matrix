@@ -1492,4 +1492,10 @@ Ans- The goal is for Julien to hit as many targets as possible within 1000 times
 
 (------------------------------------------------------------------------)
 
+250- How does the agent determine when it can shoot again?
+
+Ans- The agent uses a "cool off" system, requiring it to wait 0.5 seconds before shooting another snowball.
+
+(------------------------------------------------------------------------)
+
 
