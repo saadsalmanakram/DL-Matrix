@@ -1210,3 +1210,9 @@ Ans- Policy-gradient methods are a subclass of policy-based methods that directl
 
 (------------------------------------------------------------------------)
 
+203- How do policy-based methods typically perform optimization?
+
+Ans- By maximizing a local approximation of the objective function using techniques like hill climbing or evolution strategies.
+
+(------------------------------------------------------------------------)
+
