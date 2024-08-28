@@ -718,3 +718,9 @@ Ans- The epsilon-greedy strategy balances exploration and exploitation by choosi
 
 (------------------------------------------------------------------------)
 
+121- Why is the epsilon-greedy strategy used in Q-Learning?
+
+Ans- It is used to ensure the agent explores the environment sufficiently before converging on the optimal policy.
+
+(------------------------------------------------------------------------)
+
