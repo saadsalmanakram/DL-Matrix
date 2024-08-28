@@ -358,4 +358,10 @@ Ans- The policy π is the agent's brain, determining the action to take given a 
 
 (-------------------------------------------------------------------------)
 
+61- Why is the policy considered the agent’s brain?
+
+Ans- The policy is the function that dictates the agent's behavior at any given time, guiding action selection.
+
+(-------------------------------------------------------------------------)
+
 
