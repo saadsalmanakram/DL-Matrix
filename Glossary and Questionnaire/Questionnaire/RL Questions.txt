@@ -472,4 +472,10 @@ Ans- Deep RL effectively handles high-dimensional state spaces, which are diffic
 
 (-------------------------------------------------------------------------)
 
+80- What are value-based algorithms in Reinforcement Learning?
+
+Ans- Value-based algorithms, like Q-Learning, focus on estimating the value of actions to make decisions.
+
+(-------------------------------------------------------------------------)
+
 
