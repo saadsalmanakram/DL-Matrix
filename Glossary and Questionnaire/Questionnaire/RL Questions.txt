@@ -1432,3 +1432,22 @@ Ans- The PettingZoo wrapper is the multi-agent version of the Gym wrapper, used 
 
 (------------------------------------------------------------------------)
 
+240- What are the two main components inside the Learning Component of Unity ML-Agents?
+
+Ans- The two main components are the Agent and the Academy.
+
+(------------------------------------------------------------------------)
+
+241- What is the role of the Agent in Unity ML-Agents?
+
+Ans- The Agent acts as the actor in the environment, and its policy (the Brain) determines actions based on the current state.
+
+(------------------------------------------------------------------------)
+
+242- What is the Brain in Unity ML-Agents?
+
+Ans- The Brain is the policy component of the Agent, responsible for deciding actions based on states.
+
+(------------------------------------------------------------------------)
+
+
