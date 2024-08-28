@@ -2080,4 +2080,16 @@ Ans- The reward is global, reflecting the collective performance of all agents.
 
 (------------------------------------------------------------------------)
 
+349- How do agents interact in a centralized MARL system?
+
+Ans- They operate based on a common policy learned from shared experiences.
+
+(------------------------------------------------------------------------)
+
+350- What is the benefit of a centralized approach in terms of environment stability?
+
+Ans- It maintains a stationary environment, which aids in achieving convergence.
+
+(------------------------------------------------------------------------)
+
 
