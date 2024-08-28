@@ -2146,3 +2146,9 @@ Ans- Agents play against versions of themselves, which evolve as their own polic
 
 (------------------------------------------------------------------------)
 
+360- What is the ELO score?
+
+Ans- The ELO score is a rating system that calculates the relative skill level between players in zero-sum games.
+
+(------------------------------------------------------------------------)
+
