@@ -1510,4 +1510,16 @@ Ans- Overly complex reward functions can prevent the agent from discovering inte
 
 (------------------------------------------------------------------------)
 
+253- What is the observation space in SnowballTarget?
+
+Ans- The observation space includes raycasts and a boolean value indicating if the agent can shoot.
+
+(------------------------------------------------------------------------)
+
+254- What are raycasts used for in SnowballTarget?
+
+Ans- Raycasts are used to detect objects by simulating laser-like beams that pass through the environment.
+
+(------------------------------------------------------------------------)
+
 
