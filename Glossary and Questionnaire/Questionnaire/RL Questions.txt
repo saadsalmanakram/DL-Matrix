@@ -1942,3 +1942,9 @@ Ans- Applications include autonomous vehicle fleets coordinating on roads, robot
 
 (------------------------------------------------------------------------)
 
+325- What is a key difference between training a single agent and multiple agents?
+
+Ans- In multiple agent scenarios, each agent’s actions affect not only its own rewards but also those of other agents, introducing additional complexities like coordination and competition.
+
+(------------------------------------------------------------------------)
+
