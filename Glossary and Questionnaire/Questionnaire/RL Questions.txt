@@ -2314,3 +2314,9 @@ Ans- To optimize the policy to take actions that lead to higher rewards and avoi
 
 (------------------------------------------------------------------------)
 
+388- What are the challenges associated with the step size in Reinforce?
+
+Ans- Too small a step size results in slow training, while too large a step size causes high variability in training.
+
+(------------------------------------------------------------------------)
+
