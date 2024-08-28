@@ -1936,4 +1936,10 @@ Ans- Normalizing helps prevent the values from becoming too large or too small, 
 
 (------------------------------------------------------------------------)
 
+324- What is the purpose of the evaluate_policy function in Stable-Baselines3?
+
+Ans- It assesses the performance of a trained model by computing the mean and standard deviation of rewards in the environment.
+
+(------------------------------------------------------------------------)
+
 
