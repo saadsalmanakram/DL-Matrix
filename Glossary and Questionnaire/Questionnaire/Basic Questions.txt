@@ -82,3 +82,9 @@ Ans- The environment provides the current state to the agent and responds to the
 
 (-------------------------------------------------------------------------)
 
+15- What does the sequence of state, action, reward, and next state represent in RL?
+
+Ans- It represents the interaction loop where the agent takes actions based on the current state to maximize cumulative rewards.
+
+(-------------------------------------------------------------------------)
+
