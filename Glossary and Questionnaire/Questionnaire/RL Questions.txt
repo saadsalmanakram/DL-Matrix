@@ -952,5 +952,17 @@ Ans- The combination of a non-linear Q-value function (neural network) and boots
 
 (-------------------------------------------------------------------------)
 
+160- What is Experience Replay in Deep Q-Learning?
+
+Ans- Experience Replay involves storing past experiences in a buffer and sampling them randomly during training to improve learning efficiency and stability.
+
+(-------------------------------------------------------------------------)
+
+161- How does Experience Replay help in Deep Q-Learning?
+
+Ans- It allows the agent to learn from past experiences multiple times and reduces the correlation between consecutive experiences.
+
+(-------------------------------------------------------------------------)
+
 
 
