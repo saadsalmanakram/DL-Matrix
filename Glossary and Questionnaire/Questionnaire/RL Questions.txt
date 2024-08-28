@@ -490,4 +490,10 @@ Ans- Problems with large, complex, or continuous state spaces are best suited fo
 
 (-------------------------------------------------------------------------)
 
+83- Can Deep Q-Learning be applied to real-world scenarios?
+
+Ans- Yes, Deep Q-Learning is widely used in real-world applications like robotics, gaming, and autonomous systems.
+
+(-------------------------------------------------------------------------)
+
 
