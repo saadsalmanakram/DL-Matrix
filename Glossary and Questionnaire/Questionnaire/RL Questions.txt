@@ -1594,4 +1594,10 @@ Ans- The reward hypothesis posits that goals can be achieved by maximizing rewar
 
 (------------------------------------------------------------------------)
 
+267- How do sparse rewards affect an RL agent's learning process?
+
+Ans- Sparse rewards slow down learning as agents receive little feedback, making it harder to determine the correct actions.
+
+(------------------------------------------------------------------------)
+
 
