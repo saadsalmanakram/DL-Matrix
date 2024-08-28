@@ -1870,4 +1870,10 @@ Ans- The Advantage function measures how much better or worse an action is compa
 
 (------------------------------------------------------------------------)
 
+313- Why is the Advantage function used instead of the Q-value function in A2C (Advantage Actor-Critic)?
+
+Ans- The Advantage function helps reduce variance by comparing the action's value to the average state value, making learning more stable and efficient.
+
+(------------------------------------------------------------------------)
+
 
