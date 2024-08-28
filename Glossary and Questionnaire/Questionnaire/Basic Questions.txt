@@ -64,3 +64,21 @@ Ans- The central idea is the reward hypothesis, which states that all goals can 
 
 (-------------------------------------------------------------------------)
 
+12- What is the goal of an RL agent?
+
+Ans- The goal is to maximize its cumulative reward, also known as the expected return.
+
+(-------------------------------------------------------------------------)
+
+13- Describe the RL process in simple terms.
+
+Ans- The RL process involves an agent interacting with an environment by taking actions that lead to new states and receiving rewards, forming a loop.
+
+(-------------------------------------------------------------------------)
+
+14- What is the role of the environment in the RL process?
+
+Ans- The environment provides the current state to the agent and responds to the agent's actions with a new state and a reward.
+
+(-------------------------------------------------------------------------)
+
