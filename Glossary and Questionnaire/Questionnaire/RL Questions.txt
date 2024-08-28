@@ -1672,5 +1672,12 @@ Ans- Curiosity enhances exploration by encouraging agents to seek out novel stat
 
 (------------------------------------------------------------------------)
 
+280- What is the primary goal of Policy-Based methods in reinforcement learning?
+
+Ans- To optimize the policy directly without using a value function.
+
+(------------------------------------------------------------------------)
+
+
 
 
