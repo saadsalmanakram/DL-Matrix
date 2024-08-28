@@ -844,4 +844,10 @@ Ans- The network starts with random weights, leading to inaccurate Q-value predi
 
 (-------------------------------------------------------------------------)
 
+142- How does the DQN learn to associate actions with situations over time?
+
+Ans- The DQN adjusts its weights through training, refining its Q-value estimations based on experiences.
+
+(-------------------------------------------------------------------------)
+
 
