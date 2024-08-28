@@ -400,4 +400,10 @@ Ans- Value-Based Methods involve learning a value function that maps states to t
 
 (-------------------------------------------------------------------------)
 
+68- What does the value function represent in RL?
+
+Ans- The value function represents the expected discounted return from being in a specific state.
+
+(-------------------------------------------------------------------------)
+
 
