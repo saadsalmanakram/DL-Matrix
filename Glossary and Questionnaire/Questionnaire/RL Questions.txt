@@ -1852,3 +1852,8 @@ Ans- The Actor learns by updating its policy parameters based on feedback from t
 
 (------------------------------------------------------------------------)
 
+310- What is the role of the Critic in the Actor-Critic framework?
+
+Ans- The Critic evaluates the action taken by computing the Q-value or Advantage function, providing feedback to the Actor.
+
+(------------------------------------------------------------------------)
