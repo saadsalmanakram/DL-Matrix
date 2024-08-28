@@ -1618,4 +1618,10 @@ Ans- By providing intrinsic rewards, Curiosity motivates the agent to explore an
 
 (------------------------------------------------------------------------)
 
+271- How is Curiosity typically calculated using next-state prediction?
+
+Ans- It is calculated as the error in predicting the next state given the current state and action, with higher errors indicating higher curiosity.
+
+(------------------------------------------------------------------------)
+
 
