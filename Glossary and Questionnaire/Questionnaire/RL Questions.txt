@@ -1564,4 +1564,10 @@ Ans- It aims to avoid the reward engineering problem, where an overly complex re
 
 (------------------------------------------------------------------------)
 
+262- Why are discrete actions suitable for the SnowballTarget environment?
+
+Ans- Discrete actions simplify the decision space, making it easier for the agent to learn and optimize its behavior.
+
+(------------------------------------------------------------------------)
+
 
