@@ -436,4 +436,10 @@ Ans- In Deep Q-Learning, a neural network approximates the Q values, determining
 
 (-------------------------------------------------------------------------)
 
+74- Why is it called "Deep" Reinforcement Learning?
+
+Ans- It's called "Deep" because it incorporates deep neural networks into the traditional RL framework.
+
+(-------------------------------------------------------------------------)
+
 
