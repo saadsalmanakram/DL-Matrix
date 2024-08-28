@@ -802,3 +802,10 @@ Ans- Experience replay improves learning efficiency and stability by storing pas
 
 (------------------------------------------------------------------------)
 
+135- Why is a target network used in Deep Q-Learning?
+
+Ans- A target network is used to stabilize training by providing a fixed Q-value target for a few episodes before being updated with the weights of the main network.
+
+(-------------------------------------------------------------------------)
+
+
