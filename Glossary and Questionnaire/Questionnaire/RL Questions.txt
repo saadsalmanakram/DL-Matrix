@@ -856,4 +856,10 @@ Ans- Preprocessing reduces state complexity, which speeds up training and reduce
 
 (-------------------------------------------------------------------------)
 
+144- What is the reason for cropping parts of the screen in some games during preprocessing?
+
+Ans- Cropping removes irrelevant parts of the screen, focusing the network on important information.
+
+(-------------------------------------------------------------------------)
+
 
