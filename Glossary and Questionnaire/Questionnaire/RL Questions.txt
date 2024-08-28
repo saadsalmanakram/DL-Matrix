@@ -1702,4 +1702,10 @@ Ans- The direction of the steepest increase in return, guiding how to update pol
 
 (------------------------------------------------------------------------)
 
+285- What is the main advantage of Actor-Critic methods over pure Policy-Based methods?
+
+Ans- They stabilize training by combining policy-based and value-based approaches, reducing variance.
+
+(------------------------------------------------------------------------)
+
 
