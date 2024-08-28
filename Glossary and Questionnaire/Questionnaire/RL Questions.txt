@@ -1474,4 +1474,10 @@ Ans- The Academy ensures agents collect observations, select actions, take actio
 
 (------------------------------------------------------------------------)
 
+247- When does an agent reset in Unity ML-Agents?
+
+Ans- An agent resets if it reaches the max step or completes its task.
+
+(------------------------------------------------------------------------)
+
 
