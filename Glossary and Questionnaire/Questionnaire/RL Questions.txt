@@ -2302,3 +2302,9 @@ Ans- Large updates can lead to poor policies and make recovery difficult.
 
 (------------------------------------------------------------------------)
 
+386- How does PPO differ from other reinforcement learning algorithms in terms of policy updates?
+
+Ans- PPO updates the policy more conservatively using a clipping method to stabilize training.
+
+(------------------------------------------------------------------------)
+
