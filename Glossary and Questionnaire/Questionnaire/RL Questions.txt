@@ -1930,3 +1930,9 @@ Ans- MARL involves multiple agents learning and making decisions in a shared env
 
 (------------------------------------------------------------------------)
 
+323- What are some common challenges in MARL?
+
+Ans- Challenges include handling non-stationarity (since other agents’ policies change), coordination among agents, and scalability issues as the number of agents increases.
+
+(------------------------------------------------------------------------)
+
