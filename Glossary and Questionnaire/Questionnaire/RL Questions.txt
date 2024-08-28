@@ -1204,3 +1204,9 @@ Ans- The policy πθ to output a probability distribution over actions that maxi
 
 (------------------------------------------------------------------------)
 
+202- What is the difference between policy-based and policy-gradient methods?
+
+Ans- Policy-gradient methods are a subclass of policy-based methods that directly optimize the parameter θ through gradient ascent.
+
+(------------------------------------------------------------------------)
+
