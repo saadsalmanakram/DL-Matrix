@@ -1462,4 +1462,10 @@ Ans- The RL process is a loop where the Agent receives a state, takes an action,
 
 (------------------------------------------------------------------------)
 
+245- What is the goal of the RL process for an agent in Unity ML-Agents?
+
+Ans- The goal is to maximize the expected cumulative reward.
+
+(------------------------------------------------------------------------)
+
 
