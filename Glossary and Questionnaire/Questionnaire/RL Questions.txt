@@ -2320,3 +2320,15 @@ Ans- Too small a step size results in slow training, while too large a step size
 
 (------------------------------------------------------------------------)
 
+389- How does PPO address the issues of large policy updates in Reinforce?
+
+Ans- PPO uses the Clipped Surrogate Objective function to constrain policy updates and prevent excessively large changes.
+
+(------------------------------------------------------------------------)
+
+390- What is the purpose of the Ratio function in PPO?
+
+Ans- To measure the probability ratio between the current and old policy, estimating the divergence between them.
+
+(------------------------------------------------------------------------)
+
