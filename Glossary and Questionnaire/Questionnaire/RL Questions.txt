@@ -658,3 +658,9 @@ Ans- Using an existing estimate rather than waiting for the full return.
 
 (------------------------------------------------------------------------)
 
+111- What is TD(0) or one-step TD?
+
+Ans- A method that updates the value function after any individual step.
+
+(------------------------------------------------------------------------)
+
