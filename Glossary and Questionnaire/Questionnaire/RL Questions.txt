@@ -1108,4 +1108,10 @@ Ans- To estimate the expected return for each action taken, which helps in calcu
 
 (-------------------------------------------------------------------------)
 
+186- How does the Reinforce algorithm update the policy?
+
+Ans- By adjusting policy parameters in the direction that increases the probability of actions leading to higher returns.
+
+(-------------------------------------------------------------------------)
+
 
