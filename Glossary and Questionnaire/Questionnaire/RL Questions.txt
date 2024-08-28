@@ -184,4 +184,10 @@ Ans- An episodic task has a clear starting point and an ending point (terminal s
 
 (------------------------------------------------------------------------)
 
+32- Can you give an example of an episodic task?
+
+Ans- An example of an episodic task is a Super Mario Bros level, where the episode starts at the beginning of a level and ends when Mario is either killed or completes the level.
+
+(------------------------------------------------------------------------)
+
 
