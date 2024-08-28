@@ -352,4 +352,10 @@ Ans- We solve the RL problem by training an RL agent to select actions that maxi
 
 (-------------------------------------------------------------------------)
 
+60- What is the policy π in Reinforcement Learning?
+
+Ans- The policy π is the agent's brain, determining the action to take given a specific state.
+
+(-------------------------------------------------------------------------)
+
 
