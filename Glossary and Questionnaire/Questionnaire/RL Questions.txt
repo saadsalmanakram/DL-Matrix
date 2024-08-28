@@ -2116,4 +2116,10 @@ Ans- It uses copies of the agent itself as opponents, so the difficulty adjusts 
 
 (------------------------------------------------------------------------)
 
+355- What is the main challenge in self-play training?
+
+Ans- Balancing the skill levels of the agent and its opponent to avoid both overtraining against weak opponents and undertraining against overly strong ones.
+
+(------------------------------------------------------------------------)
+
 
