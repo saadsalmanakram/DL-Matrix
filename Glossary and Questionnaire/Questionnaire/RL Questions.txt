@@ -2176,3 +2176,9 @@ Ans- The ELO system balances points, is self-correcting, and can be applied to t
 
 (------------------------------------------------------------------------)
 
+365- What are the disadvantages of the ELO rating system?
+
+Ans- It does not account for individual contributions in team games and can experience rating deflation over time.
+
+(------------------------------------------------------------------------)
+
