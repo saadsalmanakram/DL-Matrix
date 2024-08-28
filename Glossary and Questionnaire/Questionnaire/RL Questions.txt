@@ -370,4 +370,10 @@ Ans- The goal is to find the optimal policy π* that maximizes the expected retu
 
 (-------------------------------------------------------------------------)
 
+63- How do Policy-Based Methods work in RL?
+
+Ans- Policy-Based Methods involve learning a policy function directly, mapping states to the best corresponding actions or probability distributions over actions.
+
+(-------------------------------------------------------------------------)
+
 
