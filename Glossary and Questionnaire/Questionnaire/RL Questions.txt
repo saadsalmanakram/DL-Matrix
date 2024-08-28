@@ -1810,3 +1810,9 @@ Ans- Using variance reduction techniques such as baselines or advantage function
 
 (------------------------------------------------------------------------)
 
+303- What is the bias-variance tradeoff in the context of Deep Reinforcement Learning?
+
+Ans- It involves balancing the bias of estimates (inaccurate but consistent) and variance (consistent but potentially inaccurate) to improve learning efficiency and performance.
+
+(------------------------------------------------------------------------)
+
