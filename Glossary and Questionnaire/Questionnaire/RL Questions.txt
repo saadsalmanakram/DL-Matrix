@@ -1407,3 +1407,10 @@ Ans- The Learning Environment contains the Unity scene and environment elements,
 Ans- The Python Low-level API is used for interacting with and manipulating the Unity environment during training.
 
 (------------------------------------------------------------------------)
+
+236- What does the External Communicator in Unity ML-Agents do?
+
+Ans- The External Communicator connects the Learning Environment (C#) with the Python Low-level API.
+
+(------------------------------------------------------------------------)
+
