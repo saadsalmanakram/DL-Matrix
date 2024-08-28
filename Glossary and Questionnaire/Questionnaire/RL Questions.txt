@@ -754,3 +754,9 @@ Ans- The Q-Learning algorithm converges to the optimal policy by iteratively upd
 
 (------------------------------------------------------------------------)
 
+127- What is the role of the discount factor in Q-Learning?
+
+Ans- The discount factor in Q-Learning determines the importance of future rewards compared to immediate rewards, guiding the learning process toward long-term success.
+
+(------------------------------------------------------------------------)
+
