@@ -550,3 +550,9 @@ Ans- In value-based methods, the policy is typically predefined, such as a greed
 
 (-------------------------------------------------------------------------)
 
+93- What is the role of a Greedy Policy in value-based methods?
+
+Ans- A Greedy Policy selects the action that maximizes the value function at each state.
+
+(-------------------------------------------------------------------------)
+
