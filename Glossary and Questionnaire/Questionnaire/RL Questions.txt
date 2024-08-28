@@ -190,4 +190,10 @@ Ans- An example of an episodic task is a Super Mario Bros level, where the episo
 
 (------------------------------------------------------------------------)
 
+33- What is a continuing task in Reinforcement Learning?
+
+Ans- A continuing task is a task with no terminal state, meaning it continues indefinitely until stopped.
+
+(------------------------------------------------------------------------)
+
 
