@@ -1228,6 +1228,13 @@ Ans- Because they use data (trajectories) collected by the most recent version o
 
 (------------------------------------------------------------------------)
 
+206- What is a key advantage of policy-based methods?
+
+Ans- They can directly optimize the policy to handle complex, high-dimensional action spaces.
+
+(------------------------------------------------------------------------)
+
+
 
 ​
  
