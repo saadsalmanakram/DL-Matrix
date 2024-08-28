@@ -1192,3 +1192,9 @@ Ans- Using a neural network that outputs a probability distribution over actions
 
 (------------------------------------------------------------------------)
 
+200- What is the main objective in policy-based methods?
+
+Ans- To maximize the performance of the parameterized policy using gradient ascent.
+
+(------------------------------------------------------------------------)
+
