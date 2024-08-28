@@ -1246,6 +1246,11 @@ Ans- To directly optimize the parameter 𝜃 to maximize the objective function 
 
 (------------------------------------------------------------------------)
 
+209- What problem do actor-critic methods address?
+
+Ans- They combine the strengths of both value-based and policy-based methods to stabilize training.
+
+(------------------------------------------------------------------------)
 
 
 ​
