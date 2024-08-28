@@ -214,4 +214,10 @@ Ans- Differentiating helps in designing appropriate learning algorithms and rewa
 
 (------------------------------------------------------------------------)
 
+37- What is an episode in the context of Reinforcement Learning?
+
+Ans- An episode is a sequence of states, actions, rewards, and new states from the start to the terminal state in an episodic task.
+
+(------------------------------------------------------------------------)
+
 
