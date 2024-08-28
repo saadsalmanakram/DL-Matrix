@@ -532,3 +532,9 @@ Ans- A value function maps a state to the expected return (discounted future rew
 
 (-------------------------------------------------------------------------)
 
+90- What is the difference between value-based and policy-based methods?
+
+Ans- Value-based methods train a value function to guide actions, while policy-based methods directly train the policy to select actions.
+
+(-------------------------------------------------------------------------)
+
