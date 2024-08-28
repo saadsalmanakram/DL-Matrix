@@ -2092,4 +2092,10 @@ Ans- It maintains a stationary environment, which aids in achieving convergence.
 
 (------------------------------------------------------------------------)
 
+351- How does a centralized approach improve the coordination among agents?
+
+Ans- By learning a unified policy that coordinates their actions based on collective experiences.
+
+(------------------------------------------------------------------------)
+
 
