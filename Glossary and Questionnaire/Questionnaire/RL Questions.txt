@@ -1012,5 +1012,11 @@ Ans- Replay memory stores experiences to allow the agent to learn from past inte
 
 (-------------------------------------------------------------------------)
 
+170- Why is the Q-target in Deep Q-Learning called a "moving target"?
+
+Ans- Because both the Q-values and targets are updated during training, causing the target to shift over time.
+
+(-------------------------------------------------------------------------)
+
 
 
