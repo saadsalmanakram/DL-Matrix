@@ -232,4 +232,10 @@ Ans- There is no terminal state in a continuing task.
 
 (------------------------------------------------------------------------)
 
+40- What does an agent need to focus on in continuing tasks?
+
+Ans- The agent must focus on continuously optimizing its actions while interacting with the environment indefinitely.
+
+(------------------------------------------------------------------------)
+
 
