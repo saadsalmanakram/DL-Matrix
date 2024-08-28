@@ -16,4 +16,9 @@ Ans- It’s like a child learning to play a video game: by trial and error, they
 
 (-------------------------------------------------------------------------)
 
+4- What does the environment represent in Reinforcement Learning?
+
+Ans- The environment is the external system with which the agent interacts, providing feedback based on the agent’s actions.
+
+(-------------------------------------------------------------------------)
 
