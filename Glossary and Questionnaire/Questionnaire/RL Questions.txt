@@ -2170,3 +2170,9 @@ Ans- The rating is adjusted based on the expected outcome versus the actual resu
 
 (------------------------------------------------------------------------)
 
+364- What are the advantages of using the ELO score?
+
+Ans- The ELO system balances points, is self-correcting, and can be applied to team games by averaging team ratings.
+
+(------------------------------------------------------------------------)
+
