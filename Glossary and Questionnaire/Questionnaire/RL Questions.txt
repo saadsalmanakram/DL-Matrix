@@ -1048,5 +1048,17 @@ Ans- Dueling DQN splits the Q-value into state-value and advantage components, h
 
 (-------------------------------------------------------------------------)
 
+176- What is Optuna?
+
+Ans- Optuna is an open-source library for automating hyperparameter optimization in machine learning models, including Deep Reinforcement Learning.
+
+(-------------------------------------------------------------------------)
+
+177- What are value-based methods in reinforcement learning?
+
+Ans- Methods that estimate a value function as an intermediate step to find an optimal policy.
+
+(-------------------------------------------------------------------------)
+
 
 
