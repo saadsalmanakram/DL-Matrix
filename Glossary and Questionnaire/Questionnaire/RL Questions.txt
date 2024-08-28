@@ -1642,4 +1642,11 @@ Ans- ML-Agents use Curiosity through random network distillation, which is a mor
 
 (------------------------------------------------------------------------)
 
+275- Why is Curiosity inspired by human behavior?
+
+Ans- Curiosity mimics humans' intrinsic desire to explore and learn about their environment, encouraging similar behaviors in RL agents.
+
+(------------------------------------------------------------------------)
+
+
 
