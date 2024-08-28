@@ -712,3 +712,9 @@ Ans- The Q-table is typically initialized with arbitrary values, often zeros, be
 
 (------------------------------------------------------------------------)
 
+120- What is the epsilon-greedy strategy in Q-Learning?
+
+Ans- The epsilon-greedy strategy balances exploration and exploitation by choosing a random action with probability ɛ and the best-known action with probability 1-ɛ.
+
+(------------------------------------------------------------------------)
+
