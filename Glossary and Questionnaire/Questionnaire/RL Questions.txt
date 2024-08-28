@@ -862,4 +862,10 @@ Ans- Cropping removes irrelevant parts of the screen, focusing the network on im
 
 (-------------------------------------------------------------------------)
 
+145- How do convolutional layers in the DQN process the input frames?
+
+Ans- Convolutional layers capture spatial relationships and temporal properties from the stacked frames.
+
+(-------------------------------------------------------------------------)
+
 
