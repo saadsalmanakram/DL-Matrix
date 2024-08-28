@@ -970,5 +970,11 @@ Ans- Catastrophic forgetting occurs when new experiences overwrite old ones; Exp
 
 (-------------------------------------------------------------------------)
 
+163- What is a Fixed Q-Target in Deep Q-Learning?
+
+Ans- A Fixed Q-Target stabilizes training by using a separate target network with fixed parameters to estimate the TD target, updated periodically.
+
+(-------------------------------------------------------------------------)
+
 
 
