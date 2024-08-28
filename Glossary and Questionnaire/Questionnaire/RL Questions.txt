@@ -1366,5 +1366,9 @@ Ans- By using the gradient estimate from collected episodes to adjust the weight
 
 (------------------------------------------------------------------------)
 
-
+229- How is the return 𝑅(𝜏) used in the policy-gradient update?
  
+Ans- It acts as a scoring function to adjust the probabilities of state-action pairs, increasing them for high returns and decreasing them for low returns.
+
+(------------------------------------------------------------------------)
+
