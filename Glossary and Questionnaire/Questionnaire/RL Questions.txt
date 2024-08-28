@@ -1654,5 +1654,11 @@ Ans- By using intrinsic rewards, Curiosity-driven learning reduces the need for 
 
 (------------------------------------------------------------------------)
 
+277- What role does prediction error play in Curiosity-driven learning?
+
+Ans- Prediction error indicates the novelty of a state; higher errors lead to greater intrinsic rewards, driving exploration.
+
+(------------------------------------------------------------------------)
+
 
 
