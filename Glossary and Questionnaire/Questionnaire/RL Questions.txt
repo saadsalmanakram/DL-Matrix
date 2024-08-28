@@ -1006,5 +1006,11 @@ Ans- It reduces overestimation errors, leading to more stable and faster learnin
 
 (-------------------------------------------------------------------------)
 
+169- What is the purpose of a replay memory in Deep Q-Learning?
+
+Ans- Replay memory stores experiences to allow the agent to learn from past interactions, improving training efficiency and stability.
+
+(-------------------------------------------------------------------------)
+
 
 
