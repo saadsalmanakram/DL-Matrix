@@ -1984,3 +1984,10 @@ Ans- Challenges include coordination to avoid collisions, efficient task allocat
 
 (------------------------------------------------------------------------)
 
+332- How does MARL apply to autonomous vehicles?
+
+Ans- MARL helps autonomous vehicles learn to navigate safely and efficiently while interacting with other vehicles, pedestrians, and traffic signals, enhancing overall traffic management and safety.
+
+(------------------------------------------------------------------------)
+
+
