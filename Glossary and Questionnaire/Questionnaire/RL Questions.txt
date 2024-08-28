@@ -730,3 +730,9 @@ Ans- The Q-value is updated using the Bellman equation, which incorporates the i
 
 (------------------------------------------------------------------------)
 
+123- What does it mean to 'bootstrap' in Q-Learning?
+
+Ans- Bootstrapping in Q-Learning refers to updating the Q-value based on the current estimate of future rewards, rather than waiting for the final outcome.
+
+(------------------------------------------------------------------------)
+
