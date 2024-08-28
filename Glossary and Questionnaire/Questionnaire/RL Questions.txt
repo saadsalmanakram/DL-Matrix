@@ -1156,3 +1156,9 @@ Ans- It posits that all goals can be described as the maximization of expected c
 
 (-------------------------------------------------------------------------)
 
+194- What are value-based methods in RL?
+
+Ans- Methods where the optimal policy is derived from an optimal value function.
+
+(-------------------------------------------------------------------------)
+
