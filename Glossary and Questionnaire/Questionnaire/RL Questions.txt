@@ -1606,4 +1606,10 @@ Ans- Scaling handcrafted rewards to large and complex environments is difficult 
 
 (------------------------------------------------------------------------)
 
+269- What is Curiosity in the context of RL?
+
+Ans- Curiosity is an intrinsic reward mechanism where the agent generates its own rewards to explore novel and unfamiliar states.
+
+(------------------------------------------------------------------------)
+
 
