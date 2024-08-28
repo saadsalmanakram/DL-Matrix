@@ -796,3 +796,9 @@ Ans- Deep Q-Learning typically uses an ε-greedy policy, where ε controls the t
 
 (------------------------------------------------------------------------)
 
+134- What is the purpose of the experience replay in Deep Q-Learning?
+
+Ans- Experience replay improves learning efficiency and stability by storing past experiences and randomly sampling them to break the correlation between consecutive learning steps.
+
+(------------------------------------------------------------------------)
+
