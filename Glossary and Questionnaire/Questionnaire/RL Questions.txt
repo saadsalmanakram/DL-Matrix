@@ -838,4 +838,10 @@ Ans- The epsilon-greedy policy balances exploration and exploitation during acti
 
 (-------------------------------------------------------------------------)
 
+141- Why is the initial Q-value estimation poor when the neural network is first initialized?
+
+Ans- The network starts with random weights, leading to inaccurate Q-value predictions.
+
+(-------------------------------------------------------------------------)
+
 
