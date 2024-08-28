@@ -532,4 +532,10 @@ Ans- The state space includes the target (stick) position, the relative position
 
 (-------------------------------------------------------------------------)
 
+90- Does Huggy have a visual perception of the environment?
+
+Ans- No, Huggy doesn't "see" the environment; instead, he receives specific information about the environment.
+
+(-------------------------------------------------------------------------)
+
 
