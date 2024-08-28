@@ -1090,5 +1090,11 @@ Ans- They can better handle environments with large or continuous action spaces 
 
 (-------------------------------------------------------------------------)
 
+183- What is a policy gradient?
+
+Ans- A method to optimize the policy by calculating gradients of the expected reward with respect to policy parameters.
+
+(-------------------------------------------------------------------------)
+
 
 
