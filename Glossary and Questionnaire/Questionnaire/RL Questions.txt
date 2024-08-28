@@ -2308,3 +2308,9 @@ Ans- PPO updates the policy more conservatively using a clipping method to stabi
 
 (------------------------------------------------------------------------)
 
+387- What is the main objective of Reinforce in reinforcement learning?
+
+Ans- To optimize the policy to take actions that lead to higher rewards and avoid harmful actions through gradient ascent.
+
+(------------------------------------------------------------------------)
+
