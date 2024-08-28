@@ -226,4 +226,10 @@ Ans- A terminal state marks the end of an episode in an episodic task.
 
 (------------------------------------------------------------------------)
 
+39- In which type of task is there no terminal state?
+
+Ans- There is no terminal state in a continuing task.
+
+(------------------------------------------------------------------------)
+
 
