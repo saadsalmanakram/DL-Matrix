@@ -1,0 +1,6 @@
+1- What is Reinforcement Learning?
+
+Ans- Reinforcement Learning is a framework where an agent learns to solve tasks by interacting with an environment, receiving rewards as feedback for its actions.
+
+(-------------------------------------------------------------------------)
+
