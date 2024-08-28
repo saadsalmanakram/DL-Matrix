@@ -2224,3 +2224,9 @@ Ans- Key hyperparameters include batch size, buffer size, learning rate, and sel
 
 (------------------------------------------------------------------------)
 
+373- How does the self-play feature affect training in MA-POCA?
+
+Ans- Self-play helps improve agent performance by continuously adapting to and learning from the latest model.
+
+(------------------------------------------------------------------------)
+
