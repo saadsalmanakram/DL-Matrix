@@ -790,3 +790,9 @@ Ans- The neural network in Deep Q-Learning approximates the Q-value function, wh
 
 (------------------------------------------------------------------------)
 
+133- How does Deep Q-Learning handle exploration vs. exploitation?
+
+Ans- Deep Q-Learning typically uses an ε-greedy policy, where ε controls the trade-off between exploration (choosing random actions) and exploitation (choosing the action with the highest predicted Q-value).
+
+(------------------------------------------------------------------------)
+
