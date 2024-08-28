@@ -622,3 +622,9 @@ Ans- Monte Carlo uses an entire episode of experience, while Temporal Difference
 
 (------------------------------------------------------------------------)
 
+105- When does Monte Carlo update the value function?
+
+Ans- At the end of an episode.
+
+(------------------------------------------------------------------------)
+
