@@ -2002,4 +2002,10 @@ Ans- Cooperative environments require agents to work together to achieve a commo
 
 (------------------------------------------------------------------------)
 
+335- Can you explain competitive/adversarial environments?
+
+Ans- In competitive environments, agents have opposing goals, and each agent aims to maximize its own rewards at the expense of others, like in a game of tennis.
+
+(------------------------------------------------------------------------)
+
 
