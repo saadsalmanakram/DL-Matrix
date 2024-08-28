@@ -298,4 +298,10 @@ Ans- A rule is necessary to balance exploration and exploitation effectively to 
 
 (------------------------------------------------------------------------)
 
+51- What could be a potential downside of excessive exploration?
+
+Ans- Excessive exploration could lead to missed opportunities to maximize known rewards, resulting in lower overall performance.
+
+(------------------------------------------------------------------------)
+
 
