@@ -820,4 +820,10 @@ Ans- The loss function minimizes the difference between the Q-value predicted by
 
 (-------------------------------------------------------------------------)
 
+138- What is the purpose of using a Deep Q Network (DQN)?
+
+Ans- The DQN approximates Q-values for each possible action at a given state using a neural network.
+
+(-------------------------------------------------------------------------)
+
 
