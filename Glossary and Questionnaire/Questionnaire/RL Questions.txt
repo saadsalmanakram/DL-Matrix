@@ -1318,6 +1318,11 @@ Ans- It outputs a probability distribution over actions given a state, determini
 
 (------------------------------------------------------------------------)
 
+221- How is the performance of a policy measured in policy-gradient methods?
 
+Ans- It is measured using an objective function 𝐽(𝜃) that reflects the expected cumulative reward.
 ​
+(------------------------------------------------------------------------)
+
+
  
