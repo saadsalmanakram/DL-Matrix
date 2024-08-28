@@ -1030,5 +1030,11 @@ Ans- It reduces the correlation between consecutive samples, preventing the netw
 
 (-------------------------------------------------------------------------)
 
+173- What is the purpose of the target network in Deep Q-Learning?
+
+Ans- The target network provides stable Q-targets by being updated less frequently, reducing training oscillations.
+
+(-------------------------------------------------------------------------)
+
 
 
