@@ -2344,3 +2344,8 @@ Ans- It multiplies the probability ratio by the advantage to form part of the ob
 
 (------------------------------------------------------------------------)
 
+393- Why is the ratio clipped in the Clipped Surrogate Objective function of PPO?
+
+Ans- To prevent excessive policy updates by ensuring the policy change remains within a constrained range.
+
+(------------------------------------------------------------------------)
