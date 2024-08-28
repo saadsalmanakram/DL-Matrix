@@ -1708,4 +1708,16 @@ Ans- They stabilize training by combining policy-based and value-based approache
 
 (------------------------------------------------------------------------)
 
+286- In Actor-Critic methods, what is the role of the Actor?
+
+Ans- The Actor controls how the agent behaves and updates the policy.
+
+(------------------------------------------------------------------------)
+
+287- What does the Critic do in Actor-Critic methods?
+
+Ans- The Critic evaluates the quality of actions taken by measuring how good they are, using a value function.
+
+(------------------------------------------------------------------------)
+
 
