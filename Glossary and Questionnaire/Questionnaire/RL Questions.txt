@@ -1857,3 +1857,17 @@ Ans- The Actor learns by updating its policy parameters based on feedback from t
 Ans- The Critic evaluates the action taken by computing the Q-value or Advantage function, providing feedback to the Actor.
 
 (------------------------------------------------------------------------)
+
+311- How does the Advantage function improve the stability of Actor-Critic methods?
+
+Ans- By calculating the relative advantage of an action compared to the average value of the state, it helps stabilize learning and reduces variance.
+
+(------------------------------------------------------------------------)
+
+312- What is the Advantage function and how is it different from the Q-value function?
+
+Ans- The Advantage function measures how much better or worse an action is compared to the average value of the state, whereas the Q-value function measures the absolute value of taking an action at a state.
+
+(------------------------------------------------------------------------)
+
+
