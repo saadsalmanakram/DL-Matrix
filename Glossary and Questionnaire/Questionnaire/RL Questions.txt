@@ -256,4 +256,10 @@ Ans- In episodic tasks, the goal is to maximize rewards within each episode, whi
 
 (------------------------------------------------------------------------)
 
+44- What is the exploration/exploitation trade-off in Reinforcement Learning?
+
+Ans- It refers to the dilemma of choosing between exploring new actions to gather more information (exploration) or using known actions to maximize rewards (exploitation).
+
+(------------------------------------------------------------------------)
+
 
