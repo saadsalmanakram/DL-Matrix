@@ -2266,4 +2266,10 @@ Ans- The problem of falling “off the cliff” due to excessive policy updates.
 
 (------------------------------------------------------------------------)
 
+380- How does PPO ensure conservative policy updates?
+
+Ans- By using a clipped ratio to limit how much the policy can change.
+
+(------------------------------------------------------------------------)
+
 
