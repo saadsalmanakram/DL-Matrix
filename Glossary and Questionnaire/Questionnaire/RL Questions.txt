@@ -2098,4 +2098,10 @@ Ans- By learning a unified policy that coordinates their actions based on collec
 
 (------------------------------------------------------------------------)
 
+352- What is self-play in machine learning?
+
+Ans- Self-play involves training agents by having them play against previous versions of themselves, allowing them to improve incrementally.
+
+(------------------------------------------------------------------------)
+
 
