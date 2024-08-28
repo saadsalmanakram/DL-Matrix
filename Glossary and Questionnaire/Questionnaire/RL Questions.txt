@@ -2338,4 +2338,9 @@ Ans- It indicates that the action at state st is more likely under the current p
 
 (------------------------------------------------------------------------)
 
+392- What is the role of the unclipped part of the Clipped Surrogate Objective function in PPO?
+
+Ans- It multiplies the probability ratio by the advantage to form part of the objective function.
+
+(------------------------------------------------------------------------)
 
