@@ -88,3 +88,15 @@ Ans- It represents the interaction loop where the agent takes actions based on t
 
 (-------------------------------------------------------------------------)
 
+16- What is a state in the context of RL?
+
+Ans- A state is a representation of the current situation or condition of the environment from which the agent makes decisions.
+
+(-------------------------------------------------------------------------)
+
+17- What is an action in RL?
+
+Ans- An action is a decision or move made by the agent to interact with the environment.
+
+(-------------------------------------------------------------------------)
+
