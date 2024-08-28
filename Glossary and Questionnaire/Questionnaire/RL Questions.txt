@@ -2056,4 +2056,10 @@ Ans- A centralized system uses a collective experience to train a single policy 
 
 (------------------------------------------------------------------------)
 
+345- What role does the experience buffer play in a centralized approach?
+
+Ans- It collects experiences from all agents to learn a common policy.
+
+(------------------------------------------------------------------------)
+
 
