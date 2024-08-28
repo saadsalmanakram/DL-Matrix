@@ -1570,4 +1570,10 @@ Ans- Discrete actions simplify the decision space, making it easier for the agen
 
 (------------------------------------------------------------------------)
 
+263- What is a possible strategy Julien could use to maximize its reward in SnowballTarget?
+
+Ans- Julien could position itself optimally in relation to targets and time its shots effectively to maximize hits.
+
+(------------------------------------------------------------------------)
+
 
