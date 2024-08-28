@@ -466,4 +466,10 @@ Ans- A Q table is a lookup table that stores the expected rewards (Q values) for
 
 (-------------------------------------------------------------------------)
 
+79- What problem does Deep Reinforcement Learning solve that traditional methods struggle with?
+
+Ans- Deep RL effectively handles high-dimensional state spaces, which are difficult for traditional RL methods.
+
+(-------------------------------------------------------------------------)
+
 
