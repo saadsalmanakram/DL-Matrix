@@ -526,16 +526,9 @@ Ans- ML-Agents is a toolkit by Unity that allows the creation and training of ag
 
 (-------------------------------------------------------------------------)
 
-89- What constitutes the state space in the Huggy environment?
+89- What is a value function in reinforcement learning?
 
-Ans- The state space includes the target (stick) position, the relative position between Huggy and the target, and the orientation of Huggy's legs.
-
-(-------------------------------------------------------------------------)
-
-90- Does Huggy have a visual perception of the environment?
-
-Ans- No, Huggy doesn't "see" the environment; instead, he receives specific information about the environment.
+Ans- A value function maps a state to the expected return (discounted future rewards) an agent can obtain starting from that state.
 
 (-------------------------------------------------------------------------)
-
 
