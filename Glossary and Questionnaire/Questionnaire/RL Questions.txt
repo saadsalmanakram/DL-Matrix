@@ -1738,3 +1738,9 @@ Ans- By using the advantage function, which measures the relative value of an ac
 
 (------------------------------------------------------------------------)
 
+291- What are some practical applications of Actor-Critic methods?
+
+Ans- They can be used in various environments, including robotic control tasks and other complex decision-making problems.
+
+(------------------------------------------------------------------------)
+
