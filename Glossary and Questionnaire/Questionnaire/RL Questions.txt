@@ -910,4 +910,10 @@ Ans- Deep Q-Learning uses a neural network to approximate Q-values, while Q-Lear
 
 (-------------------------------------------------------------------------)
 
+153- Why is it necessary to approximate Q-values using a neural network in DQN?
+
+Ans- The state-action space is too large to be represented in a table, so a neural network approximates the Q-values.
+
+(-------------------------------------------------------------------------)
+
 
