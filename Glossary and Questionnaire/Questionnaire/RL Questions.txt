@@ -1372,3 +1372,20 @@ Ans- It acts as a scoring function to adjust the probabilities of state-action p
 
 (------------------------------------------------------------------------)
 
+230- Why is Monte Carlo used in the Reinforce algorithm?
+
+Ans- It estimates the gradient using the returns from complete episodes, which allows for the adjustment of policy parameters.
+
+(------------------------------------------------------------------------)
+
+231- What is the significance of sampling multiple episodes in policy-gradient methods?
+
+Ans- Sampling multiple episodes provides a more accurate estimate of the gradient for updating the policy parameters.
+
+(------------------------------------------------------------------------)
+
+232- What is Unity ML-Agents?
+
+Ans- Unity ML-Agents is a toolkit by Unity Technologies that enables training of AI agents in environments created within the Unity game engine.
+
+(------------------------------------------------------------------------)
