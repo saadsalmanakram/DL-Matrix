@@ -874,4 +874,10 @@ Ans- They enable the network to efficiently process and understand spatial and t
 
 (-------------------------------------------------------------------------)
 
+147- Why can't a single frame provide enough information about the environment's state?
+
+Ans- A single frame lacks temporal context, making it impossible to infer motion or direction.
+
+(-------------------------------------------------------------------------)
+
 
