@@ -2248,3 +2248,10 @@ Ans- The centralized critic evaluates and guides each agent’s performance base
 
 (------------------------------------------------------------------------)
 
+377- What is the main goal of Proximal Policy Optimization (PPO)?
+
+Ans- To improve training stability by limiting the extent of policy updates.
+
+(------------------------------------------------------------------------)
+
+
