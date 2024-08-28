@@ -1522,4 +1522,10 @@ Ans- Raycasts are used to detect objects by simulating laser-like beams that pas
 
 (------------------------------------------------------------------------)
 
+255- How does the action space in SnowballTarget operate?
+
+Ans- The action space is discrete, allowing the agent to choose between predefined actions.
+
+(------------------------------------------------------------------------)
+
 
