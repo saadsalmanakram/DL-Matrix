@@ -1690,6 +1690,11 @@ Ans- It introduces significant variance in policy gradient estimation.
 
 (------------------------------------------------------------------------)
 
+283- Why does Monte-Carlo variance slow down training in Reinforce?
+
+Ans- Because it requires a large number of samples to accurately estimate returns and reduce variance.
+
+(------------------------------------------------------------------------)
 
 
 
