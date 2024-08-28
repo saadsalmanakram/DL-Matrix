@@ -2260,4 +2260,10 @@ Ans- Smaller updates are empirically more likely to converge to an optimal solut
 
 (------------------------------------------------------------------------)
 
+379- What problem does PPO aim to avoid during training?
+
+Ans- The problem of falling “off the cliff” due to excessive policy updates.
+
+(------------------------------------------------------------------------)
+
 
