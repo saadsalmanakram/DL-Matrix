@@ -1540,4 +1540,10 @@ Ans- Julien can take discrete actions such as positioning and shooting snowballs
 
 (------------------------------------------------------------------------)
 
+258- How does the use of raycasts benefit the agent in SnowballTarget?
+
+Ans- Raycasts provide precise environmental feedback, allowing the agent to accurately detect and interact with targets.
+
+(------------------------------------------------------------------------)
+
 
