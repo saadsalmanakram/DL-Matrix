@@ -526,4 +526,10 @@ Ans- ML-Agents is a toolkit by Unity that allows the creation and training of ag
 
 (-------------------------------------------------------------------------)
 
+89- What constitutes the state space in the Huggy environment?
+
+Ans- The state space includes the target (stick) position, the relative position between Huggy and the target, and the orientation of Huggy's legs.
+
+(-------------------------------------------------------------------------)
+
 
