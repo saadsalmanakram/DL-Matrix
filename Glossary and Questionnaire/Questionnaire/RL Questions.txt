@@ -2038,5 +2038,11 @@ Ans- The environment becomes non-stationary, complicating convergence to a globa
 
 (------------------------------------------------------------------------)
 
+341- In decentralized MARL, how does each agent perceive other agents?
+
+Ans- Other agents are considered part of the environment, not other agents.
+
+(------------------------------------------------------------------------)
+
 
 
