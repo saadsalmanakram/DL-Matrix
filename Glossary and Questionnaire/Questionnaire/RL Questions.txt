@@ -1420,3 +1420,9 @@ Ans- Unity ML-Agents uses PyTorch for its Python trainers, which implement reinf
 
 (------------------------------------------------------------------------)
 
+238- What is the purpose of the Gym wrapper in Unity ML-Agents?
+
+Ans- The Gym wrapper encapsulates the reinforcement learning environment, making it compatible with OpenAI's Gym framework.
+
+(------------------------------------------------------------------------)
+
