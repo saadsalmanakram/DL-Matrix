@@ -1498,4 +1498,16 @@ Ans- The agent uses a "cool off" system, requiring it to wait 0.5 seconds before
 
 (------------------------------------------------------------------------)
 
+251- What is the purpose of the "cool off" system in SnowballTarget?
+
+Ans- It prevents "snowball spamming," ensuring the agent cannot shoot every timestep and must time its shots effectively.
+
+(------------------------------------------------------------------------)
+
+252- Why is it important to avoid overly complex reward functions in environment design?
+
+Ans- Overly complex reward functions can prevent the agent from discovering interesting strategies by constraining its behavior too much.
+
+(------------------------------------------------------------------------)
+
 
