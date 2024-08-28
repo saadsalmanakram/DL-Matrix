@@ -1198,3 +1198,9 @@ Ans- To maximize the performance of the parameterized policy using gradient asce
 
 (------------------------------------------------------------------------)
 
+201- What do policy-based methods optimize?
+
+Ans- The policy πθ to output a probability distribution over actions that maximizes cumulative returns.
+
+(------------------------------------------------------------------------)
+
