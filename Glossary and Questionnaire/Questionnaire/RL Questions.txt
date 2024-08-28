@@ -1678,6 +1678,18 @@ Ans- To optimize the policy directly without using a value function.
 
 (------------------------------------------------------------------------)
 
+281- How does Reinforce fit into Policy-Based methods?
+
+Ans- Reinforce is a Policy-Gradient method that estimates the optimal policy weights using Gradient Ascent.
+
+(------------------------------------------------------------------------)
+
+282- What is the major drawback of using Monte-Carlo sampling in Reinforce?
+
+Ans- It introduces significant variance in policy gradient estimation.
+
+(------------------------------------------------------------------------)
+
 
 
 
