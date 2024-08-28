@@ -334,4 +334,10 @@ Ans- It means making decisions that will lead to the highest total reward over t
 
 (------------------------------------------------------------------------)
 
+57- How can the exploration/exploitation trade-off affect long-term outcomes in RL?
+
+Ans- The balance between exploration and exploitation determines whether the agent discovers optimal strategies or gets stuck with suboptimal ones.
+
+(------------------------------------------------------------------------)
+
 
