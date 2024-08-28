@@ -58,3 +58,9 @@ Ans- Reinforcement Learning is used to solve control tasks or decision problems,
 
 (-------------------------------------------------------------------------)
 
+11- What is the central idea of the Reinforcement Learning framework?
+
+Ans- The central idea is the reward hypothesis, which states that all goals can be described as the maximization of expected cumulative reward.
+
+(-------------------------------------------------------------------------)
+
