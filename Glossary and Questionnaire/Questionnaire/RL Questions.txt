@@ -766,3 +766,15 @@ Ans- Q-Learning is off-policy because it updates the Q-value using the best poss
 
 (------------------------------------------------------------------------)
 
+129- What happens when the Q-table is fully trained?
+
+Ans- When the Q-table is fully trained, it contains the optimal Q-values for each state-action pair, allowing the agent to follow the optimal policy.
+
+(------------------------------------------------------------------------)
+
+130- Can Q-Learning be applied to continuous state spaces?
+
+Ans- Q-Learning is generally used for discrete state spaces, but variations like Deep Q-Learning can handle continuous state spaces by approximating the Q-function with neural networks.
+
+(------------------------------------------------------------------------)
+
