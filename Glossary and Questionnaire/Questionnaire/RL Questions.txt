@@ -1918,3 +1918,9 @@ Ans- VecNormalize normalizes observations and rewards to improve the training st
 
 (------------------------------------------------------------------------)
 
+321- What is Multi-Agent Reinforcement Learning (MARL)?
+
+Ans- MARL involves training multiple agents simultaneously in a shared environment, where each agent learns to maximize its own rewards while interacting with other agents.
+
+(------------------------------------------------------------------------)
+
