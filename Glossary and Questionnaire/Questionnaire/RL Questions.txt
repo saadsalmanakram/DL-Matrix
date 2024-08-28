@@ -1846,3 +1846,9 @@ Ans- To reduce variance in policy gradient estimates and improve training effici
 
 (------------------------------------------------------------------------)
 
+309- How does the Actor learn and improve its policy in the Actor-Critic method?
+
+Ans- The Actor learns by updating its policy parameters based on feedback from the Critic about the quality of the actions taken.
+
+(------------------------------------------------------------------------)
+
