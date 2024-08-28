@@ -610,3 +610,15 @@ Ans- It addresses the computational complexity of calculating the value of all p
 
 (-------------------------------------------------------------------------)
 
+103- How does an RL agent learn from its environment?
+
+Ans- By interacting with the environment and using the experience and rewards to update its value function or policy.
+
+(------------------------------------------------------------------------)
+
+104- What is the key difference between Monte Carlo and Temporal Difference Learning?
+
+Ans- Monte Carlo uses an entire episode of experience, while Temporal Difference uses a single step to learn.
+
+(------------------------------------------------------------------------)
+
