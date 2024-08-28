@@ -994,5 +994,17 @@ Ans- Double DQN addresses the overestimation of Q-values by decoupling action se
 
 (-------------------------------------------------------------------------)
 
+167- How does Double Deep Q-Learning work?
+
+Ans- It uses one network to select the best action and another to evaluate the Q-value of that action, reducing overestimation.
+
+(-------------------------------------------------------------------------)
+
+168- What are the benefits of using Double Deep Q-Learning?
+
+Ans- It reduces overestimation errors, leading to more stable and faster learning.
+
+(-------------------------------------------------------------------------)
+
 
 
