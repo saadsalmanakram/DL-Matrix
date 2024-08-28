@@ -2242,3 +2242,9 @@ Ans- Early decreases in ELO score can occur as agents initially perform randomly
 
 (------------------------------------------------------------------------)
 
+376- What role does the centralized critic play in MA-POCA?
+
+Ans- The centralized critic evaluates and guides each agent’s performance based on the entire team’s context.
+
+(------------------------------------------------------------------------)
+
