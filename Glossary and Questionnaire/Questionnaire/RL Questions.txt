@@ -1876,4 +1876,10 @@ Ans- The Advantage function helps reduce variance by comparing the action's valu
 
 (------------------------------------------------------------------------)
 
+314- How is the Advantage function estimated if we only have the Q-value and state value functions?
+
+Ans- The Advantage function can be approximated using the Temporal Difference (TD) error as an estimator of the difference between Q-value and state value.
+
+(------------------------------------------------------------------------)
+
 
