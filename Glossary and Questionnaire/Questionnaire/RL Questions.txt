@@ -292,4 +292,10 @@ Ans- You can either stick to a restaurant you know is good (exploitation) or try
 
 (------------------------------------------------------------------------)
 
+50- Why do RL agents need a rule to manage the exploration/exploitation trade-off?
+
+Ans- A rule is necessary to balance exploration and exploitation effectively to ensure the agent maximizes its long-term reward.
+
+(------------------------------------------------------------------------)
+
 
