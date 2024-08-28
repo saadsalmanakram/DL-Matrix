@@ -172,3 +172,16 @@ Ans- A task is an instance of a Reinforcement Learning problem where an agent in
 
 (------------------------------------------------------------------------)
 
+30- What are the two types of tasks in Reinforcement Learning?
+
+Ans- The two types of tasks are episodic tasks and continuing tasks.
+
+(------------------------------------------------------------------------)
+
+31- What defines an episodic task in Reinforcement Learning?
+
+Ans- An episodic task has a clear starting point and an ending point (terminal state), forming an episode.
+
+(------------------------------------------------------------------------)
+
+
