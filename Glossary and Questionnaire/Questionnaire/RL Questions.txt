@@ -1840,3 +1840,9 @@ Ans- High variance can lead to unstable learning and slow convergence, making it
 
 (------------------------------------------------------------------------)
 
+308- What is the main purpose of using Actor-Critic methods in reinforcement learning?
+
+Ans- To reduce variance in policy gradient estimates and improve training efficiency by combining policy-based and value-based approaches.
+
+(------------------------------------------------------------------------)
+
