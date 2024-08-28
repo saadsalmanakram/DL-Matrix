@@ -562,3 +562,9 @@ Ans- The optimal policy can be derived from an optimal value function, often by 
 
 (-------------------------------------------------------------------------)
 
+95- What is the state-value function?
+
+Ans- The state-value function gives the expected return starting from a specific state and following a policy.
+
+(-------------------------------------------------------------------------)
+
