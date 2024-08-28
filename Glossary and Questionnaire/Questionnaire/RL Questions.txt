@@ -346,4 +346,10 @@ Ans- The two main approaches are Policy-Based Methods and Value-Based Methods.
 
 (------------------------------------------------------------------------)
 
+59- How do we solve the RL problem?
+
+Ans- We solve the RL problem by training an RL agent to select actions that maximize its expected cumulative reward.
+
+(-------------------------------------------------------------------------)
+
 
