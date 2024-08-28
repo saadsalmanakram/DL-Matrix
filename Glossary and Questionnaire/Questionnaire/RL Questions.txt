@@ -1888,3 +1888,10 @@ Ans- Obtain the state, select an action, compute the Q-value, receive a reward a
 
 (------------------------------------------------------------------------)
 
+316- What are some advantages of using the Actor-Critic method over pure Policy Gradient methods?
+
+Ans- Actor-Critic methods typically have lower variance and can converge faster due to the use of a value function to stabilize policy updates.
+
+(------------------------------------------------------------------------)
+
+
