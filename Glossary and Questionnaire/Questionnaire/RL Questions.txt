@@ -208,4 +208,10 @@ Ans- In episodic tasks, the agent learns based on episodes, while in continuing 
 
 (------------------------------------------------------------------------)
 
+36- Why is it important to differentiate between episodic and continuing tasks?
+
+Ans- Differentiating helps in designing appropriate learning algorithms and reward structures based on the nature of the task.
+
+(------------------------------------------------------------------------)
+
 
