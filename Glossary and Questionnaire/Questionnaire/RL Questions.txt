@@ -778,3 +778,8 @@ Ans- Q-Learning is generally used for discrete state spaces, but variations like
 
 (------------------------------------------------------------------------)
 
+131- Why is Deep Q-Learning preferred over traditional Q-Learning in large state spaces?
+
+Ans- Deep Q-Learning is preferred because it can handle large state spaces by approximating the Q-values with a neural network, whereas traditional Q-Learning becomes impractical due to the exponential growth of the Q-table.
+
+(------------------------------------------------------------------------)
