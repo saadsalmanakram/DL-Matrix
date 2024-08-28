@@ -1450,4 +1450,10 @@ Ans- The Brain is the policy component of the Agent, responsible for deciding ac
 
 (------------------------------------------------------------------------)
 
+243- What is the function of the Academy in Unity ML-Agents?
+
+Ans- The Academy orchestrates the agents and manages their decision-making processes.
+
+(------------------------------------------------------------------------)
+
 
