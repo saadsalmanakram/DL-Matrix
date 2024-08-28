@@ -484,4 +484,10 @@ Ans- The neural network can generalize across similar states, handling larger an
 
 (-------------------------------------------------------------------------)
 
+82- What kind of problems are best suited for Deep Reinforcement Learning?
+
+Ans- Problems with large, complex, or continuous state spaces are best suited for Deep RL.
+
+(-------------------------------------------------------------------------)
+
 
