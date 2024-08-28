@@ -22,3 +22,9 @@ Ans- The environment is the external system with which the agent interacts, prov
 
 (-------------------------------------------------------------------------)
 
+5- What is the role of rewards in Reinforcement Learning?
+
+Ans- Rewards guide the agent by indicating which actions are beneficial (+1) and which are detrimental (-1) to achieving the task.
+
+(-------------------------------------------------------------------------)
+
