@@ -748,3 +748,9 @@ Ans- Off-policy algorithms, like Q-Learning, use different policies for acting a
 
 (------------------------------------------------------------------------)
 
+126- How does the Q-Learning algorithm converge to the optimal policy?
+
+Ans- The Q-Learning algorithm converges to the optimal policy by iteratively updating the Q-values based on the actions taken and rewards received, eventually leading to the optimal Q-table.
+
+(------------------------------------------------------------------------)
+
