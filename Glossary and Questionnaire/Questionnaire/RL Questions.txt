@@ -2254,4 +2254,10 @@ Ans- To improve training stability by limiting the extent of policy updates.
 
 (------------------------------------------------------------------------)
 
+378- Why does PPO prefer smaller policy updates?
+
+Ans- Smaller updates are empirically more likely to converge to an optimal solution.
+
+(------------------------------------------------------------------------)
+
 
