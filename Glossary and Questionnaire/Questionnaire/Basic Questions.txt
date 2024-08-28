@@ -112,3 +112,9 @@ Ans- The next state is the new condition of the environment after the agent has 
 
 (-------------------------------------------------------------------------)
 
+20- What is the Markov Property in RL?
+
+Ans- The Markov Property implies that the agent's decision depends only on the current state, not on the sequence of previous states and actions.
+
+(-------------------------------------------------------------------------)
+
