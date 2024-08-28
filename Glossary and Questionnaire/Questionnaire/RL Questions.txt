@@ -1180,3 +1180,9 @@ Ans- An (epsilon-)greedy policy.
 
 (------------------------------------------------------------------------)
 
+198- What distinguishes policy-based methods from value-based methods?
+
+Ans- Policy-based methods directly learn the optimal policy without needing to learn a value function.
+
+(------------------------------------------------------------------------)
+
