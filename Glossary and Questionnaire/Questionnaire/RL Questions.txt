@@ -628,3 +628,9 @@ Ans- At the end of an episode.
 
 (------------------------------------------------------------------------)
 
+106- What is required for Monte Carlo to update the value function?
+
+Ans- A complete episode of interaction.
+
+(------------------------------------------------------------------------)
+
