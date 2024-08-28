@@ -2014,5 +2014,11 @@ Ans- Mixed environments combine aspects of both cooperation and competition, whe
 
 (------------------------------------------------------------------------)
 
+337- How do you design MARL systems for different types of environments?
+
+Ans- Designing MARL systems involves selecting appropriate algorithms and strategies based on the environment type, such as cooperative strategies for collaborative tasks or adversarial strategies for competitive scenarios.
+
+(------------------------------------------------------------------------)
+
 
 
