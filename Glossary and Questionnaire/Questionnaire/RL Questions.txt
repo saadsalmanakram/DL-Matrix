@@ -880,4 +880,10 @@ Ans- A single frame lacks temporal context, making it impossible to infer motion
 
 (-------------------------------------------------------------------------)
 
+148- How does stacking four frames address the temporal limitation in DQN?
+
+Ans- Stacking frames provides a sequence of images that captures motion, helping the network predict outcomes better.
+
+(-------------------------------------------------------------------------)
+
 
