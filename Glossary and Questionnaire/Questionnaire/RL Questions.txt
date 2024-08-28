@@ -1468,4 +1468,10 @@ Ans- The goal is to maximize the expected cumulative reward.
 
 (------------------------------------------------------------------------)
 
+246- What role does the Academy play in synchronizing agents?
+
+Ans- The Academy ensures agents collect observations, select actions, take actions, and reset when necessary.
+
+(------------------------------------------------------------------------)
+
 
