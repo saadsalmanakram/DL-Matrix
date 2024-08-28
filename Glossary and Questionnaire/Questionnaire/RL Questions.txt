@@ -1900,4 +1900,10 @@ Ans- By introducing a Critic that estimates the value function, which helps in r
 
 (------------------------------------------------------------------------)
 
+318- What challenges might arise when implementing the Advantage function in practice?
+
+Ans- It requires accurate estimation of both the Q-value and state value functions, which can be challenging and computationally expensive.
+
+(------------------------------------------------------------------------)
+
 
