@@ -1828,3 +1828,9 @@ Ans- By using techniques like Generalized Advantage Estimation (GAE) or incorpor
 
 (------------------------------------------------------------------------)
 
+306- What is a baseline in Reinforce and how does it help?
+
+Ans- A baseline is a value subtracted from the return to reduce variance without introducing bias, improving learning stability.
+
+(------------------------------------------------------------------------)
+
