@@ -1930,4 +1930,10 @@ Ans- MultiInputPolicy handles environments with multiple types of inputs (e.g., 
 
 (------------------------------------------------------------------------)
 
+323- Why is it important to normalize observations and rewards?
+
+Ans- Normalizing helps prevent the values from becoming too large or too small, which can lead to unstable training and slow convergence.
+
+(------------------------------------------------------------------------)
+
 
