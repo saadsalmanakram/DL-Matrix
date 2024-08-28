@@ -1918,4 +1918,10 @@ Ans- VecNormalize normalizes observations and rewards to improve the training st
 
 (------------------------------------------------------------------------)
 
+321- How does the make_vec_env function benefit reinforcement learning training?
+
+Ans- It creates multiple parallel environments to speed up training by allowing simultaneous interaction with several instances of the environment.
+
+(------------------------------------------------------------------------)
+
 
