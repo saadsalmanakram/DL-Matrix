@@ -1336,5 +1336,11 @@ Ans- To maximize the expected cumulative reward by adjusting the policy paramete
 
 (------------------------------------------------------------------------)
 
+224- Why do we use gradient ascent in policy-gradient methods?
+
+Ans- Because it provides the direction for increasing the objective function J(θ)
+
+(------------------------------------------------------------------------)
+
 
  
