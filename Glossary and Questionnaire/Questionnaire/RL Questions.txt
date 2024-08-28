@@ -814,4 +814,10 @@ Ans- The key challenge is avoiding instability and divergence during training, o
 
 (-------------------------------------------------------------------------)
 
+137- How does the loss function in Deep Q-Learning work?
+
+Ans- The loss function minimizes the difference between the Q-value predicted by the neural network and the target Q-value derived from the Bellman equation.
+
+(-------------------------------------------------------------------------)
+
 
