@@ -1348,5 +1348,11 @@ Ans- It requires computing the probability of all possible trajectories, which i
 
 (------------------------------------------------------------------------)
 
+226- How does the Policy Gradient Theorem assist in policy-gradient methods?
+
+Ans- It reformulates the objective function into a differentiable form that doesn't require differentiating the state distribution.
+
+(------------------------------------------------------------------------)
+
 
  
