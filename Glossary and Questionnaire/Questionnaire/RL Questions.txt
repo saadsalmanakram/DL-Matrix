@@ -646,3 +646,9 @@ Ans- After each step of interaction with the environment.
 
 (------------------------------------------------------------------------)
 
+109- What is the TD target in Temporal Difference learning?
+
+Ans- The sum of the immediate reward and the discounted value of the next state.
+
+(------------------------------------------------------------------------)
+
