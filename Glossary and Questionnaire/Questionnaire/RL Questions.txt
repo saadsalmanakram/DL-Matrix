@@ -604,3 +604,9 @@ Ans- Exploration helps the agent discover new actions that may lead to higher re
 
 (-------------------------------------------------------------------------)
 
+102- What challenge does the Bellman equation address in value-based methods?
+
+Ans- It addresses the computational complexity of calculating the value of all possible state or state-action pairs by providing a recursive approach.
+
+(-------------------------------------------------------------------------)
+
