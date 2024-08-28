@@ -142,3 +142,9 @@ Ans- Discrete action spaces have a finite set of actions, while continuous actio
 
 (------------------------------------------------------------------------)
 
+25- Why are rewards fundamental in RL?
+
+Ans- Rewards are the only feedback the agent receives to learn whether an action was beneficial or not.
+
+(------------------------------------------------------------------------)
+
