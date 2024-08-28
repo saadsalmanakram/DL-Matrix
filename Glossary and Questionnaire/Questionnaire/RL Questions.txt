@@ -964,5 +964,11 @@ Ans- It allows the agent to learn from past experiences multiple times and reduc
 
 (-------------------------------------------------------------------------)
 
+162- What is catastrophic forgetting, and how does Experience Replay address it?
+
+Ans- Catastrophic forgetting occurs when new experiences overwrite old ones; Experience Replay mitigates this by reusing past experiences.
+
+(-------------------------------------------------------------------------)
+
 
 
