@@ -598,3 +598,9 @@ Ans- The Epsilon-Greedy Policy balances exploration and exploitation by choosing
 
 (-------------------------------------------------------------------------)
 
+101- Why is exploration important in reinforcement learning?
+
+Ans- Exploration helps the agent discover new actions that may lead to higher rewards, preventing it from getting stuck in suboptimal policies.
+
+(-------------------------------------------------------------------------)
+
