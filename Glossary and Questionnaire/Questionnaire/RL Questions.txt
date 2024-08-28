@@ -1948,3 +1948,9 @@ Ans- In multiple agent scenarios, each agent’s actions affect not only its own
 
 (------------------------------------------------------------------------)
 
+326- How do you handle non-stationarity in MARL?
+
+Ans- Techniques include using centralized training with decentralized execution, where agents are trained with knowledge of other agents' policies, or using algorithms specifically designed to deal with non-stationarity.
+
+(------------------------------------------------------------------------)
+
