@@ -2230,3 +2230,9 @@ Ans- Self-play helps improve agent performance by continuously adapting to and l
 
 (------------------------------------------------------------------------)
 
+374- What does the leaderboard in AI vs. AI represent?
+
+Ans- The leaderboard displays the ELO ratings and performance rankings of competing AI models.
+
+(------------------------------------------------------------------------)
+
