@@ -886,4 +886,10 @@ Ans- Stacking frames provides a sequence of images that captures motion, helping
 
 (-------------------------------------------------------------------------)
 
+149- What temporal properties can the DQN exploit by stacking frames together?
+
+Ans- The network can detect changes in motion and direction, which are crucial for action decision-making.
+
+(-------------------------------------------------------------------------)
+
 
