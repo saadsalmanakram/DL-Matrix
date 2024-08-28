@@ -1600,4 +1600,10 @@ Ans- Sparse rewards slow down learning as agents receive little feedback, making
 
 (------------------------------------------------------------------------)
 
+268- What is the main challenge with hand-crafted extrinsic reward functions in RL?
+
+Ans- Scaling handcrafted rewards to large and complex environments is difficult and labor-intensive.
+
+(------------------------------------------------------------------------)
+
 
