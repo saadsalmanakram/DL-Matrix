@@ -682,3 +682,9 @@ Ans- Off-policy means that Q-Learning learns the value of the optimal policy ind
 
 (------------------------------------------------------------------------)
 
+115- What is the primary goal of Q-Learning?
+
+Ans- The primary goal of Q-Learning is to find the optimal policy by learning the action-value function (Q-function) that maximizes the cumulative reward.
+
+(------------------------------------------------------------------------)
+
