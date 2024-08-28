@@ -934,12 +934,16 @@ Ans- Temporal information helps the network understand the dynamics of the envir
 
 (-------------------------------------------------------------------------)
 
-
 157- What is the role of the Q-target in Deep Q-Learning?
 
 Ans- The Q-target represents the desired Q-value, used in the loss function to guide the network's learning process via gradient descent.
 
 (-------------------------------------------------------------------------)
 
+158- What are the two main phases of the Deep Q-Learning algorithm?
+
+Ans- Sampling (storing experience tuples) and Training (learning from a random batch of these tuples).
+
+(-------------------------------------------------------------------------)
 
 
