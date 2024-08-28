@@ -238,4 +238,10 @@ Ans- The agent must focus on continuously optimizing its actions while interacti
 
 (------------------------------------------------------------------------)
 
+41- How might rewards be structured differently in episodic vs. continuing tasks?
+
+Ans- In episodic tasks, rewards are accumulated over episodes, while in continuing tasks, rewards are often discounted over time to reflect ongoing performance.
+
+(------------------------------------------------------------------------)
+
 
