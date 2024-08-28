@@ -148,3 +148,9 @@ Ans- Rewards are the only feedback the agent receives to learn whether an action
 
 (------------------------------------------------------------------------)
 
+26- What is a discount rate in RL?
+
+Ans- The discount rate (gamma) determines how much future rewards are valued compared to immediate rewards.
+
+(------------------------------------------------------------------------)
+
