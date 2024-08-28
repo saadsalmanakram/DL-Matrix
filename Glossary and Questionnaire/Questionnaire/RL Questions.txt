@@ -328,4 +328,10 @@ Ans- The agent might get stuck exploiting a suboptimal strategy, never discoveri
 
 (------------------------------------------------------------------------)
 
+56- What does it mean to maximize the expected cumulative reward in RL?
+
+Ans- It means making decisions that will lead to the highest total reward over time, considering both current and future actions.
+
+(------------------------------------------------------------------------)
+
 
