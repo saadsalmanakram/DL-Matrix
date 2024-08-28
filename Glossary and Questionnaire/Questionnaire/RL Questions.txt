@@ -1954,3 +1954,9 @@ Ans- Techniques include using centralized training with decentralized execution,
 
 (------------------------------------------------------------------------)
 
+327- What is the role of communication in MARL?
+
+Ans- Communication among agents can help improve coordination and cooperation, allowing agents to share information and strategies to achieve common goals.
+
+(------------------------------------------------------------------------)
+
