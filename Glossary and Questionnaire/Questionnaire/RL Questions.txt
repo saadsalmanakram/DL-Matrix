@@ -898,4 +898,10 @@ Ans- Fully connected layers process the features extracted by convolutional laye
 
 (-------------------------------------------------------------------------)
 
+151- How does the DQN use the Q-values it outputs?
+
+Ans- The Q-values represent the expected future rewards for each action, guiding the selection of the best action.
+
+(-------------------------------------------------------------------------)
+
 
