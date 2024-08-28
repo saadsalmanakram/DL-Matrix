@@ -196,4 +196,10 @@ Ans- A continuing task is a task with no terminal state, meaning it continues in
 
 (------------------------------------------------------------------------)
 
+34- Can you provide an example of a continuing task?
+
+Ans- An example of a continuing task is automated stock trading, where the agent continuously interacts with the market without a predefined endpoint.
+
+(------------------------------------------------------------------------)
+
 
