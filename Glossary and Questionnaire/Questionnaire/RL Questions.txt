@@ -1996,4 +1996,10 @@ Ans- Challenges include ensuring safe interactions with other vehicles, handling
 
 (------------------------------------------------------------------------)
 
+334- What are cooperative environments in MARL?
+
+Ans- Cooperative environments require agents to work together to achieve a common goal, such as coordinating to complete a task efficiently.
+
+(------------------------------------------------------------------------)
+
 
