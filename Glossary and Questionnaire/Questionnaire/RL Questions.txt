@@ -2158,3 +2158,9 @@ Ans- It updates players' ratings based on game outcomes, with more points exchan
 
 (------------------------------------------------------------------------)
 
+362- What is the purpose of the K-factor in the ELO system?
+
+Ans- The K-factor determines the maximum number of points that can be adjusted after a game, with different values for different skill levels.
+
+(------------------------------------------------------------------------)
+
