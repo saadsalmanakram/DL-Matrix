@@ -1456,4 +1456,10 @@ Ans- The Academy orchestrates the agents and manages their decision-making proce
 
 (------------------------------------------------------------------------)
 
+244- How does the RL process in Unity ML-Agents work?
+
+Ans- The RL process is a loop where the Agent receives a state, takes an action, the environment transitions to a new state, and the Agent receives a reward.
+
+(------------------------------------------------------------------------)
+
 
