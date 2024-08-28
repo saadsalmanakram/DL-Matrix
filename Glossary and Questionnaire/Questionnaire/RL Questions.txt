@@ -1078,5 +1078,11 @@ Ans- Methods that directly optimize the policy without learning a value function
 
 (-------------------------------------------------------------------------)
 
+181- How do policy-based methods differ from value-based methods?
+
+Ans- Policy-based methods optimize the policy directly, while value-based methods derive the policy from value function estimates.
+
+(-------------------------------------------------------------------------)
+
 
 
