@@ -1060,5 +1060,11 @@ Ans- Methods that estimate a value function as an intermediate step to find an o
 
 (-------------------------------------------------------------------------)
 
+178- What is the relationship between value functions and policies in value-based methods?
+
+Ans- The policy is derived from the value function, typically by selecting actions that maximize the value function.
+
+(-------------------------------------------------------------------------)
+
 
 
