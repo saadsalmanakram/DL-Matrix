@@ -2164,3 +2164,9 @@ Ans- The K-factor determines the maximum number of points that can be adjusted a
 
 (------------------------------------------------------------------------)
 
+363- How is the ELO score updated after a game?
+
+Ans- The rating is adjusted based on the expected outcome versus the actual result, with the K-factor influencing the size of the adjustment.
+
+(------------------------------------------------------------------------)
+
