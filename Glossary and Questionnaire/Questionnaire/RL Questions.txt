@@ -1102,4 +1102,10 @@ Ans- A policy gradient algorithm that optimizes the policy by using Monte Carlo 
 
 (-------------------------------------------------------------------------)
 
+185- Why is the Monte Carlo method used in the Reinforce algorithm?
+
+Ans- To estimate the expected return for each action taken, which helps in calculating the policy gradient.
+
+(-------------------------------------------------------------------------)
+
 
