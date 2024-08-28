@@ -412,4 +412,10 @@ Ans- The policy selects actions leading to the state with the highest value as d
 
 (-------------------------------------------------------------------------)
 
+70- What does it mean to "act according to our policy" in Value-Based Methods?
+
+Ans- It means selecting actions that lead to states with the highest values based on the value function.
+
+(-------------------------------------------------------------------------)
+
 
