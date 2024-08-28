@@ -868,4 +868,10 @@ Ans- Convolutional layers capture spatial relationships and temporal properties 
 
 (-------------------------------------------------------------------------)
 
+146- What is the main advantage of using convolutional layers in the DQN architecture?
+
+Ans- They enable the network to efficiently process and understand spatial and temporal patterns in the input data.
+
+(-------------------------------------------------------------------------)
+
 
