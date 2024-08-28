@@ -928,4 +928,10 @@ Ans- The epsilon-greedy strategy is employed, where epsilon controls the balance
 
 (-------------------------------------------------------------------------)
 
+156- What is the importance of temporal information in the context of DQN?
+
+Ans- Temporal information helps the network understand the dynamics of the environment, crucial for making informed decisions.
+
+(-------------------------------------------------------------------------)
+
 
