@@ -1042,5 +1042,11 @@ Ans- It’s an extension of Experience Replay where experiences with higher TD e
 
 (-------------------------------------------------------------------------)
 
+175- What is Dueling Deep Q-Learning?
+
+Ans- Dueling DQN splits the Q-value into state-value and advantage components, helping the network better distinguish between actions.
+
+(-------------------------------------------------------------------------)
+
 
 
