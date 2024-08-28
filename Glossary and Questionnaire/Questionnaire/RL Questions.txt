@@ -268,4 +268,10 @@ Ans- Balancing exploration and exploitation is crucial for maximizing the expect
 
 (------------------------------------------------------------------------)
 
+46- What happens if an RL agent focuses solely on exploitation?
+
+Ans- The agent may miss out on potentially larger rewards because it only focuses on known sources of smaller rewards.
+
+(------------------------------------------------------------------------)
+
 
