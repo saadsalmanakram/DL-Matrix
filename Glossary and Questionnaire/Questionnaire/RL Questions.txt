@@ -2008,4 +2008,11 @@ Ans- In competitive environments, agents have opposing goals, and each agent aim
 
 (------------------------------------------------------------------------)
 
+336- What does a mixed environment entail?
+
+Ans- Mixed environments combine aspects of both cooperation and competition, where agents must cooperate within their team while competing against other teams, such as in soccer.
+
+(------------------------------------------------------------------------)
+
+
 
