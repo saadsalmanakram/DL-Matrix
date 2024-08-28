@@ -1234,6 +1234,12 @@ Ans- They can directly optimize the policy to handle complex, high-dimensional a
 
 (------------------------------------------------------------------------)
 
+207- What is a disadvantage of policy-based methods?
+
+Ans- They often suffer from high variance in gradient estimates, making training unstable.
+
+(------------------------------------------------------------------------)
+
 
 
 ​
