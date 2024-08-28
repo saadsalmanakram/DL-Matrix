@@ -1414,3 +1414,9 @@ Ans- The External Communicator connects the Learning Environment (C#) with the P
 
 (------------------------------------------------------------------------)
 
+237- Which machine learning framework is used by Unity ML-Agents for its Python trainers?
+
+Ans- Unity ML-Agents uses PyTorch for its Python trainers, which implement reinforcement learning algorithms like PPO and SAC.
+
+(------------------------------------------------------------------------)
+
