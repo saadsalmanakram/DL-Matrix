@@ -1306,6 +1306,12 @@ Ans- To find parameters that maximize the expected return by controlling the pro
 
 (------------------------------------------------------------------------)
 
+219- What does a policy-gradient algorithm aim to do with actions?
+
+Ans- It aims to sample good actions more frequently by tuning the policy parameters based on the agent's interactions with the environment.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
