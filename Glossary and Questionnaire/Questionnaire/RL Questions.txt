@@ -1762,3 +1762,9 @@ Ans- To adjust the probabilities of actions in a trajectory based on the return 
 
 (------------------------------------------------------------------------)
 
+295- How does the Reinforce algorithm use the return to update action probabilities?
+
+Ans- It increases the probabilities of actions in trajectories with high returns and decreases those with low returns.
+
+(------------------------------------------------------------------------)
+
