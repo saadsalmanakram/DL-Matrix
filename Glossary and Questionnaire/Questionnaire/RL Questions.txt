@@ -1630,4 +1630,10 @@ Ans- Curiosity drives agents to explore states with high prediction errors, ofte
 
 (------------------------------------------------------------------------)
 
+273- What happens to an agent's Curiosity as it becomes better at predicting future states?
+
+Ans- As prediction accuracy improves, the agent's curiosity decreases, reducing the reward for further exploration of that state.
+
+(------------------------------------------------------------------------)
+
 
