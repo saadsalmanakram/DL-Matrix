@@ -1312,6 +1312,12 @@ Ans- It aims to sample good actions more frequently by tuning the policy paramet
 
 (------------------------------------------------------------------------)
 
+220- What is the role of the parameterized stochastic policy in policy-gradient methods?
+
+Ans- It outputs a probability distribution over actions given a state, determining action preferences.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
