@@ -2140,3 +2140,9 @@ Ans- SoccerTwos is a 2vs2 soccer game environment created by Unity MLAgents for 
 
 (------------------------------------------------------------------------)
 
+359- How does SoccerTwos use self-play for agent training?
+
+Ans- Agents play against versions of themselves, which evolve as their own policies improve, simulating a competitive training environment.
+
+(------------------------------------------------------------------------)
+
