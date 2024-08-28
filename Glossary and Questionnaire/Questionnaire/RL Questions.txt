@@ -2122,4 +2122,10 @@ Ans- Balancing the skill levels of the agent and its opponent to avoid both over
 
 (------------------------------------------------------------------------)
 
+356- Can you name an early example of self-play?
+
+Ans- Arthur Samuel's checker player system from the 1950s is an early example of self-play.
+
+(------------------------------------------------------------------------)
+
 
