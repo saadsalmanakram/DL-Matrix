@@ -442,4 +442,10 @@ Ans- It's called "Deep" because it incorporates deep neural networks into the tr
 
 (-------------------------------------------------------------------------)
 
+75- What is Q-Learning?
+
+Ans- Q-Learning is a value-based RL algorithm that creates a Q table to map state-action pairs to expected rewards.
+
+(-------------------------------------------------------------------------)
+
 
