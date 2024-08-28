@@ -2104,4 +2104,16 @@ Ans- Self-play involves training agents by having them play against previous ver
 
 (------------------------------------------------------------------------)
 
+353- Why is self-play important for training agents in adversarial games?
+
+Ans- It ensures that agents face opponents of similar skill levels, promoting balanced learning and gradual skill improvement.
+
+(------------------------------------------------------------------------)
+
+354- How does self-play address the problem of an overly strong opponent?
+
+Ans- It uses copies of the agent itself as opponents, so the difficulty adjusts as the agent's skills improve, avoiding excessively challenging scenarios.
+
+(------------------------------------------------------------------------)
+
 
