@@ -694,3 +694,9 @@ Ans- The Q-function is an action-value function that outputs the expected cumula
 
 (------------------------------------------------------------------------)
 
+117- What is the difference between value and reward in Q-Learning?
+
+Ans- The value is the expected cumulative reward starting from a state, while the reward is the immediate feedback received after taking an action in that state.
+
+(------------------------------------------------------------------------)
+
