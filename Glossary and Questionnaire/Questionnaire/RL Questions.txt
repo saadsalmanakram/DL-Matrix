@@ -1486,4 +1486,10 @@ Ans- SnowballTarget is an environment created at Hugging Face using assets from 
 
 (------------------------------------------------------------------------)
 
+249- What is the main goal for Julien the bear in the SnowballTarget environment?
+
+Ans- The goal is for Julien to hit as many targets as possible within 1000 timesteps.
+
+(------------------------------------------------------------------------)
+
 
