@@ -1696,5 +1696,10 @@ Ans- Because it requires a large number of samples to accurately estimate return
 
 (------------------------------------------------------------------------)
 
+284- What is the policy gradient estimation in the context of Reinforce?
+
+Ans- The direction of the steepest increase in return, guiding how to update policy weights to increase the probability of actions leading to good returns.
+
+(------------------------------------------------------------------------)
 
 
