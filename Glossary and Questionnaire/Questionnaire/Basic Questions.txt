@@ -160,3 +160,9 @@ Ans- A high gamma means the agent values long-term rewards more, leading to more
 
 (------------------------------------------------------------------------)
 
+28- How does a low discount rate (gamma) affect an agent's behavior?
+
+Ans- A low gamma means the agent values short-term rewards more, leading to actions focused on immediate gains.
+
+(------------------------------------------------------------------------)
+
