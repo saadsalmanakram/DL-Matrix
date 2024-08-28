@@ -1582,4 +1582,10 @@ Ans- It could introduce unintended biases or constraints, limiting the agent's a
 
 (------------------------------------------------------------------------)
 
+265- What is the sparse rewards problem in Reinforcement Learning (RL)?
+
+Ans- It refers to situations where most rewards provide no information, often being set to zero, making it difficult for agents to learn.
+
+(------------------------------------------------------------------------)
+
 
