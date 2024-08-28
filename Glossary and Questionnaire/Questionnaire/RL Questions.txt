@@ -1648,5 +1648,11 @@ Ans- Curiosity mimics humans' intrinsic desire to explore and learn about their 
 
 (------------------------------------------------------------------------)
 
+276- How does Curiosity-driven learning address the problem of hand-crafted rewards?
+
+Ans- By using intrinsic rewards, Curiosity-driven learning reduces the need for complex, hand-crafted extrinsic reward functions.
+
+(------------------------------------------------------------------------)
+
 
 
