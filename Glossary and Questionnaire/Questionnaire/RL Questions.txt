@@ -783,3 +783,10 @@ Ans- Q-Learning is generally used for discrete state spaces, but variations like
 Ans- Deep Q-Learning is preferred because it can handle large state spaces by approximating the Q-values with a neural network, whereas traditional Q-Learning becomes impractical due to the exponential growth of the Q-table.
 
 (------------------------------------------------------------------------)
+
+132- What is the role of the neural network in Deep Q-Learning?
+
+Ans- The neural network in Deep Q-Learning approximates the Q-value function, which estimates the expected rewards for each action given a state.
+
+(------------------------------------------------------------------------)
+
