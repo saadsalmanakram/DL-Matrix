@@ -46,3 +46,9 @@ Ans- The agent experiments with different actions, learns from the consequences,
 
 (-------------------------------------------------------------------------)
 
+9- Why is Reinforcement Learning considered a computational approach?
+
+Ans- It uses algorithms and computations to mimic the natural learning process of humans and animals through interaction with the environment.
+
+(-------------------------------------------------------------------------)
+
