@@ -2356,4 +2356,10 @@ Ans- The ratio is clipped between [1 - ϵ, 1 + ϵ], with ϵ typically set to 0.2
 
 (------------------------------------------------------------------------)
 
+395- How does PPO differ from TRPO in terms of policy update constraints?
+
+Ans- PPO clips the probability ratio directly in the objective function, while TRPO uses KL divergence constraints outside the objective function.
+
+(------------------------------------------------------------------------)
+
 
