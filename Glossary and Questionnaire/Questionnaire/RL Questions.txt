@@ -394,4 +394,10 @@ Ans- A Stochastic policy outputs a probability distribution over possible action
 
 (-------------------------------------------------------------------------)
 
+67- How do Value-Based Methods work in RL?
+
+Ans- Value-Based Methods involve learning a value function that maps states to their expected value, guiding actions to states with the highest value.
+
+(-------------------------------------------------------------------------)
+
 
