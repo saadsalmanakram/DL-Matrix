@@ -1774,3 +1774,9 @@ Ans- It uses the actual return from trajectories rather than an estimate, ensuri
 
 (------------------------------------------------------------------------)
 
+297- What is a major drawback of using the Reinforce algorithm?
+
+Ans- High variance due to the stochastic nature of environments and policies, which can lead to inconsistent returns.
+
+(------------------------------------------------------------------------)
+
