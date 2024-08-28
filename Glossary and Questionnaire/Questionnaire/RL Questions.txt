@@ -1798,3 +1798,15 @@ Ans- Increasing the number of trajectories to average out the variance and provi
 
 (------------------------------------------------------------------------)
 
+301- What is the trade-off when increasing the batch size in Reinforce?
+
+Ans- While it reduces variance, it also decreases sample efficiency.
+
+(------------------------------------------------------------------------)
+
+302- What is one method to reduce variance without significantly increasing batch size?
+
+Ans- Using variance reduction techniques such as baselines or advantage functions.
+
+(------------------------------------------------------------------------)
+
