@@ -406,4 +406,10 @@ Ans- The value function represents the expected discounted return from being in 
 
 (-------------------------------------------------------------------------)
 
+69- How does a value function influence policy in Value-Based Methods?
+
+Ans- The policy selects actions leading to the state with the highest value as defined by the value function.
+
+(-------------------------------------------------------------------------)
+
 
