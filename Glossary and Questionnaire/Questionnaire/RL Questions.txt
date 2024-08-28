@@ -1389,3 +1389,16 @@ Ans- Sampling multiple episodes provides a more accurate estimate of the gradien
 Ans- Unity ML-Agents is a toolkit by Unity Technologies that enables training of AI agents in environments created within the Unity game engine.
 
 (------------------------------------------------------------------------)
+
+233- What are the six essential components of Unity ML-Agents?
+
+Ans- The six components are the Learning Environment, Python Low-level API, External Communicator, Python trainers, Gym wrapper, and PettingZoo wrapper.
+
+(------------------------------------------------------------------------)
+
+234- What does the Learning Environment in Unity ML-Agents contain?
+
+Ans- The Learning Environment contains the Unity scene and environment elements, such as game characters.
+
+(------------------------------------------------------------------------)
+
