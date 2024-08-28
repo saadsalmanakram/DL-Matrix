@@ -742,3 +742,9 @@ Ans- Q-Learning handles this trade-off through the epsilon-greedy strategy, grad
 
 (------------------------------------------------------------------------)
 
+125- What is the main difference between off-policy and on-policy algorithms?
+
+Ans- Off-policy algorithms, like Q-Learning, use different policies for acting and updating, whereas on-policy algorithms, like Sarsa, use the same policy for both.
+
+(------------------------------------------------------------------------)
+
