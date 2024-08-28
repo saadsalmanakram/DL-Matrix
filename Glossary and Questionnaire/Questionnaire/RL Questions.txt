@@ -1168,3 +1168,9 @@ Ans- It helps to approximate the true action-value function, leading to an optim
 
 (------------------------------------------------------------------------)
 
+196- Give an example of a value-based RL algorithm.
+
+Ans- Q-Learning.
+
+(------------------------------------------------------------------------)
+
