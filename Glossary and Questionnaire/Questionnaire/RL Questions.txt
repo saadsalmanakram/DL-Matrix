@@ -1252,6 +1252,12 @@ Ans- They combine the strengths of both value-based and policy-based methods to 
 
 (------------------------------------------------------------------------)
 
+210- What is the primary advantage of policy-gradient methods over value-based methods?
+
+Ans- Policy-gradient methods can estimate the policy directly without needing to store additional data like action values.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
