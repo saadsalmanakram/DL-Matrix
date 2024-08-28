@@ -1546,4 +1546,16 @@ Ans- Raycasts provide precise environmental feedback, allowing the agent to accu
 
 (------------------------------------------------------------------------)
 
+259- What would happen if the cool-off system was removed from the SnowballTarget environment?
+
+Ans- Without the cool-off system, the agent could spam snowballs, reducing the need for strategic decision-making.
+
+(------------------------------------------------------------------------)
+
+260- Why might you choose to implement a boolean observation like "can I shoot" in an environment?
+
+Ans- It simplifies the agent’s decision-making process by directly informing it of the shoot readiness state.
+
+(------------------------------------------------------------------------)
+
 
