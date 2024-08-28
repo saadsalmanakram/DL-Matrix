@@ -2278,4 +2278,9 @@ Ans- To prevent the current policy from deviating too far from the previous poli
 
 (------------------------------------------------------------------------)
 
+382- What range does the clipping ratio in PPO typically use?
+
+Ans- The range is [1 - ϵ, 1 + ϵ]
+
+(------------------------------------------------------------------------)
 
