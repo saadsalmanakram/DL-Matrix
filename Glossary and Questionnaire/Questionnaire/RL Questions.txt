@@ -1144,3 +1144,9 @@ Ans- By reducing gradient variance through techniques like baseline subtraction 
 
 (-------------------------------------------------------------------------)
 
+192- What is the main goal of Reinforcement Learning (RL)?
+
+Ans- To find the optimal policy π* that maximizes the expected cumulative reward.
+
+(-------------------------------------------------------------------------)
+
