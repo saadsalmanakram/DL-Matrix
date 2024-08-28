@@ -376,4 +376,10 @@ Ans- Policy-Based Methods involve learning a policy function directly, mapping s
 
 (-------------------------------------------------------------------------)
 
+64- What are the two types of policies in RL?
+
+Ans- The two types are Deterministic policies and Stochastic policies.
+
+(-------------------------------------------------------------------------)
+
 
