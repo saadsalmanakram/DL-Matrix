@@ -1402,3 +1402,8 @@ Ans- The Learning Environment contains the Unity scene and environment elements,
 
 (------------------------------------------------------------------------)
 
+235- What is the role of the Python Low-level API in Unity ML-Agents?
+
+Ans- The Python Low-level API is used for interacting with and manipulating the Unity environment during training.
+
+(------------------------------------------------------------------------)
