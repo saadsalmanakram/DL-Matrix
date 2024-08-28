@@ -100,3 +100,15 @@ Ans- An action is a decision or move made by the agent to interact with the envi
 
 (-------------------------------------------------------------------------)
 
+18- What is the reward in RL?
+
+Ans- A reward is the feedback from the environment, indicating how good or bad the agent's action was.
+
+(-------------------------------------------------------------------------)
+
+19- What does "next state" refer to in RL?
+
+Ans- The next state is the new condition of the environment after the agent has taken an action.
+
+(-------------------------------------------------------------------------)
+
