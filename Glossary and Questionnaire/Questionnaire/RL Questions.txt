@@ -1948,4 +1948,10 @@ Ans- Mean reward indicates the average performance of the agent, while std_rewar
 
 (------------------------------------------------------------------------)
 
+326- What is the significance of saving the VecNormalize statistics?
+
+Ans- Saving VecNormalize statistics ensures that normalization parameters are consistent during both training and evaluation phases.
+
+(------------------------------------------------------------------------)
+
 
