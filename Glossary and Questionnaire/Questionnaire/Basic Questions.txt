@@ -136,3 +136,9 @@ Ans- The action space is the set of all possible actions the agent can take in t
 
 (------------------------------------------------------------------------)
 
+24- What is the difference between discrete and continuous action spaces?
+
+Ans- Discrete action spaces have a finite set of actions, while continuous action spaces have an infinite number of possible actions.
+
+(------------------------------------------------------------------------)
+
