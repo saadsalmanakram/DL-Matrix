@@ -544,3 +544,9 @@ Ans- The goal is to learn an optimal policy that maximizes the expected return.
 
 (-------------------------------------------------------------------------)
 
+92- How does a policy function in value-based methods?
+
+Ans- In value-based methods, the policy is typically predefined, such as a greedy policy, and is not directly trained.
+
+(-------------------------------------------------------------------------)
+
