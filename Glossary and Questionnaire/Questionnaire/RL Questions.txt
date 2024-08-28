@@ -244,4 +244,10 @@ Ans- In episodic tasks, rewards are accumulated over episodes, while in continui
 
 (------------------------------------------------------------------------)
 
+42- What is the key challenge in continuing tasks?
+
+Ans- The key challenge is to maintain performance over an indefinite period without a clear end.
+
+(------------------------------------------------------------------------)
+
 
