@@ -496,4 +496,10 @@ Ans- Yes, Deep Q-Learning is widely used in real-world applications like robotic
 
 (-------------------------------------------------------------------------)
 
+84- What is the significance of the "value" in value-based RL algorithms?
+
+Ans- The "value" refers to the expected cumulative reward from taking a specific action in a given state.
+
+(-------------------------------------------------------------------------)
+
 
