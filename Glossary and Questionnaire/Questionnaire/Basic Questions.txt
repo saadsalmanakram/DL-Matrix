@@ -34,3 +34,9 @@ Ans- Learning is achieved through self-discovery, where the agent independently 
 
 (-------------------------------------------------------------------------)
 
+7- What is the ultimate goal of an agent in Reinforcement Learning?
+
+Ans- The ultimate goal is to maximize cumulative rewards over time by choosing the best actions.
+
+(-------------------------------------------------------------------------)
+
