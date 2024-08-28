@@ -1750,3 +1750,9 @@ Ans- Stable-Baselines3 provides implementations of various reinforcement learnin
 
 (------------------------------------------------------------------------)
 
+293- What kind of task might you train a robotic arm to perform using A2C?
+
+Ans- A robotic arm might be trained to move to a specific position or perform precise actions based on the learned policy.
+
+(------------------------------------------------------------------------)
+
