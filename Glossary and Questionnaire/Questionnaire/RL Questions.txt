@@ -1756,3 +1756,9 @@ Ans- A robotic arm might be trained to move to a specific position or perform pr
 
 (------------------------------------------------------------------------)
 
+294- What is the primary goal of the Reinforce algorithm?
+
+Ans- To adjust the probabilities of actions in a trajectory based on the return to maximize the likelihood of high-return actions.
+
+(------------------------------------------------------------------------)
+
