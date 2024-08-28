@@ -52,3 +52,9 @@ Ans- It uses algorithms and computations to mimic the natural learning process o
 
 (-------------------------------------------------------------------------)
 
+10- What kind of tasks can Reinforcement Learning solve?
+
+Ans- Reinforcement Learning is used to solve control tasks or decision problems, where an optimal series of actions needs to be determined.
+
+(-------------------------------------------------------------------------)
+
