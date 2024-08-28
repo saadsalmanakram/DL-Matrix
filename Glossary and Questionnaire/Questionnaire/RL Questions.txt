@@ -1666,5 +1666,11 @@ Ans- Yes, Curiosity can complement extrinsic rewards, helping agents explore mor
 
 (------------------------------------------------------------------------)
 
+279- What is the primary benefit of using Curiosity in RL?
+
+Ans- Curiosity enhances exploration by encouraging agents to seek out novel states, improving learning efficiency in complex environments.
+
+(------------------------------------------------------------------------)
+
 
 
