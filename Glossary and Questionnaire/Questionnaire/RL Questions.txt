@@ -1096,5 +1096,10 @@ Ans- A method to optimize the policy by calculating gradients of the expected re
 
 (-------------------------------------------------------------------------)
 
+184- What is the Monte Carlo Reinforce algorithm?
+
+Ans- A policy gradient algorithm that optimizes the policy by using Monte Carlo methods to estimate the gradients.
+
+(-------------------------------------------------------------------------)
 
 
