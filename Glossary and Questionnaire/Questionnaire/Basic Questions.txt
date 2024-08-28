@@ -10,3 +10,10 @@ Ans- An agent learns through trial and error by taking actions in an environment
 
 (-------------------------------------------------------------------------)
 
+3- Can you provide a real-world analogy for Reinforcement Learning?
+
+Ans- It’s like a child learning to play a video game: by trial and error, they figure out which actions lead to success and which to failure, improving over time.
+
+(-------------------------------------------------------------------------)
+
+
