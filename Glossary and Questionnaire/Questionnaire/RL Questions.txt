@@ -2134,3 +2134,9 @@ Ans- Like humans, agents start with opponents of similar skill and progress to s
 
 (------------------------------------------------------------------------)
 
+358- What is SoccerTwos?
+
+Ans- SoccerTwos is a 2vs2 soccer game environment created by Unity MLAgents for training and evaluating competitive agents.
+
+(------------------------------------------------------------------------)
+
