@@ -2188,3 +2188,9 @@ Ans- AI vs. AI is a tool for competing and ranking AI agents in multi-agent sett
 
 (------------------------------------------------------------------------)
 
+367- What is the purpose of the MA-POCA algorithm?
+
+Ans- MA-POCA provides centralized learning and decentralized execution to train cooperative behavior in multi-agent systems.
+
+(------------------------------------------------------------------------)
+
