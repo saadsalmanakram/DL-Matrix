@@ -424,4 +424,10 @@ Ans- Deep Reinforcement Learning (Deep RL) is the application of deep neural net
 
 (-------------------------------------------------------------------------)
 
+72- How does Deep Reinforcement Learning differ from classic Reinforcement Learning?
+
+Ans- Classic RL uses algorithms to create Q tables for decision-making, while Deep RL uses neural networks to approximate Q values.
+
+(-------------------------------------------------------------------------)
+
 
