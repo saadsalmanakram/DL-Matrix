@@ -1792,3 +1792,9 @@ Ans- Because of the stochasticity in the environment and the policy, leading to 
 
 (------------------------------------------------------------------------)
 
+300- What strategy is used to mitigate the high variance in the Reinforce algorithm?
+
+Ans- Increasing the number of trajectories to average out the variance and provide a more stable estimate of the return.
+
+(------------------------------------------------------------------------)
+
