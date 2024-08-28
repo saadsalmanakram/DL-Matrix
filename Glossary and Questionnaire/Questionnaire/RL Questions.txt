@@ -580,3 +580,9 @@ Ans- The state-value function evaluates the value of a state, while the action-v
 
 (-------------------------------------------------------------------------)
 
+98- Why is the Bellman equation important in value-based methods?
+
+Ans- The Bellman equation helps recursively compute the value function efficiently by breaking down the problem into smaller subproblems.
+
+(-------------------------------------------------------------------------)
+
