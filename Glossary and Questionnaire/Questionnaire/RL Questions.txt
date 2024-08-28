@@ -454,4 +454,16 @@ Ans- Deep Q-Learning is an extension of Q-Learning that uses a neural network in
 
 (-------------------------------------------------------------------------)
 
+77- Why might one choose Deep Q-Learning over traditional Q-Learning?
+
+Ans- Deep Q-Learning is preferred when dealing with large or continuous state spaces where Q tables become impractical.
+
+(-------------------------------------------------------------------------)
+
+78- What is a Q table in Q-Learning?
+
+Ans- A Q table is a lookup table that stores the expected rewards (Q values) for each state-action pair in Q-Learning.
+
+(-------------------------------------------------------------------------)
+
 
