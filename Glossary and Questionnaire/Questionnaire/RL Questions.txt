@@ -1990,4 +1990,10 @@ Ans- MARL helps autonomous vehicles learn to navigate safely and efficiently whi
 
 (------------------------------------------------------------------------)
 
+333- What are the key challenges for MARL in self-driving cars?
+
+Ans- Challenges include ensuring safe interactions with other vehicles, handling dynamic and unpredictable environments, and managing complex coordination among multiple vehicles.
+
+(------------------------------------------------------------------------)
+
 
