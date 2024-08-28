@@ -310,4 +310,10 @@ Ans- The goal is to maximize the expected cumulative reward over time by strateg
 
 (------------------------------------------------------------------------)
 
+53- What is an example of exploitation in the restaurant analogy?
+
+Ans- Consistently going to the same restaurant that you know provides a good experience.
+
+(------------------------------------------------------------------------)
+
 
