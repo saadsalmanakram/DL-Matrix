@@ -1894,4 +1894,10 @@ Ans- Actor-Critic methods typically have lower variance and can converge faster 
 
 (------------------------------------------------------------------------)
 
+317- How does the Actor-Critic method address the problem of high variance in policy gradient methods?
+
+Ans- By introducing a Critic that estimates the value function, which helps in reducing the variance of the policy gradient estimates.
+
+(------------------------------------------------------------------------)
+
 
