@@ -1066,5 +1066,11 @@ Ans- The policy is derived from the value function, typically by selecting actio
 
 (-------------------------------------------------------------------------)
 
+179- What is the main limitation of value-based methods?
+
+Ans- They rely on estimating value functions, which can be computationally expensive and challenging for complex environments.
+
+(-------------------------------------------------------------------------)
+
 
 
