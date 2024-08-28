@@ -1912,4 +1912,10 @@ Ans- A2C is a reinforcement learning algorithm that combines the advantages of b
 
 (------------------------------------------------------------------------)
 
+320- Why do we use the VecNormalize wrapper in reinforcement learning?
+
+Ans- VecNormalize normalizes observations and rewards to improve the training stability and performance of reinforcement learning agents.
+
+(------------------------------------------------------------------------)
+
 
