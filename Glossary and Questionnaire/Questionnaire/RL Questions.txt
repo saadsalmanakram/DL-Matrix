@@ -1786,3 +1786,9 @@ Ans- It introduces variability in the returns, leading to high variance in the e
 
 (------------------------------------------------------------------------)
 
+299- Why can the return starting at the same state vary significantly across episodes?
+
+Ans- Because of the stochasticity in the environment and the policy, leading to different trajectories and returns.
+
+(------------------------------------------------------------------------)
+
