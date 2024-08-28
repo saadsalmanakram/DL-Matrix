@@ -2272,4 +2272,10 @@ Ans- By using a clipped ratio to limit how much the policy can change.
 
 (------------------------------------------------------------------------)
 
+381- What is the purpose of the clipping mechanism in PPO?
+
+Ans- To prevent the current policy from deviating too far from the previous policy.
+
+(------------------------------------------------------------------------)
+
 
