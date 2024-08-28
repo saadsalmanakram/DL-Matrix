@@ -1024,5 +1024,11 @@ Ans- The Bellman equation is used to compute the Q-target by adding the reward t
 
 (-------------------------------------------------------------------------)
 
+172- How does random sampling from a replay buffer benefit Deep Q-Learning?
+
+Ans- It reduces the correlation between consecutive samples, preventing the network from overfitting to recent experiences.
+
+(-------------------------------------------------------------------------)
+
 
 
