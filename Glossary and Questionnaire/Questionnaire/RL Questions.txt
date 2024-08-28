@@ -2044,5 +2044,9 @@ Ans- Other agents are considered part of the environment, not other agents.
 
 (------------------------------------------------------------------------)
 
+342- Why might decentralized approaches not guarantee convergence?
 
+Ans- Because the environment is non-stationary as agents' policies evolve over time.
+
+(------------------------------------------------------------------------)
 
