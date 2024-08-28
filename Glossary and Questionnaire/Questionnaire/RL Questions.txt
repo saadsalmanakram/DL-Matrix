@@ -2290,3 +2290,15 @@ Ans- By calculating a ratio between the current and former policy.
 
 (------------------------------------------------------------------------)
 
+384- What does the proximal policy term in PPO refer to?
+
+Ans- It refers to the constraint that prevents the policy from moving too far from the old policy.
+
+(------------------------------------------------------------------------)
+
+385- Why is it important to avoid large policy updates in PPO?
+
+Ans- Large updates can lead to poor policies and make recovery difficult.
+
+(------------------------------------------------------------------------)
+
