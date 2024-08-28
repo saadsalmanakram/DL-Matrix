@@ -154,3 +154,9 @@ Ans- The discount rate (gamma) determines how much future rewards are valued com
 
 (------------------------------------------------------------------------)
 
+27- How does a high discount rate (gamma) affect an agent's behavior?
+
+Ans- A high gamma means the agent values long-term rewards more, leading to more future-oriented actions.
+
+(------------------------------------------------------------------------)
+
