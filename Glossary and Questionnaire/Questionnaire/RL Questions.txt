@@ -1816,3 +1816,9 @@ Ans- It involves balancing the bias of estimates (inaccurate but consistent) and
 
 (------------------------------------------------------------------------)
 
+304- What are some articles that discuss the bias-variance tradeoff in Deep Reinforcement Learning?
+
+Ans- "Making Sense of the Bias / Variance Trade-off in (Deep) Reinforcement Learning" and "Bias-variance Tradeoff in Reinforcement Learning."
+
+(------------------------------------------------------------------------)
+
