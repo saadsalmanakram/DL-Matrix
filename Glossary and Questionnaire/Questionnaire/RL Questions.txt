@@ -304,4 +304,10 @@ Ans- Excessive exploration could lead to missed opportunities to maximize known 
 
 (------------------------------------------------------------------------)
 
+52- In the context of RL, what is the goal of balancing exploration and exploitation?
+
+Ans- The goal is to maximize the expected cumulative reward over time by strategically exploring new possibilities and exploiting known rewards.
+
+(------------------------------------------------------------------------)
+
 
