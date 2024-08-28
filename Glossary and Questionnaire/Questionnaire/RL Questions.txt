@@ -202,4 +202,10 @@ Ans- An example of a continuing task is automated stock trading, where the agent
 
 (------------------------------------------------------------------------)
 
+35- How does the learning approach differ between episodic and continuing tasks?
+
+Ans- In episodic tasks, the agent learns based on episodes, while in continuing tasks, the agent continuously learns without an episode boundary.
+
+(------------------------------------------------------------------------)
+
 
