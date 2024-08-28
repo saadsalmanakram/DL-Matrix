@@ -538,3 +538,9 @@ Ans- Value-based methods train a value function to guide actions, while policy-b
 
 (-------------------------------------------------------------------------)
 
+91- What is the goal of a reinforcement learning agent?
+
+Ans- The goal is to learn an optimal policy that maximizes the expected return.
+
+(-------------------------------------------------------------------------)
+
