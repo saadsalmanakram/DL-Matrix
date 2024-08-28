@@ -514,4 +514,10 @@ Ans- Huggy is a Deep Reinforcement Learning environment by Hugging Face, based o
 
 (-------------------------------------------------------------------------)
 
+87- Which game engine is used to create the Huggy environment?
+
+Ans- The Huggy environment is created using the Unity game engine.
+
+(-------------------------------------------------------------------------)
+
 
