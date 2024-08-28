@@ -1288,6 +1288,12 @@ Ans- Policy-gradient methods often converge to a local maximum rather than findi
 
 (------------------------------------------------------------------------)
 
+216- Why might policy-gradient methods be considered less efficient in terms of training speed?
+
+Ans- They tend to progress slowly, taking small steps which can lead to longer training times.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
