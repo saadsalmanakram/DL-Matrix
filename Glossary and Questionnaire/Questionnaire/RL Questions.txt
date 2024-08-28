@@ -1924,3 +1924,9 @@ Ans- MARL involves training multiple agents simultaneously in a shared environme
 
 (------------------------------------------------------------------------)
 
+322- How does MARL differ from Single-Agent Reinforcement Learning?
+
+Ans- MARL involves multiple agents learning and making decisions in a shared environment, whereas Single-Agent Reinforcement Learning focuses on a single agent interacting with its environment.
+
+(------------------------------------------------------------------------)
+
