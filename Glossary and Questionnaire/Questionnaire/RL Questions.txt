@@ -1588,4 +1588,10 @@ Ans- It refers to situations where most rewards provide no information, often be
 
 (------------------------------------------------------------------------)
 
+266- Why is the reward hypothesis important in RL?
+
+Ans- The reward hypothesis posits that goals can be achieved by maximizing rewards, guiding agents' learning.
+
+(------------------------------------------------------------------------)
+
 
