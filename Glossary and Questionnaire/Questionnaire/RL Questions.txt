@@ -2068,4 +2068,10 @@ Ans- The environment is stationary since all agents follow a common policy.
 
 (------------------------------------------------------------------------)
 
+347- What information is used in a centralized approach to train the policy?
+
+Ans- The coverage map and positions of all the agents.
+
+(------------------------------------------------------------------------)
+
 
