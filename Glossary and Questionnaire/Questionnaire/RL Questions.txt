@@ -2206,3 +2206,9 @@ Ans- It includes ray-casts detecting objects like the ball, goals, walls, and ag
 
 (------------------------------------------------------------------------)
 
+370- What are the action space branches in SoccerTwos?
+
+Ans- The action space has three discrete branches for movement and actions.
+
+(------------------------------------------------------------------------)
+
