@@ -418,4 +418,10 @@ Ans- It means selecting actions that lead to states with the highest values base
 
 (-------------------------------------------------------------------------)
 
+71- What is Deep Reinforcement Learning?
+
+Ans- Deep Reinforcement Learning (Deep RL) is the application of deep neural networks to solve Reinforcement Learning problems.
+
+(-------------------------------------------------------------------------)
+
 
