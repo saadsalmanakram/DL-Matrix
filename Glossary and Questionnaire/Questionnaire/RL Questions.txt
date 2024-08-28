@@ -988,5 +988,11 @@ Ans- By maintaining a separate network for the target Q-values, which is updated
 
 (-------------------------------------------------------------------------)
 
+166- What problem does Double Deep Q-Learning solve?
+
+Ans- Double DQN addresses the overestimation of Q-values by decoupling action selection from Q-value estimation using two networks.
+
+(-------------------------------------------------------------------------)
+
 
 
