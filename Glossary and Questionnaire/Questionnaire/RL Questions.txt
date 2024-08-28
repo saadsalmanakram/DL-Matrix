@@ -1294,6 +1294,18 @@ Ans- They tend to progress slowly, taking small steps which can lead to longer t
 
 (------------------------------------------------------------------------)
 
+217- What challenge do policy-gradient methods face related to variance?
+
+Ans- They can have high variance in their estimates, leading to instability in learning.
+
+(------------------------------------------------------------------------)
+
+218- What is the goal of policy-gradient methods?
+
+Ans- To find parameters that maximize the expected return by controlling the probability distribution of actions.
+
+(------------------------------------------------------------------------)
+
 
 ​
  
