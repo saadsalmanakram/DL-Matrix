@@ -166,3 +166,9 @@ Ans- A low gamma means the agent values short-term rewards more, leading to acti
 
 (------------------------------------------------------------------------)
 
+29- What is a task in Reinforcement Learning?
+
+Ans- A task is an instance of a Reinforcement Learning problem where an agent interacts with an environment to achieve a goal.
+
+(------------------------------------------------------------------------)
+
