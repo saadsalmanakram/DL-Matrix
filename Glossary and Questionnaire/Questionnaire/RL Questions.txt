@@ -1906,4 +1906,10 @@ Ans- It requires accurate estimation of both the Q-value and state value functio
 
 (------------------------------------------------------------------------)
 
+319- What is the Advantage Actor-Critic (A2C) algorithm?
+
+Ans- A2C is a reinforcement learning algorithm that combines the advantages of both policy gradient and value-based methods by using an actor to propose actions and a critic to evaluate them.
+
+(------------------------------------------------------------------------)
+
 
