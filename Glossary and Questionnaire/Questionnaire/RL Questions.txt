@@ -1354,5 +1354,11 @@ Ans- It reformulates the objective function into a differentiable form that does
 
 (------------------------------------------------------------------------)
 
+227- What is the Reinforce algorithm?
+
+Ans- It is a Monte Carlo policy-gradient algorithm that uses the return from an entire episode to update the policy parameters.
+
+(------------------------------------------------------------------------)
+
 
  
