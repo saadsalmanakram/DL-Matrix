@@ -118,3 +118,15 @@ Ans- The Markov Property implies that the agent's decision depends only on the c
 
 (-------------------------------------------------------------------------)
 
+21- Why is the Markov Property important in RL?
+
+Ans- It simplifies the decision-making process by ensuring that only the current state is needed to make optimal decisions.
+
+(-------------------------------------------------------------------------)
+
+22- What is the difference between an observation and a state in RL?
+
+Ans- A state is a complete description of the environment, while an observation is a partial view of the state, common in partially observed environments.
+
+(------------------------------------------------------------------------)
+
