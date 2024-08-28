@@ -700,3 +700,9 @@ Ans- The value is the expected cumulative reward starting from a state, while th
 
 (------------------------------------------------------------------------)
 
+118- What is a Q-table?
+
+Ans- A Q-table is a data structure that stores the Q-values for each state-action pair, serving as the memory of the Q-function.
+
+(------------------------------------------------------------------------)
+
