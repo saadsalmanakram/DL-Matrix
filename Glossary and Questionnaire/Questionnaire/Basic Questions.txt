@@ -40,3 +40,9 @@ Ans- The ultimate goal is to maximize cumulative rewards over time by choosing t
 
 (-------------------------------------------------------------------------)
 
+8- How is trial and error utilized in Reinforcement Learning?
+
+Ans- The agent experiments with different actions, learns from the consequences, and improves its strategy to achieve better results.
+
+(-------------------------------------------------------------------------)
+
