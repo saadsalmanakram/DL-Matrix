@@ -3058,4 +3058,10 @@ Ans- DonkeyCar Simulator is a Unity-based platform for simulating self-driving c
 
 (---------------------------------------------------------------------)
 
+512- What is Alphastar?
+
+Ans- Alphastar is a Deep Reinforcement Learning agent developed by DeepMind for Starcraft II.
+
+(---------------------------------------------------------------------)
+
 
