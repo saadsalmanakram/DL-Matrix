@@ -2776,4 +2776,10 @@ Ans- They studied the scaling properties of reward model overoptimization in RLH
 
 (-----------------------------------------------------------------------)
 
+465- What does the NLPO algorithm propose as an alternative to PPO in RLHF?
+
+Ans- NLPO, discussed by Ramamurthy and Ammanabrolu et al. 2022, is a new algorithm designed to better optimize natural language policies in RLHF scenarios.
+
+(-----------------------------------------------------------------------)
+
 
