@@ -2446,5 +2446,11 @@ Ans- It clips the ratio to limit the update, ensuring controlled and stable poli
 
 (------------------------------------------------------------------------)
 
+410- What role does entropy play in the PPO objective function?
+
+Ans- The entropy bonus encourages exploration by penalizing certainty in action probabilities.
+
+(------------------------------------------------------------------------)
+
 
 
