@@ -2866,5 +2866,11 @@ Ans- The knowledge can help robots solve everyday tasks by understanding physica
 
 (-----------------------------------------------------------------------)
 
+480- What is a major limitation of agents that rely on LMs for knowledge?
+
+Ans- They often lack a learning method, preventing them from adapting to the environment or learning new skills.
+
+(-----------------------------------------------------------------------)
+
 
 
