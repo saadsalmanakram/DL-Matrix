@@ -2722,4 +2722,10 @@ Ans- They applied RLHF to learn preferences between Atari game trajectories, sho
 
 (-----------------------------------------------------------------------)
 
+456- What advancement did Deep TAMER bring to RLHF?
+
+Ans- Deep TAMER extended the TAMER framework by incorporating deep neural networks for reward prediction in high-dimensional spaces.
+
+(-----------------------------------------------------------------------)
+
 
