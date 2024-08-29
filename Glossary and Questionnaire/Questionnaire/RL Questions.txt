@@ -2578,6 +2578,12 @@ Ans- The idea that all goals can be described as the maximization of the expecte
 
 (------------------------------------------------------------------------)
 
+432- How do Deep RL agents collect experience?
+
+Ans- By interacting with the environment, either directly in an online setting or from a pre-collected dataset in an offline setting.
+
+(-----------------------------------------------------------------------)
+
 
 
 
