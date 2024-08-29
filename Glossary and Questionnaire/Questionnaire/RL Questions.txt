@@ -2452,5 +2452,11 @@ Ans- The entropy bonus encourages exploration by penalizing certainty in action 
 
 (------------------------------------------------------------------------)
 
+411- How does the PPO algorithm balance exploration and exploitation?
+
+Ans- By combining clipped objective functions with an entropy bonus, PPO maintains a balance between exploring new actions and exploiting known ones.
+
+(------------------------------------------------------------------------)
+
 
 
