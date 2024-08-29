@@ -2614,6 +2614,12 @@ Ans- A storage system where past experiences are saved and later used to update 
 
 (-----------------------------------------------------------------------)
 
+438- Why is the concept of cumulative reward important in RL?
+
+Ans- It serves as the measure of success for an RL agent, guiding its learning process to maximize long-term gains.
+
+(-----------------------------------------------------------------------)
+
 
 
 
