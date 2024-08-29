@@ -2926,5 +2926,11 @@ Ans- Curriculum Learning is an approach where an RL agent learns through a seque
 
 (----------------------------------------------------------------------)
 
+490- Why is Curriculum Learning needed in RL?
+
+Ans- It is needed when tasks are too difficult for the agent to learn directly, requiring incremental skill acquisition or when there is environmental variability that the agent must adapt to.
+
+(----------------------------------------------------------------------)
+
 
 
