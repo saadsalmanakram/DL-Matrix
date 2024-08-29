@@ -3004,3 +3004,9 @@ Ans- Prioritized Level Replay involves selectively replaying certain levels or t
 
 (---------------------------------------------------------------------)
 
+503- How can Automatic Curriculum Learning impact the robustness of RL agents?
+
+Ans- ACL can improve the robustness of RL agents by systematically exposing them to a variety of scenarios, enabling better generalization.
+
+(---------------------------------------------------------------------)
+
