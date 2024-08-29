@@ -3052,4 +3052,10 @@ Ans- MineRL offers yearly challenges that focus on learning from human gameplay 
 
 (---------------------------------------------------------------------)
 
+511- What is DonkeyCar Simulator?
+
+Ans- DonkeyCar Simulator is a Unity-based platform for simulating self-driving cars controlled by trained models.
+
+(---------------------------------------------------------------------)
+
 
