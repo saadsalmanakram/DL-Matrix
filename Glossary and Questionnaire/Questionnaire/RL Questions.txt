@@ -2830,4 +2830,10 @@ Ans- The Decision Transformer models the entire trajectory (sequence of states, 
 
 (-----------------------------------------------------------------------)
 
+474- What is Offline Reinforcement Learning, and how does it relate to Decision Transformers?
+
+Ans- Offline Reinforcement Learning involves training policies from a fixed dataset of trajectories without further interaction with the environment. Decision Transformers apply this concept by training on offline data to generate desired action sequences.
+
+(-----------------------------------------------------------------------)
+
 
