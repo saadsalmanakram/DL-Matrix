@@ -2368,4 +2368,16 @@ Ans- It ensures that the final objective function is a lower bound on the unclip
 
 (------------------------------------------------------------------------)
 
+397- What is the Clipped Surrogate Objective Functions in PPO?
+
+Ans- It is a function that limits the change in policy updates to avoid large policy deviations during training.
+
+(------------------------------------------------------------------------)
+
+398- Why is the Clipped Surrogate Objective important in PPO?
+
+Ans- It ensures stable learning by restricting how much the new policy can deviate from the old one.
+
+(------------------------------------------------------------------------)
+
 
