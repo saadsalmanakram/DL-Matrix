@@ -2482,5 +2482,11 @@ Ans- The dynamics model predicts the environment’s transition dynamics, helpin
 
 (------------------------------------------------------------------------)
 
+416- How does the agent use the dynamics model in MBRL?
+
+Ans- The agent uses the model to simulate and predict future outcomes, guiding its decision-making process.
+
+(------------------------------------------------------------------------)
+
 
 
