@@ -2962,4 +2962,16 @@ Ans- OpenAI used Domain Randomization to train a robot hand to solve a Rubik’s
 
 (---------------------------------------------------------------------)
 
+496- What is the main goal of Automatic Curriculum Learning?
+
+Ans- The main goal is to optimize the training process by automatically selecting tasks that are appropriate for the agent’s current skill level.
+
+(---------------------------------------------------------------------)
+
+497- What is the TeachMyAgent benchmark?
+
+Ans- TeachMyAgent is a benchmark that allows users to experiment with agent robustness by controlling environmental variations.
+
+(---------------------------------------------------------------------)
+
 
