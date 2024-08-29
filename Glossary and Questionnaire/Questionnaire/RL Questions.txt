@@ -2572,6 +2572,12 @@ Ans- MBRL can be applied in robotics, autonomous systems, and other areas where 
 
 (------------------------------------------------------------------------)
 
+431- What is the reward hypothesis in RL?
+
+Ans- The idea that all goals can be described as the maximization of the expected cumulative reward.
+
+(------------------------------------------------------------------------)
+
 
 
 
