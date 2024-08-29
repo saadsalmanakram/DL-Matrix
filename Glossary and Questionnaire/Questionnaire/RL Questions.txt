@@ -2626,6 +2626,12 @@ Ans- Autonomous driving, where the vehicle learns to navigate by interacting wit
 
 (-----------------------------------------------------------------------)
 
+440- What is the advantage of using a simulator in online RL?
+
+Ans- It allows the agent to explore and learn in a controlled environment, reducing the risks associated with real-world trials.
+
+(-----------------------------------------------------------------------)
+
 
 
 
