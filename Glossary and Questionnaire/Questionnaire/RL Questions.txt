@@ -2548,6 +2548,12 @@ Ans- Actions are selected based on their predicted outcomes using the learned dy
 
 (------------------------------------------------------------------------)
 
+427- What role does sample-based MPC play in MBRL?
+
+Ans- It optimizes the expected reward over a finite horizon using actions sampled from a distribution.
+
+(------------------------------------------------------------------------)
+
 
 
 
