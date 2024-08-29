@@ -2602,6 +2602,12 @@ Ans- The counterfactual queries problem, where the agent may encounter situation
 
 (-----------------------------------------------------------------------)
 
+436- Why might offline RL be preferred over online RL?
+
+Ans- It avoids the need for real-time interaction with the environment, which can be complex, costly, and insecure.
+
+(-----------------------------------------------------------------------)
+
 
 
 
