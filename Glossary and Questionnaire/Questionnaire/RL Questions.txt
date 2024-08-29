@@ -2938,5 +2938,11 @@ Ans- It's useful in scenarios where an agent needs to learn complex behaviors (e
 
 (----------------------------------------------------------------------)
 
+492- What is Automatic Curriculum Learning (ACL)?
+
+Ans- ACL refers to mechanisms that automatically adapt the distribution of training tasks based on the RL agent’s capabilities to maximize performance.
+
+(---------------------------------------------------------------------)
+
 
 
