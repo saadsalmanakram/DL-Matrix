@@ -2686,3 +2686,16 @@ Ans- RLHF helps align AI model behavior with human values and preferences, espec
 
 (-----------------------------------------------------------------------)
 
+450- What challenge does RLHF address in machine learning?
+
+Ans- RLHF addresses the difficulty of modeling inherently subjective human preferences in machine learning.
+
+(-----------------------------------------------------------------------)
+
+451- What is the role of human feedback in RLHF?
+
+Ans- Human feedback is used to guide the learning process, typically by providing rewards or preferences that shape the model's behavior.
+
+(-----------------------------------------------------------------------)
+
+
