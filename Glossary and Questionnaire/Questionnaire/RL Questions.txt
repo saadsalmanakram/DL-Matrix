@@ -2902,4 +2902,11 @@ Ans- It combines the world knowledge of LMs with the adaptive learning of RL, po
 
 (----------------------------------------------------------------------)
 
+486- Why do RL agents often exhibit unexpected behaviors from a human perspective?
+
+Ans- RL agents learn from scratch, which can lead to behaviors that don't align with human expectations.
+
+(----------------------------------------------------------------------)
+
+
 
