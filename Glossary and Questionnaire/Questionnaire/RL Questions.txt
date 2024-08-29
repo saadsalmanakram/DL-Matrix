@@ -2782,4 +2782,10 @@ Ans- NLPO, discussed by Ramamurthy and Ammanabrolu et al. 2022, is a new algorit
 
 (-----------------------------------------------------------------------)
 
+466- What is a Decision Transformer model?
+
+Ans- A Decision Transformer abstracts Reinforcement Learning (RL) as a conditional-sequence modeling problem, using a Transformer to generate future actions based on desired returns, past states, and actions.
+
+(-----------------------------------------------------------------------)
+
 
