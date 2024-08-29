@@ -2620,6 +2620,12 @@ Ans- It serves as the measure of success for an RL agent, guiding its learning p
 
 (-----------------------------------------------------------------------)
 
+439- Can you give an example of a real-world application of Deep RL?
+
+Ans- Autonomous driving, where the vehicle learns to navigate by interacting with its environment and receiving rewards based on safety and efficiency.
+
+(-----------------------------------------------------------------------)
+
 
 
 
