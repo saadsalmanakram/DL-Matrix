@@ -2746,4 +2746,10 @@ Ans- RLHF is employed to teach WebGPT how to navigate the web and provide accura
 
 (-----------------------------------------------------------------------)
 
+460- How does InstructGPT utilize RLHF?
+
+Ans- InstructGPT uses RLHF to train language models to follow instructions more effectively, enhancing user interaction.
+
+(-----------------------------------------------------------------------)
+
 
