@@ -2488,5 +2488,11 @@ Ans- The agent uses the model to simulate and predict future outcomes, guiding i
 
 (------------------------------------------------------------------------)
 
+417- What is the Markov Decision Process (MDP) in the context of MBRL?
+
+Ans- An MDP is a mathematical framework for modeling decision-making, where the next state depends on the current state and action.
+
+(------------------------------------------------------------------------)
+
 
 
