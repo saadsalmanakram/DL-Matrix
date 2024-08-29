@@ -2680,4 +2680,9 @@ Ans- RLHF is a method of integrating human feedback into reinforcement learning 
 
 (-----------------------------------------------------------------------)
 
+449- Why is RLHF important in AI models?
+
+Ans- RLHF helps align AI model behavior with human values and preferences, especially when these preferences cannot be easily encoded in rules.
+
+(-----------------------------------------------------------------------)
 
