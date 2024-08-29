@@ -2434,5 +2434,11 @@ Ans- When the minimum is the clipped objective part, resulting in a zero gradien
 
 (------------------------------------------------------------------------)
 
+408- What does a positive advantage indicate in PPO?
+
+Ans- The action is better than the average, so the policy should increase its probability.
+
+(------------------------------------------------------------------------)
+
 
 
