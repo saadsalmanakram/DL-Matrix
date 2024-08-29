@@ -2428,5 +2428,11 @@ Ans- PPO takes the minimum of the two to balance exploration and exploitation wh
 
 (------------------------------------------------------------------------)
 
+407- In which situation does PPO not update the policy weights?
+
+Ans- When the minimum is the clipped objective part, resulting in a zero gradient.
+
+(------------------------------------------------------------------------)
+
 
 
