@@ -2416,4 +2416,11 @@ Ans- The PPO objective combines the Clipped Surrogate Objective, Value Loss, and
 
 (------------------------------------------------------------------------)
 
+405- What is the advantage of using a Clipped Surrogate Objective in reinforcement learning?
+
+Ans- It reduces the risk of catastrophic performance drops by constraining policy updates.
+
+(------------------------------------------------------------------------)
+
+
 
