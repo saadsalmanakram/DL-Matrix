@@ -2506,5 +2506,11 @@ Ans- The agent collects more data from interactions with the environment, refini
 
 (------------------------------------------------------------------------)
 
+420- What is Model-Predictive Control (MPC) in the context of MBRL?
+
+Ans- MPC is a control strategy where the agent uses the learned dynamics model to optimize actions over a finite horizon.
+
+(------------------------------------------------------------------------)
+
 
 
