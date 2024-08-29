@@ -2818,4 +2818,10 @@ Ans- The Decision Transformer uses a Transformer, which is typically used in seq
 
 (-----------------------------------------------------------------------)
 
+472- What does it mean that the Decision Transformer is an autoregressive model?
+
+Ans- It means the model generates each future action sequentially, conditioned on the previously predicted actions, states, and the desired return.
+
+(-----------------------------------------------------------------------)
+
 
