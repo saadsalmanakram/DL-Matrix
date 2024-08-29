@@ -2674,4 +2674,10 @@ Ans- Policy similarity embeddings are used to improve generalization by capturin
 
 (-----------------------------------------------------------------------)
 
+448- What is Reinforcement Learning from Human Feedback (RLHF)?
+
+Ans- RLHF is a method of integrating human feedback into reinforcement learning to optimize model performance according to human preferences.
+
+(-----------------------------------------------------------------------)
+
 
