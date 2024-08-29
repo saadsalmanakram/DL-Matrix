@@ -2536,5 +2536,10 @@ Ans- MBRL can potentially require fewer interactions with the environment compar
 
 (------------------------------------------------------------------------)
 
+425- What are some challenges associated with MBRL?
+
+Ans- Learning an accurate dynamics model can be complex, and errors in the model can lead to poor decision-making.
+
+(------------------------------------------------------------------------)
 
 
