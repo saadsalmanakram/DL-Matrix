@@ -2878,5 +2878,11 @@ Ans- RL can correct and align the knowledge from LMs by interacting with the env
 
 (-----------------------------------------------------------------------)
 
+482- What is one of the main inefficiencies in the traditional RL setup?
+
+Ans- Traditional RL often suffers from sample inefficiency, where learning from scratch requires a large number of trials.
+
+(-----------------------------------------------------------------------)
+
 
 
