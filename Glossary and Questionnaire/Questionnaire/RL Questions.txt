@@ -2518,5 +2518,11 @@ Ans- It is a common approach to training the dynamics model by making its predic
 
 (------------------------------------------------------------------------)
 
+422- What kind of models can be used in MBRL besides environment transition dynamics?
+
+Ans- Inverse dynamics models (mapping states to actions) and reward models (predicting rewards).
+
+(------------------------------------------------------------------------)
+
 
 
