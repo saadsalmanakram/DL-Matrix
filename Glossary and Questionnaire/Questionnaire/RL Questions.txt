@@ -2440,5 +2440,11 @@ Ans- The action is better than the average, so the policy should increase its pr
 
 (------------------------------------------------------------------------)
 
+409- How does PPO handle situations where the probability ratio is significantly different from the previous policy?
+
+Ans- It clips the ratio to limit the update, ensuring controlled and stable policy changes.
+
+(------------------------------------------------------------------------)
+
 
 
