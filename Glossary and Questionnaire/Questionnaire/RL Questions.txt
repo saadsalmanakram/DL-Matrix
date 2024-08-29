@@ -2632,6 +2632,12 @@ Ans- It allows the agent to explore and learn in a controlled environment, reduc
 
 (-----------------------------------------------------------------------)
 
+441- What are the benefits of using batches of experience in Deep RL?
+
+Ans- They enable more stable and efficient learning by allowing the agent to update its policy with multiple experiences simultaneously.
+
+(-----------------------------------------------------------------------)
+
 
 
 
