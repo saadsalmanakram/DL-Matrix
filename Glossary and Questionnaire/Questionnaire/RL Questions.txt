@@ -2884,5 +2884,16 @@ Ans- Traditional RL often suffers from sample inefficiency, where learning from 
 
 (-----------------------------------------------------------------------)
 
+483- How does grounding LMs with RL improve their performance?
+
+Ans- Grounding LMs with RL using techniques like PPO enables faster adaptation and better generalization to new tasks.
+
+(----------------------------------------------------------------------)
+
+484- What are the limitations of using LMs in RL-based agents?
+
+Ans- Limitations include the need to convert observations to text and the high computational cost of interacting with large LMs.
+
+(----------------------------------------------------------------------)
 
 
