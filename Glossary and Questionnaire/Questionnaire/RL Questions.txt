@@ -2992,3 +2992,9 @@ Ans- This method evolves the curriculum based on the agent’s performance, adju
 
 (---------------------------------------------------------------------)
 
+501- How does "Curriculum Reinforcement Learning via Constrained Optimal Transport" work?
+
+Ans- This approach optimizes the curriculum by transporting learning tasks in a way that respects the agent's capabilities and constraints.
+
+(---------------------------------------------------------------------)
+
