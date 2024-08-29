@@ -2980,4 +2980,15 @@ Ans- In Self-Play, the RL agent learns by competing against itself, and the curr
 
 (---------------------------------------------------------------------)
 
+499- How can environment variation be used in Curriculum Learning?
+
+Ans- Environment variation can be controlled to present the agent with tasks of varying difficulty, aiding in robust skill acquisition.
+
+(---------------------------------------------------------------------)
+
+500- What is the significance of "Evolving Curricula with Regret-Based Environment Design"?
+
+Ans- This method evolves the curriculum based on the agent’s performance, adjusting the environment to minimize regret and improve learning efficiency.
+
+(---------------------------------------------------------------------)
 
