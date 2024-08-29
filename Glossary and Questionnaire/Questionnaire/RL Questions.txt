@@ -2908,5 +2908,11 @@ Ans- RL agents learn from scratch, which can lead to behaviors that don't align 
 
 (----------------------------------------------------------------------)
 
+487- What is a key advantage of aligning LMs with RL for task generalization?
+
+Ans- The knowledge from LMs allows for better generalization to new tasks after alignment with RL.
+
+(----------------------------------------------------------------------)
+
 
 
