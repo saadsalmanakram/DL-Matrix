@@ -2380,4 +2380,10 @@ Ans- It ensures stable learning by restricting how much the new policy can devia
 
 (------------------------------------------------------------------------)
 
+399- What happens when the probability ratio is between [1-ϵ, 1+ϵ]?
+
+Ans- The clipping does not apply, and the policy is updated based on the advantage estimate.
+
+(------------------------------------------------------------------------)
+
 
