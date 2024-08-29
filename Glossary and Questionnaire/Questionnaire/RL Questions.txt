@@ -2554,6 +2554,12 @@ Ans- It optimizes the expected reward over a finite horizon using actions sample
 
 (------------------------------------------------------------------------)
 
+428- What is the impact of an inaccurate dynamics model in MBRL?
+
+Ans- An inaccurate model can lead to suboptimal or incorrect decisions, negatively affecting the agent's performance.
+
+(------------------------------------------------------------------------)
+
 
 
 
