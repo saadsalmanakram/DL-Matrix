@@ -2752,4 +2752,10 @@ Ans- InstructGPT uses RLHF to train language models to follow instructions more 
 
 (-----------------------------------------------------------------------)
 
+461- What does the GopherCite model demonstrate about RLHF?
+
+Ans- GopherCite shows that RLHF can be used to train models to provide answers with verifiable citations, improving trustworthiness.
+
+(-----------------------------------------------------------------------)
+
 
