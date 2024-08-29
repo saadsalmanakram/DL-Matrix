@@ -2956,4 +2956,10 @@ Ans- Domain Randomization involves applying random variations to the environment
 
 (---------------------------------------------------------------------)
 
+495- Can you give an example of a real-world application of Domain Randomization?
+
+Ans- OpenAI used Domain Randomization to train a robot hand to solve a Rubik’s Cube by exposing it to various environment conditions.
+
+(---------------------------------------------------------------------)
+
 
