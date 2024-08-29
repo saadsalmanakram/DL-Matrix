@@ -2716,4 +2716,10 @@ Ans- COACH uses both positive and negative human feedback to adjust the advantag
 
 (-----------------------------------------------------------------------)
 
+455- What was the focus of Christiano et al.'s 2017 paper on RLHF?
+
+Ans- They applied RLHF to learn preferences between Atari game trajectories, showcasing the potential of RLHF in gaming.
+
+(-----------------------------------------------------------------------)
+
 
