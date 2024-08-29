@@ -2542,4 +2542,12 @@ Ans- Learning an accurate dynamics model can be complex, and errors in the model
 
 (------------------------------------------------------------------------)
 
+426- How does the agent select actions in MBRL?
+
+Ans- Actions are selected based on their predicted outcomes using the learned dynamics model, often via Model-Predictive Control.
+
+(------------------------------------------------------------------------)
+
+
+
 
