@@ -2422,5 +2422,11 @@ Ans- It reduces the risk of catastrophic performance drops by constraining polic
 
 (------------------------------------------------------------------------)
 
+406- Why does PPO use both clipped and unclipped objectives?
+
+Ans- PPO takes the minimum of the two to balance exploration and exploitation while preventing large policy shifts.
+
+(------------------------------------------------------------------------)
+
 
 
