@@ -2524,5 +2524,11 @@ Ans- Inverse dynamics models (mapping states to actions) and reward models (pred
 
 (------------------------------------------------------------------------)
 
+423- How does MBRL facilitate better decision-making than MFRL?
+
+Ans- By predicting future states and rewards, MBRL allows the agent to plan more effectively.
+
+(------------------------------------------------------------------------)
+
 
 
