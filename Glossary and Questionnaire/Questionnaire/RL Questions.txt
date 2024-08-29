@@ -2398,4 +2398,10 @@ Ans- The policy decreases the probability of taking that action to avoid over-re
 
 (------------------------------------------------------------------------)
 
+402- Why is the gradient zero when the probability ratio is clipped?
+
+Ans- The gradient becomes zero because the objective is flattened, preventing further policy updates.
+
+(------------------------------------------------------------------------)
+
 
