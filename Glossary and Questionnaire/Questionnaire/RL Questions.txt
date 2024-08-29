@@ -2698,4 +2698,10 @@ Ans- Human feedback is used to guide the learning process, typically by providin
 
 (-----------------------------------------------------------------------)
 
+452- How does RLHF differ from traditional reinforcement learning?
+
+Ans- Unlike traditional RL, which relies solely on predefined reward functions, RLHF incorporates human input to define or adjust the reward function.
+
+(-----------------------------------------------------------------------)
+
 
