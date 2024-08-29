@@ -2608,6 +2608,12 @@ Ans- It avoids the need for real-time interaction with the environment, which ca
 
 (-----------------------------------------------------------------------)
 
+437- What is a replay buffer in the context of Deep RL?
+
+Ans- A storage system where past experiences are saved and later used to update the agent's policy, enabling more efficient learning.
+
+(-----------------------------------------------------------------------)
+
 
 
 
