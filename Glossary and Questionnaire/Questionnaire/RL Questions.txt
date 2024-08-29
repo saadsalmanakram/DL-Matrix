@@ -2788,4 +2788,10 @@ Ans- A Decision Transformer abstracts Reinforcement Learning (RL) as a condition
 
 (-----------------------------------------------------------------------)
 
+467- Who introduced the Decision Transformer model?
+
+Ans- The Decision Transformer model was introduced by Chen L. et al. in the paper “Decision Transformer: Reinforcement Learning via Sequence Modeling.”
+
+(-----------------------------------------------------------------------)
+
 
