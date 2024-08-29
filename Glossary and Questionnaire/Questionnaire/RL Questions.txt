@@ -2638,6 +2638,17 @@ Ans- They enable more stable and efficient learning by allowing the agent to upd
 
 (-----------------------------------------------------------------------)
 
+442- What is generalization in Reinforcement Learning?
+
+Ans- Generalization in RL refers to the ability of an RL algorithm to perform well on unseen tasks or environments that are similar but not identical to the ones it was trained on.
+
+(-----------------------------------------------------------------------)
+
+443- Why is generalization important in RL?
+
+Ans- Generalization is crucial because real-world environments are non-stationary and unpredictable, requiring RL algorithms to adapt to new, unseen scenarios.
+
+(-----------------------------------------------------------------------)
 
 
 
