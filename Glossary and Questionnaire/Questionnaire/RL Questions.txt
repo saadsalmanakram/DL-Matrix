@@ -2494,5 +2494,11 @@ Ans- An MDP is a mathematical framework for modeling decision-making, where the 
 
 (------------------------------------------------------------------------)
 
+418- What is the reward function in MBRL?
+
+Ans- It assigns a reward to each state-action pair, guiding the agent towards desirable outcomes.
+
+(------------------------------------------------------------------------)
+
 
 
