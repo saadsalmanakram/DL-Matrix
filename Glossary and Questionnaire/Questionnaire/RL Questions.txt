@@ -2530,5 +2530,11 @@ Ans- By predicting future states and rewards, MBRL allows the agent to plan more
 
 (------------------------------------------------------------------------)
 
+424- What is the key advantage of using MBRL?
+
+Ans- MBRL can potentially require fewer interactions with the environment compared to MFRL, as it uses the model to simulate outcomes.
+
+(------------------------------------------------------------------------)
+
 
 
