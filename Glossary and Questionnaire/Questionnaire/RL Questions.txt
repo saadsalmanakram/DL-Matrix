@@ -2590,6 +2590,12 @@ Ans- Online RL involves agents collecting and learning from experience in real-t
 
 (-----------------------------------------------------------------------)
 
+434- What are the challenges of training an agent in an online RL setting?
+
+Ans- The need for a simulator or real-world environment, which can be complex, expensive, and potentially insecure if the simulator has flaws.
+
+(-----------------------------------------------------------------------)
+
 
 
 
