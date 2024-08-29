@@ -2512,5 +2512,11 @@ Ans- MPC is a control strategy where the agent uses the learned dynamics model t
 
 (------------------------------------------------------------------------)
 
+421- What is the significance of minimizing the negative log-likelihood in MBRL?
+
+Ans- It is a common approach to training the dynamics model by making its predictions as accurate as possible.
+
+(------------------------------------------------------------------------)
+
 
 
