@@ -2656,5 +2656,11 @@ Ans- The real world presents non-stationary and open-ended environments, making 
 
 (-----------------------------------------------------------------------)
 
+445- What does it mean for an RL algorithm to transfer and adapt?
+
+Ans- Transfer and adaptation in RL mean that an algorithm can apply learned knowledge to new tasks or environments that are different from the training scenarios but share underlying similarities.
+
+(-----------------------------------------------------------------------)
+
 
 
