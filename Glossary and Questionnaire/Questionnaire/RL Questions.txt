@@ -2464,5 +2464,17 @@ Ans- MBRL is a framework where an agent learns a model of the environment's dyna
 
 (------------------------------------------------------------------------)
 
+413- How does MBRL differ from Model-Free Reinforcement Learning (MFRL)?
+
+Ans- MBRL involves learning a dynamics model of the environment, which fundamentally alters decision-making compared to MFRL.
+
+(------------------------------------------------------------------------)
+
+414- What is the primary component learned in MBRL that is not typically learned in MFRL?
+
+Ans- A dynamics model, which predicts future states based on current states and actions.
+
+(------------------------------------------------------------------------)
+
 
 
