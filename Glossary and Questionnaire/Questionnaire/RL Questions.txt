@@ -2662,5 +2662,10 @@ Ans- Transfer and adaptation in RL mean that an algorithm can apply learned know
 
 (-----------------------------------------------------------------------)
 
+446- Why is the non-stationary nature of real-world environments a challenge for RL?
+
+Ans- Non-stationary environments constantly change, making it hard for RL algorithms trained in static environments to maintain their effectiveness.
+
+(-----------------------------------------------------------------------)
 
 
