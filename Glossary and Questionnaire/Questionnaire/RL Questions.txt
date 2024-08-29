@@ -2770,4 +2770,10 @@ Ans- RLHF was crucial in training ChatGPT to be a versatile and reliable chatbot
 
 (-----------------------------------------------------------------------)
 
+464- What did Gao et al. 2022 study in relation to RLHF?
+
+Ans- They studied the scaling properties of reward model overoptimization in RLHF, analyzing how model performance changes with size.
+
+(-----------------------------------------------------------------------)
+
 
