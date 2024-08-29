@@ -2392,4 +2392,10 @@ Ans- The policy increases the probability of taking that action since it is unde
 
 (------------------------------------------------------------------------)
 
+401- What is the behavior when the ratio is above [1+ϵ] and the advantage is negative?
+
+Ans- The policy decreases the probability of taking that action to avoid over-representation.
+
+(------------------------------------------------------------------------)
+
 
