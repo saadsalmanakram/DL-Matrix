@@ -2566,6 +2566,12 @@ Ans- To explore a diverse range of possible actions and avoid local optima.
 
 (------------------------------------------------------------------------)
 
+430- How does MBRL relate to real-world applications?
+
+Ans- MBRL can be applied in robotics, autonomous systems, and other areas where model learning and predictive control are beneficial.
+
+(------------------------------------------------------------------------)
+
 
 
 
