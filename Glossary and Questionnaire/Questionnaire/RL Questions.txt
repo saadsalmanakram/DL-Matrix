@@ -2794,4 +2794,10 @@ Ans- The Decision Transformer model was introduced by Chen L. et al. in the pape
 
 (-----------------------------------------------------------------------)
 
+468- How does the Decision Transformer differ from traditional RL methods?
+
+Ans- Instead of maximizing returns via value function-based policies, Decision Transformers generate action sequences to achieve a specified return using a sequence modeling approach.
+
+(-----------------------------------------------------------------------)
+
 
