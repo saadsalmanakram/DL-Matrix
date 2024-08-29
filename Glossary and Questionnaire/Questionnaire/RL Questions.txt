@@ -2950,5 +2950,10 @@ Ans- Unlike traditional Curriculum Learning, where tasks are manually designed, 
 
 (---------------------------------------------------------------------)
 
+494- What is Domain Randomization in the context of ACL?
+
+Ans- Domain Randomization involves applying random variations to the environment to help the RL agent become robust across a wide range of scenarios.
+
+(---------------------------------------------------------------------)
 
 
