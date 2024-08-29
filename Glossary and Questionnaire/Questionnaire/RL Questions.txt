@@ -3016,3 +3016,16 @@ Ans- DIAMBRA Arena is a software package that provides high-quality environments
 
 (---------------------------------------------------------------------)
 
+505- Which operating systems does DIAMBRA Arena support?
+
+Ans- DIAMBRA Arena supports Linux, Windows, and MacOS.
+
+(---------------------------------------------------------------------)
+
+506- What types of tasks does DIAMBRA Arena offer?
+
+Ans- It offers episodic Reinforcement Learning tasks with discrete actions and screen pixel observations.
+
+(---------------------------------------------------------------------)
+
+
