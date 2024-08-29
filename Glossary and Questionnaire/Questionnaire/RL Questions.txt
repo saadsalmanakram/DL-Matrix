@@ -2668,4 +2668,10 @@ Ans- Non-stationary environments constantly change, making it hard for RL algori
 
 (-----------------------------------------------------------------------)
 
+447- What role do policy similarity embeddings play in RL generalization?
+
+Ans- Policy similarity embeddings are used to improve generalization by capturing the similarities between different policies, aiding the transfer of knowledge across tasks.
+
+(-----------------------------------------------------------------------)
+
 
