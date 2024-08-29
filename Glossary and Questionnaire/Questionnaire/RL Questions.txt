@@ -2806,4 +2806,10 @@ Ans- It uses an autoregressive model to predict future actions conditioned on a 
 
 (-----------------------------------------------------------------------)
 
+470- How does the Decision Transformer approach RL problems?
+
+Ans- It approaches RL by modeling the joint distribution of states, actions, and rewards, and generating actions that meet a pre-defined return rather than optimizing for maximum cumulative rewards.
+
+(-----------------------------------------------------------------------)
+
 
