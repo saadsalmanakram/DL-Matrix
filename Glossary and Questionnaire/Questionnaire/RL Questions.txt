@@ -2734,4 +2734,10 @@ Ans- They explored the impact of reward learning on specific tasks by fine-tunin
 
 (-----------------------------------------------------------------------)
 
+458- How is RLHF applied in the task of summarizing text?
+
+Ans- RLHF is used to train models to generate summaries that align with human preferences, as demonstrated in the work by Stiennon et al., 2020.
+
+(-----------------------------------------------------------------------)
+
 
