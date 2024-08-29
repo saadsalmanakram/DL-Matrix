@@ -3028,4 +3028,10 @@ Ans- It offers episodic Reinforcement Learning tasks with discrete actions and s
 
 (---------------------------------------------------------------------)
 
+507- Which types of learning can be explored using DIAMBRA Arena?
+
+Ans- It supports Standard RL, Competitive Multi-Agent, Competitive Human-Agent, Self-Play, Imitation Learning, and Human-in-the-Loop.
+
+(---------------------------------------------------------------------)
+
 
