@@ -2872,5 +2872,11 @@ Ans- They often lack a learning method, preventing them from adapting to the env
 
 (-----------------------------------------------------------------------)
 
+481- How can Reinforcement Learning (RL) synergize with LMs?
+
+Ans- RL can correct and align the knowledge from LMs by interacting with the environment, leading to better adaptation and generalization.
+
+(-----------------------------------------------------------------------)
+
 
 
