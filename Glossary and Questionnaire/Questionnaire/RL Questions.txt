@@ -2854,5 +2854,11 @@ Ans- LMs encode useful knowledge by training on massive text corpora, which allo
 
 (-----------------------------------------------------------------------)
 
+478- What are some of the impressive abilities that LMs exhibit when manipulating text?
+
+Ans- LMs exhibit abilities like question-answering and step-by-step reasoning.
+
+(-----------------------------------------------------------------------)
+
 
 
