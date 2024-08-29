@@ -2458,5 +2458,11 @@ Ans- By combining clipped objective functions with an entropy bonus, PPO maintai
 
 (------------------------------------------------------------------------)
 
+412- What is Model-Based Reinforcement Learning (MBRL)?
+
+Ans- MBRL is a framework where an agent learns a model of the environment's dynamics and uses this model to make decisions.
+
+(------------------------------------------------------------------------)
+
 
 
