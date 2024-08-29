@@ -2800,4 +2800,10 @@ Ans- Instead of maximizing returns via value function-based policies, Decision T
 
 (-----------------------------------------------------------------------)
 
+469- What is the main idea behind the Decision Transformer?
+
+Ans- It uses an autoregressive model to predict future actions conditioned on a desired return, past states, and actions, shifting the paradigm from conventional RL to generative trajectory modeling.
+
+(-----------------------------------------------------------------------)
+
 
