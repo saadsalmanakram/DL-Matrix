@@ -2500,5 +2500,11 @@ Ans- It assigns a reward to each state-action pair, guiding the agent towards de
 
 (------------------------------------------------------------------------)
 
+419- How does an agent in MBRL improve its model over time?
+
+Ans- The agent collects more data from interactions with the environment, refining its dynamics model.
+
+(------------------------------------------------------------------------)
+
 
 
