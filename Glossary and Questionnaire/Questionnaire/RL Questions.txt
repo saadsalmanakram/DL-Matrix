@@ -2728,4 +2728,10 @@ Ans- Deep TAMER extended the TAMER framework by incorporating deep neural networ
 
 (-----------------------------------------------------------------------)
 
+457- What was a key contribution of the Zieglar et al. 2019 paper?
+
+Ans- They explored the impact of reward learning on specific tasks by fine-tuning language models using human preferences.
+
+(-----------------------------------------------------------------------)
+
 
