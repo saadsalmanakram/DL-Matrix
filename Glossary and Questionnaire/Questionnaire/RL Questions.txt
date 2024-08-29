@@ -2386,4 +2386,10 @@ Ans- The clipping does not apply, and the policy is updated based on the advanta
 
 (------------------------------------------------------------------------)
 
+400- How does PPO handle a positive advantage when the ratio is below [1-ϵ]?
+
+Ans- The policy increases the probability of taking that action since it is under-represented.
+
+(------------------------------------------------------------------------)
+
 
