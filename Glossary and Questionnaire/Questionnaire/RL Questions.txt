@@ -2596,6 +2596,12 @@ Ans- The need for a simulator or real-world environment, which can be complex, e
 
 (-----------------------------------------------------------------------)
 
+435- What is the main drawback of offline reinforcement learning?
+
+Ans- The counterfactual queries problem, where the agent may encounter situations for which there is no data in the offline dataset.
+
+(-----------------------------------------------------------------------)
+
 
 
 
