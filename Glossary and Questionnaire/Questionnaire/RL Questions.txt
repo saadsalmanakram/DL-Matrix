@@ -2740,4 +2740,10 @@ Ans- RLHF is used to train models to generate summaries that align with human pr
 
 (-----------------------------------------------------------------------)
 
+459- What is the role of RLHF in the WebGPT model?
+
+Ans- RLHF is employed to teach WebGPT how to navigate the web and provide accurate answers, guided by human feedback.
+
+(-----------------------------------------------------------------------)
+
 
