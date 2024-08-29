@@ -2476,5 +2476,11 @@ Ans- A dynamics model, which predicts future states based on current states and 
 
 (------------------------------------------------------------------------)
 
+415- What is the role of the dynamics model in MBRL?
+
+Ans- The dynamics model predicts the environment’s transition dynamics, helping the agent plan future actions.
+
+(------------------------------------------------------------------------)
+
 
 
