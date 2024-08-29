@@ -2764,4 +2764,10 @@ Ans- RLHF fine-tunes dialogue agents to improve their alignment with human judgm
 
 (-----------------------------------------------------------------------)
 
+463- What is the significance of RLHF in the development of ChatGPT?
+
+Ans- RLHF was crucial in training ChatGPT to be a versatile and reliable chatbot by optimizing it for dialogue through human feedback.
+
+(-----------------------------------------------------------------------)
+
 
