@@ -2944,5 +2944,11 @@ Ans- ACL refers to mechanisms that automatically adapt the distribution of train
 
 (---------------------------------------------------------------------)
 
+493- How does Automatic Curriculum Learning differ from traditional Curriculum Learning?
+
+Ans- Unlike traditional Curriculum Learning, where tasks are manually designed, ACL automatically adjusts and organizes tasks based on the agent's progress.
+
+(---------------------------------------------------------------------)
+
 
 
