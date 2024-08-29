@@ -2758,4 +2758,10 @@ Ans- GopherCite shows that RLHF can be used to train models to provide answers w
 
 (-----------------------------------------------------------------------)
 
+462- How does RLHF contribute to the alignment of dialogue agents like Sparrow?
+
+Ans- RLHF fine-tunes dialogue agents to improve their alignment with human judgments, making interactions more natural and safe.
+
+(-----------------------------------------------------------------------)
+
 
