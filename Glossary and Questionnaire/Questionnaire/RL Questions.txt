@@ -2998,3 +2998,9 @@ Ans- This approach optimizes the curriculum by transporting learning tasks in a 
 
 (---------------------------------------------------------------------)
 
+502- What is Prioritized Level Replay in ACL?
+
+Ans- Prioritized Level Replay involves selectively replaying certain levels or tasks that are most beneficial for the agent’s learning.
+
+(---------------------------------------------------------------------)
+
