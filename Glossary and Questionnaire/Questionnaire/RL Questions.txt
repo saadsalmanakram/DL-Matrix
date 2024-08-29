@@ -3040,4 +3040,10 @@ Ans- It is compatible with Stable Baselines 3 and Ray RLlib.
 
 (---------------------------------------------------------------------)
 
+509- What is MineRL?
+
+Ans- MineRL is a Python library that provides a Gym interface for interacting with the video game Minecraft and includes datasets of human gameplay.
+
+(---------------------------------------------------------------------)
+
 
