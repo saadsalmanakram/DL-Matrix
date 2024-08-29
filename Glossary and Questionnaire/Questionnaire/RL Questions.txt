@@ -3046,4 +3046,10 @@ Ans- MineRL is a Python library that provides a Gym interface for interacting wi
 
 (---------------------------------------------------------------------)
 
+510- What unique challenges does MineRL offer?
+
+Ans- MineRL offers yearly challenges that focus on learning from human gameplay datasets.
+
+(---------------------------------------------------------------------)
+
 
