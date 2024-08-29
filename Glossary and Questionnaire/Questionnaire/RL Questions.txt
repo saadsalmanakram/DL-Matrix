@@ -2974,4 +2974,10 @@ Ans- TeachMyAgent is a benchmark that allows users to experiment with agent robu
 
 (---------------------------------------------------------------------)
 
+498- What is the role of Self-Play in Curriculum Learning?
+
+Ans- In Self-Play, the RL agent learns by competing against itself, and the curriculum is adjusted by modifying the difficulty of its opponents.
+
+(---------------------------------------------------------------------)
+
 
