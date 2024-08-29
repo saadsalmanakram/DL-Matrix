@@ -2932,5 +2932,11 @@ Ans- It is needed when tasks are too difficult for the agent to learn directly, 
 
 (----------------------------------------------------------------------)
 
+491- What are some scenarios where Curriculum Learning is especially useful?
+
+Ans- It's useful in scenarios where an agent needs to learn complex behaviors (e.g., a bipedal agent learning to walk) or adapt to varying environments.
+
+(----------------------------------------------------------------------)
+
 
 
