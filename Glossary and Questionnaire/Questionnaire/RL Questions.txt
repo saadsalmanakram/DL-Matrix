@@ -2404,4 +2404,10 @@ Ans- The gradient becomes zero because the objective is flattened, preventing fu
 
 (------------------------------------------------------------------------)
 
+403- How does the Clipped Surrogate Objective contribute to PPO's stability?
+
+Ans- It prevents drastic policy changes by clipping the probability ratio, leading to more stable updates.
+
+(------------------------------------------------------------------------)
+
 
