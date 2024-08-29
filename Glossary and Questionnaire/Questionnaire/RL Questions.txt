@@ -2704,4 +2704,10 @@ Ans- Unlike traditional RL, which relies solely on predefined reward functions, 
 
 (-----------------------------------------------------------------------)
 
+453- What was the significance of the TAMER framework in RLHF?
+
+Ans- TAMER introduced the concept of using human-provided scores iteratively to train an agent, laying the groundwork for RLHF.
+
+(-----------------------------------------------------------------------)
+
 
