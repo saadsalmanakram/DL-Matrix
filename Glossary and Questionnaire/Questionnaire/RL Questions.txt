@@ -2824,4 +2824,10 @@ Ans- It means the model generates each future action sequentially, conditioned o
 
 (-----------------------------------------------------------------------)
 
+473- How is the Decision Transformer related to generative trajectory modeling?
+
+Ans- The Decision Transformer models the entire trajectory (sequence of states, actions, rewards) as a generative process to achieve a target return, differing from traditional RL that focuses on value functions.
+
+(-----------------------------------------------------------------------)
+
 
