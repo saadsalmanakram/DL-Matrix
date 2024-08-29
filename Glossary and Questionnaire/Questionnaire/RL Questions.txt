@@ -2896,4 +2896,10 @@ Ans- Limitations include the need to convert observations to text and the high c
 
 (----------------------------------------------------------------------)
 
+485- Limitations include the need to convert observations to text and the high computational cost of interacting with large LMs.
+
+Ans- It combines the world knowledge of LMs with the adaptive learning of RL, potentially leading to more efficient and robust agents.
+
+(----------------------------------------------------------------------)
+
 
