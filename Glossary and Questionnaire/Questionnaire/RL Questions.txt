@@ -2650,5 +2650,11 @@ Ans- Generalization is crucial because real-world environments are non-stationar
 
 (-----------------------------------------------------------------------)
 
+444- What challenges does the real world present to RL algorithms?
+
+Ans- The real world presents non-stationary and open-ended environments, making it difficult for RL algorithms to maintain consistent performance.
+
+(-----------------------------------------------------------------------)
+
 
 
