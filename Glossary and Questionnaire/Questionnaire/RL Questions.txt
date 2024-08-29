@@ -2410,4 +2410,10 @@ Ans- It prevents drastic policy changes by clipping the probability ratio, leadi
 
 (------------------------------------------------------------------------)
 
+404- What are the three components of the PPO objective function?
+
+Ans- The PPO objective combines the Clipped Surrogate Objective, Value Loss, and Entropy Bonus.
+
+(------------------------------------------------------------------------)
+
 
