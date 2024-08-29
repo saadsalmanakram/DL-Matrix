@@ -2710,4 +2710,10 @@ Ans- TAMER introduced the concept of using human-provided scores iteratively to 
 
 (-----------------------------------------------------------------------)
 
+454- How does the COACH algorithm utilize human feedback?
+
+Ans- COACH uses both positive and negative human feedback to adjust the advantage function in an actor-critic framework.
+
+(-----------------------------------------------------------------------)
+
 
