@@ -2836,4 +2836,10 @@ Ans- Offline Reinforcement Learning involves training policies from a fixed data
 
 (-----------------------------------------------------------------------)
 
+475- How does the Decision Transformer model benefit from using the Transformer architecture?
+
+Ans- The Transformer architecture's ability to model long-range dependencies and sequential data makes it effective for predicting future actions based on past information in RL tasks.
+
+(-----------------------------------------------------------------------)
+
 
