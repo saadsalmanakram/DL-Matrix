@@ -2584,6 +2584,12 @@ Ans- By interacting with the environment, either directly in an online setting o
 
 (-----------------------------------------------------------------------)
 
+433- What is the difference between online and offline reinforcement learning?
+
+Ans- Online RL involves agents collecting and learning from experience in real-time, whereas offline RL uses a static dataset collected from other agents or human demonstrations.
+
+(-----------------------------------------------------------------------)
+
 
 
 
