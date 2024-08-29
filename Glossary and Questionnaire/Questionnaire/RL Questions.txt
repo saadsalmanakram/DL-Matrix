@@ -2560,6 +2560,12 @@ Ans- An inaccurate model can lead to suboptimal or incorrect decisions, negative
 
 (------------------------------------------------------------------------)
 
+429- Why might an agent use a uniform distribution U(a) for sampling actions in MPC?
+
+Ans- To explore a diverse range of possible actions and avoid local optima.
+
+(------------------------------------------------------------------------)
+
 
 
 
