@@ -2914,5 +2914,17 @@ Ans- The knowledge from LMs allows for better generalization to new tasks after 
 
 (----------------------------------------------------------------------)
 
+488- How does integrating LMs with RL address sample inefficiency?
+
+Ans- The pre-existing knowledge in LMs enables faster learning, reducing the number of samples required in RL.
+
+(----------------------------------------------------------------------)
+
+489- What is Curriculum Learning in RL?
+
+Ans- Curriculum Learning is an approach where an RL agent learns through a sequence of increasingly difficult tasks to progressively acquire skills.
+
+(----------------------------------------------------------------------)
+
 
 
