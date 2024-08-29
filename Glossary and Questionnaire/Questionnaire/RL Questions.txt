@@ -2812,4 +2812,10 @@ Ans- It approaches RL by modeling the joint distribution of states, actions, and
 
 (-----------------------------------------------------------------------)
 
+471- What type of model is used in the Decision Transformer?
+
+Ans- The Decision Transformer uses a Transformer, which is typically used in sequence modeling tasks, repurposed for generating action sequences in RL.
+
+(-----------------------------------------------------------------------)
+
 
