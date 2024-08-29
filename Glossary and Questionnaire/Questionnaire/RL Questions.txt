@@ -2842,4 +2842,9 @@ Ans- The Transformer architecture's ability to model long-range dependencies and
 
 (-----------------------------------------------------------------------)
 
+476- What problem does the Decision Transformer aim to solve in RL?
+
+Ans- It aims to replace conventional RL algorithms by modeling the sequence of actions needed to achieve a desired return, providing a new approach to policy generation.
+
+(-----------------------------------------------------------------------)
 
