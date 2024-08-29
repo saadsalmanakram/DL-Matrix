@@ -3010,3 +3010,9 @@ Ans- ACL can improve the robustness of RL agents by systematically exposing them
 
 (---------------------------------------------------------------------)
 
+504- What is DIAMBRA Arena?
+
+Ans- DIAMBRA Arena is a software package that provides high-quality environments for Reinforcement Learning research using arcade emulated video games.
+
+(---------------------------------------------------------------------)
+
